@@ -19,3 +19,5 @@ Diameter at breast height for cottonwood trees<br>
 Water quality on the Rio Grande<br>
 Pressure transducer data from the shallow riparian aquifer<br>
 Temperature data logger<br>
+
+<img src="https://github.com/BEMPscience/bemp_data/blob/master/images/sev_poster_graphical_abstract.png" width=75% height=75%>
