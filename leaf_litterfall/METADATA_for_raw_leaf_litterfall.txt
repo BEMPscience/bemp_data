@@ -1,0 +1,116 @@
+Creator
+Bosque Ecosystem Monitoring Program
+
+Title
+Leaf litterfall data from 1997-2017
+
+Publisher
+Bosque Ecosystem Monitoring Program
+
+Publication Year
+2020
+
+Purpose
+
+This dataset is useful in evaluating net primary productivity, native and exotic species composition, and can provide early indicators of plant stress before mortality occurs (eg, leaf drop in summer).
+
+Files
+bemp_raw_leaf_litterfall_1997_2017.csv this is the raw by tub data
+* bemp_mean_leaf_litterfall_1997_2017.csv this is likely the file you will want for analysis.
+
+Data
+
+site Site numbers for BEMP research sites. In order of when sites were added.
+year Year the data was collected.
+month Month the data was collected.
+day Day the day was collected.	
+tub Letter of the leaf litterfall tub the data was gathered from.	
+cw  Cottonwood leaf litterfall in g/m2
+cw_prev_year Cottonwood leaf litterfall identified as leaves from previous years in g/m2
+will Willow leaf litterfall. Combines both Coyote and Goodling's willow in g/m2.
+seep Seep willow leaf litterfall in g/m2
+nmol New Mexico Olive leaf litterfall in g/m2
+thcr Ticket creeper leaf litterfall in g/m2
+indbu Indigo bush leaf litterfall in g/m2
+sc Saltcedar leaf litterfall in g/m2
+ro Russian olive leaf litterfall in g/m2
+elm Siberian elm leaf litterfall in g/m2
+mul Mulberry leaf litterfall in g/m2
+repcw Total cottonwood reproductive parts in g/m2
+repwil Total willow reproductive parts in g/m2
+repro Total russian olive reproductive parts in g/m2
+repelm Total siberian elm reproductive parts in g/m2
+repsc Total saltcedar reproductive parts in g/m2
+repoth Total willow reproductive parts in g/m2
+othplan	Total other or unidentified plant material in g/m2
+wood Total down woody debris in g/m2 (twigs to whole trees)
+totalwt	Total weight of all leaf litterfall in g/m2
+totalrepro Total weight of all reproductive parts in g/m2
+sumindwts Double check of all weights in g/m2
+totalwt.indwts	Checks the difference between total and indwts in g/m2 
+native Total of all native leaf litterfall in g/m2 
+exotic Total of all exotic leaf litterfall in g/m2
+total_productivity Total of native and exotic leaf litterfall	
+site_name The names of the BEMP research sites.
+site_lat Lattiude measured from Google maps from the center of the site. Currently being updated with cm-scale GPS.
+site_long Longitude measured from Google maps from the center of the site. Currently being updated with cm-scale GPS.
+NA represents missing data not zero.
+
+DATA COLLECTION
+Litterfall Monitoring 
+
+    Locate tubs using the site map.  
+
+    At each tub, place the paper bag (labeled with the site name, date of collection including the year, and tub letter) into the center of your tub.  
+
+    Pick up the plant and woody material and place it into the bag.  
+
+    Pick out the small pieces of plant material from the dirt and place those into your bag. If you must, pick up the tub to empty the contents into the bag. Note: BEMP staffers can decide when not to include a leaf from the tub, such as one that is obviously not from the current year and has blown in – is decomposed or very lacy from being eaten. 
+
+    When there is a stick lying across the tub, break off ends that are outside of the tub area and only include portions that fall within the perimeter of the tub. If there is a large stick that cannot be broken at the edges of the tub, mark the edges of where it lies across your tub using a Sharpie. Label the portion of the stick that was inside the tub with the site name, tub letter and collection date.  
+
+    Do not include any vegetation that is still connected to the ground but falling over the tub, even if it is a plant that is dead. If it is still connected to the ground, do not pull or break it.  
+
+    If a tumbleweed has blown into the tub, remove that from the tub – do not collect this.  
+
+    Record on data form that each tub was emptied and note if any tubs were unusual (moved, turned upside down, missing, replaced, etc.) 
+
+QA/QC
+
+Procedure 
+
+    Ensure that each site is present for all twelve months of the year. If the data are completely missing, there should be rows with periods in all the blanks and an explanation as to why the data are missing in the DatasheetNotes column (can be as simple as “not collected”). 
+
+    Search for zeros in the total weight column. If the sum of individual weights > 0, enter that value in the total weight column.  
+
+    Use the total weight column as a check for the reliability of the lab work (the sum of individual category weights will be used for formal analysis). If the difference between the sum of the individual weights and total weight is greater than 0.3, use the following rules: 
+
+FLAG DATA IF: 
+
+    Total weight and the sum of individual category weights are off by >0.3g and ≤1.0g 
+
+    Total weight is > 10 g, AND  
+
+    within 5% of the sum of individual weights, OR  
+
+    the weight of wood OR cottonwood leaves comprises about 50% or more of the sum of individual weights. In samples with large amounts of wood or cottonwood leaves, it is difficult to center the entire sample on the scale and drastically different readings can be obtained, but the sum of individual weights would typically still be reliable. 
+
+    The sum of individual weights is less than the total weight AND the discrepancy is between 0.5 – 2g, then count the number of categories with a non-zero number. Flag if some or all of the non-zero categories can be rounded up by 0.1 to resolve the discrepancy. 
+
+OTHERWISE, remove the data to a “removed data” tab. 
+
+ 
+
+    Highlight all the data and do a search for nothing in all the cells. For any empty cells, enter a period for the missing data. 
+
+    Do a search for two periods (..) to ensure that this typo does not exist in the dataset. 
+
+    Search the comments for missing bags/collections/etc. Ensure that all categories on these lines are filled with periods instead of zeros. 
+
+    Read through comments for anything unusual and ensure that no improper QA/QC was performed. 
+
+    When all issues have been solved for an entire year’s worth of data, append the individual year’s data to the bottom of the master file (copy/paste) 
+
+    Update the metadata tab of the master file with the date of update, the new date range of the dataset, and, if applicable, review the entire metadata tab to ensure that all information is still accurate. 
+
+
