@@ -55,7 +55,7 @@ litterfall$date <- as.Date( paste( litterfall$month, litterfall$day,
                                        litterfall$year,
                                        sep = "." ), format = "%m.%d.%Y" )
 # Transform data to g/m^2
-tub_area_function <- function(x) {(x/0.13)} # liiterfall tubs are 0.13 square meters.
+tub_area_function <- function(x) {round((x/0.13),2)} # liiterfall tubs are 0.13 square meters.
 litterfall <- mutate_at(litterfall, vars(cw:totalwt.indwts),
                         list(tub_area_function))
 head(litterfall)
@@ -93,20 +93,20 @@ as_tibble(litterfall_site_info)
 # This does all the hard works of taking the mean of the data from the group_by variables.
 monthly_litterfall_means <- litterfall_site_info %>% group_by(date, site, site_name, site_lat, site_long, 
                                                 month, year) %>% 
-  summarise(mean_productivity = mean(total_productivity, na.rm = TRUE), 
-            cw = mean(cw, na.rm = TRUE),
-            will = mean(will, na.rm = TRUE),
-            ro = mean(ro, na.rm = TRUE),
-            sc = mean(sc, na.rm = TRUE),
-            elm = mean(elm, ra.rm = TRUE),
-            seep = mean(seep, na.rm = TRUE),
-            nmol = mean(nmol, na.rm = TRUE),
-            thcr = mean(thcr, na.rm = TRUE),
-            indbu = mean(indbu, na.rm = TRUE),
-            woody = mean(wood, na.rm = TRUE),
-            total_weight = mean(totalwt, na.rm = TRUE),
-            natives = mean(native, na.rm = TRUE),
-            exotics = mean(exotic, na.rm = TRUE))
+  summarise(mean_productivity = round(mean(total_productivity, na.rm = TRUE),2), 
+            cw = round(mean(cw, na.rm = TRUE),2),
+            will = round(mean(will, na.rm = TRUE),2),
+            ro = round(mean(ro, na.rm = TRUE),2),
+            sc = round(mean(sc, na.rm = TRUE),2),
+            elm = round(mean(elm, ra.rm = TRUE),2),
+            seep = round(mean(seep, na.rm = TRUE),2),
+            nmol = round(mean(nmol, na.rm = TRUE),2),
+            thcr = round(mean(thcr, na.rm = TRUE),2),
+            indbu = round(mean(indbu, na.rm = TRUE),2),
+            woody = round(mean(wood, na.rm = TRUE),2),
+            total_weight = round(mean(totalwt, na.rm = TRUE),2),
+            natives = round(mean(native, na.rm = TRUE),2),
+            exotics = round(mean(exotic, na.rm = TRUE),2))
 
 monthly_litterfall_means
 
