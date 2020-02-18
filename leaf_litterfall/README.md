@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/234429705.svg)](https://zenodo.org/badge/latestdoi/234429705)
+
 ## Leaf litterfall data for the riparian floodplain of the Rio Grande. 
 
 Click on the csv you want to download then right click on the raw button to save as a csv. 
