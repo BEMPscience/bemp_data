@@ -4,7 +4,7 @@
 
 Click on the csv you want to download then right click on the raw button to save as a csv. 
 
-<img src="https://github.com/BEMPscience/bemp_data/blob/master/leaf_litterfall/images/master_litterfall_data_viz.png" width=100% height=100%>
+
 
 ### Purpose
 Precipitation is monitored using two gauges, one located in an open area and one under the forest canopy. Oil is placed in the gauge to limit loss of water to evaporation. 
