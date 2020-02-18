@@ -1,0 +1,29 @@
+Creator
+Bosque Ecosystem Monitoring Program
+
+Title
+Precipitation data from 1997-2017
+
+Publisher
+Bosque Ecosystem Monitoring Program
+
+Publication Year 
+2020
+
+Purpose
+Five wells at each site are used to measure depth to groundwater, which play a critical role in cottonwood and other vegetation health and are also important to understanding water cycle and evapotranspiration dynamics. 
+
+Files
+bemp_precipitation_montly_data_1997_to_2017.csv - the comma seperated data
+
+Data
+site Site numbers for BEMP research sites. In order of when sites were added.	
+ppt_canopy Precipitation from the gauge underneath the canopy.	
+ppt_open Precipitation from the gauge in the open.
+year Year the data was collected.
+month	Month the data was collected.
+day Day the data was collected. 
+site_name The names of the BEMP research sites.
+site_lat Lattiude measured from Google maps from the center of the site. Currently being updated with cm-scale GPS.
+site_long Longitude measured from Google maps from the center of the site. Currently being updated with cm-scale GPS.
+
