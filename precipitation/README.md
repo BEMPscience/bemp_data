@@ -7,7 +7,7 @@ Click on the csv you want to download then right click on the raw button to save
 
 
 ### Purpose
-Precipitation is monitored using two gauges, one located in an open area and one under the forest canopy. Oil is placed in the gauge to limit loss of water to evaporation. 
+This dataset is useful for determining local saturation vs. dryness which impacts potential fire hazard, water availability for non-phreatophytic plants, and shifting in timing and amount of precipitation due to climate change.
 
 ### Creator
 Bosque Ecosystem Monitoring Program
