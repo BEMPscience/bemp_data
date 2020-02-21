@@ -4,7 +4,7 @@
 
 Click on the csv you want to download then right click on the raw button to save as a csv. 
 
-<img src="https://github.com/BEMPscience/bemp_data/blob/master/precipitation/images/fancy_precip.png" width=100% height=100%>
+<img src="https://github.com/BEMPscience/bemp_data/blob/master/precipitation/images/fancy_precip.png" width=75% height=75%>
 
 ### Purpose
 This dataset is useful for determining local saturation vs. dryness which impacts potential fire hazard, water availability for non-phreatophytic plants, and shifting in timing and amount of precipitation due to climate change.
