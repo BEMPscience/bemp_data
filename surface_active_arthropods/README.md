@@ -4,7 +4,7 @@
 
 Click on the csv you want to download then right click on the raw button to save as a csv. 
 
-<img src="" width=100% height=100%>
+
 
 ### Purpose
 The 20 pitfall traps at each site are used to measure surface active arthropod activity. The presence, absence, abundance, and diversity of particular arthropods provide supporting data on the ecological condition of each site. 
