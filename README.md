@@ -1,6 +1,6 @@
 # BEMP community science data
 
-[![DOI](https://zenodo.org/badge/234429705.svg)](https://zenodo.org/badge/latestdoi/234429705)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3697197.svg)](https://doi.org/10.5281/zenodo.3697197)
 
 Community Science, Education, and Stewardship: Equitable and inclusive hands-on student research essential to the management of the Rio Grande ecosystem.
 
