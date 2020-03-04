@@ -24,7 +24,7 @@ Temperature data logger<br>
 
 <img src="https://github.com/BEMPscience/bemp_data/blob/master/images/sev_poster_graphical_abstract.png" width=75% height=75%>
 
-Citing these data: BEMP. (2020, February 21). BEMPscience/bemp_data: BEMP Core Community Science Data - Riparian floodplain (Version v0.3). Zenodo. http://doi.org/10.5281/zenodo.3678705 <br>
+Citing these data: BEMP. (2020, March 4). BEMPscience/bemp_data: BEMP Core Community Science Data - Riparian floodplain (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3697197 <br>
 
 BEMP is a partnership between Bosque School, Sevilleta Long Term Ecological Research Station, and the University of New Mexico. 
 
