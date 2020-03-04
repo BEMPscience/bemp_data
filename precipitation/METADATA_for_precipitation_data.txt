@@ -11,7 +11,7 @@ Publication Year
 2020
 
 Purpose
-Five wells at each site are used to measure depth to groundwater, which play a critical role in cottonwood and other vegetation health and are also important to understanding water cycle and evapotranspiration dynamics. 
+Riparian areas are tightly connected to groudnwater and river discharge. However, precipitation events can lead to flood pulses and non-phreatophytes and facultative phreatophytes benefit from precipitation inputs.
 
 Files
 bemp_precipitation_montly_data_1997_to_2017.csv - the comma seperated data
