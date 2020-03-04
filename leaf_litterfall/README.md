@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/234429705.svg)](https://zenodo.org/badge/latestdoi/234429705)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3697197.svg)](https://doi.org/10.5281/zenodo.3697197)
 
 ## Leaf litterfall data for the riparian floodplain of the Rio Grande. 
 
