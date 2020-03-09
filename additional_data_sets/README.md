@@ -10,7 +10,7 @@ Water quality on the Rio Grande<br>
 Pressure transducer data from the shallow riparian aquifer<br>
 Temperature data logger<br>
 
-Citing these data: BEMP. (2020, February 21). BEMPscience/bemp_data: BEMP Core Community Science Data - Riparian floodplain (Version v0.3). Zenodo. http://doi.org/10.5281/zenodo.3678705 <br>
+Citing these data: BEMP. (2020, February 21). BEMPscience/bemp_data: BEMP Core Community Science Data - Riparian floodplain (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3678705 <br>
 
 <img align="right" img src="https://github.com/BEMPscience/bemp_data/blob/master/images/new-bemp-logo-faded-outline.png"
 width=10% height=10%>
