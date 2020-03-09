@@ -1,6 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3697197.svg)](https://doi.org/10.5281/zenodo.3697197)
 
-
 ## Additional data sets collect by BEMP on the riparian floodplain of the Rio Grande
 
 BEMP also collects the following data sets:<br>
