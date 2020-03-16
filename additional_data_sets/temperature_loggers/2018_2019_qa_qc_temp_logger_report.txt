@@ -1,0 +1,76 @@
+2018-2019 BEMP Temperature data logger QA/QC check
+
+12 Sites
+Alameda
+RGNC
+Los Lunas
+Belen
+Santa Ana
+Savannah
+Lemitar 
+Rt 66
+BioPark
+Mesilla
+AOP
+SLO
+
+Number of NA data points
+canopy_C	7438
+canopy_sub_C	36418
+open_sub_C	42630
+
+Temperature loggers that died
+Santa Ana - Open Subsurface
+Savannah - Canopy Subsurface
+State Land Office - Open Subsurface
+Los Lunas - Canopy Sub
+Mesilla - Open Sub
+Belen - Open Sub
+BioPark - Open Sub
+
+Number of NA data points by site - canopy C
+Belen	0
+Savannah	0
+Alameda	0
+AOP           0
+BioPark	1
+Lemitar	0
+Los Lunas	1
+Mesilla	7435
+RGNC	0
+Rt 66	0
+Santa Ana	0
+SLO	1
+
+Number of NA data points by site - canopy sub C
+Belen	0
+Savannah	9571
+Alameda	0
+AOP	0
+BioPark	0
+Lemitar	0
+Los Lunas	9215
+Mesilla	7439
+RGNC	0
+Rt 66	0
+Santa Ana	0
+SLO	10193
+
+Number of NA data points by site - open sub C
+Belen	8469
+Savannah	0
+Alameda	0
+AOP	0
+BioPark	8517
+Lemitar	0
+Los Lunas	0
+Mesilla	14874
+RGNC	0
+Rt 66	0
+Santa Ana	10770
+SLO	0
+
+Number of data points outside of 3 SD from z-scored data
+canopy_C	1
+canopy_sub_C	29
+open_sub_C	7
