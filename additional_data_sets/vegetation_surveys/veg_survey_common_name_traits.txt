@@ -1,0 +1,421 @@
+species	Common name	WETLAND indicator	Life form	native to NM	Duration
+ABVI	trailing windmills	WF	forb	native	Perennial
+ACHY	Indian rice grass	DO	grass	native	Perennial
+ADS			forb
+AG			grass
+AGGI2	redtop	WF	grass	introduced	Perennial
+AGOSE	agoseris	F 	forb	native	(2 perennial, 1 annual)
+AGROS2	bentgrass	WF	grass	both
+AIAL	tree of heaven	UF	tree	introduced	Perennial
+ALGAE	Algae		algae
+ALIN	trailing windmills	WF	forb	native	Perennial
+ALMA12	camelthorn	F	shrub	introduced	Perennial
+ALTR7	northern water plantain	OW	forb	native	Perennial
+AMAC2	flatspine burr ragweed	N	forb	native	Annual
+AMAR2	annual ragweed	UF	forb	native	Annual
+AMARA	pigweed	N	forb	both	.
+AMBL	mat amaranth		forb	introduced	annual
+AMBRO	ragweed	N	forb	native	.
+AMCO	weakleaf burr ragweed	N	forb	native	Perennial
+AMCO3	weakleaf burr ragweed	N	forb	native	Perennial
+AMFR	desert false indigo	N	shrub	native	Perennial
+AMHY	slim amaranth	N	forb	native	Annual
+AMORP	false indigo	WF	shrub	native	Perennial
+AMPA	carelessweed		forb	native	annual
+AMPS	Cuman ragweed	UF	forb	native	Perennial
+ANCA10	yerba mansa	OW	forb	native	Perennial
+ANDRO	bluestem	N	grass	introduced	.
+ANNU			grass
+APCA	Indianhemp	UF	forb	native	Perennial
+ARAD	sixweeks threeawn	N	grass	native	Annual
+ARAD/BOBA2	sixweeks grass	N	grass	native	Annual
+ARAN7	silverweed cinquefoil	N	forb	native	Perennial
+ARCA14	Carruth's sagewort	N	forb	native	Perennial
+ARDR4	tarragon	N	shrub	native	Perennial
+ARFI2	sand sagebrush	N	shrub	native	Perennial
+ARIST	threeawn	N	grass	native	.
+ARLU	white sagebrush		forb	introduced	perennial
+ARPU	purple threeawn	N	grass	native	Perennial
+ARPU9	purple threeawn	N	grass	native	Perennial
+ARTEM		N	shrub	both	.
+ASCLE	milkweed	F	forb	both	.
+ASLAH2	white panicle aster		forb	native	perennial
+ASOF	garden asparagus	UF	forb	introduced	Perennial
+ASSP	showy milkweed	F	forb	native	Perennial
+ASSU2	horsetail milkweed	UF	forb	native	Perennial
+ASTER			forb
+ATCA	fourwing saltbush	N	shrub	native	Perennial
+ATCA2	fourwing saltbush	N	shrub	native	Perennial
+ATMI2	twoscale saltbush	N	forb	introduced	Annual
+BAHY	fivehorn smotherweed 	F	forb	introduced	Annual
+BAMU	desert marigold		forb	native	annual and perennial
+BASA	willow baccharis		shrub	native	Perennial
+BASA4	mule-fat	F	shrub	native	Perennial
+BASC5	kochia	F	forb	introduced	Annual
+BICE	nodding beggartick	OW	forb	native	Annual
+BIFR	devil's beggartick	WF	forb	native	Annual
+BOAR	needle grama	WF	grass	native	Annual
+BOAR/BOB			grass	native	Annual
+BOBA2	sixweeks grama	N	grass	native	Annual
+BOBA2/BO			grass
+BOCU	sideoats grama	N	grass	native	Perennial
+BOERH2	spiderling	N	forb	native	.
+BOGR	blue grama	N	grass	native	Perennial
+BOGR2	blue grama	N	grass	native	Perennial
+BOSP	creeping spiderling		forb	native	annual
+BOTO2	creeping spiderling		forb	native	annual
+BOUTE	grama	N	grass	both	.
+BRCA6	rescuegrass	N	grass	introduced	Annual/Perennial
+BREUC2	false boneset	N	forb	native	Perennial
+BRINI	smooth brome	N	grass	introduced	Perennial
+BRJA	Japanese brome	N	grass	introduced	Annual
+BROMU	brome	UF	grass	both	.
+CACA4	bluejoint	WF	grass	native	Perennial
+CADR	whitetop	N	forb	introduced	Perennial
+CAPE42	woolly sedge	OW	grass	native	Perennial
+CAPR5	clustered field sedge	WF	grass	native	Perennial
+CAREX	sedge	Y	grass	native	.
+CAUT	Northwest Territory sedge	OW	shrub	native	Perennial
+CESP4 	coastal sandbur 	N	grass	native	Annual/Perennial
+CHAL7	lambsquarters	N	forb	both	Annual
+CHAMA15	Gray sandmat	N	forb	native	Perennial
+CHENO	goosefoot	UF	forb	both	.
+CHER2	rose heath	N	forb	native	Perennial
+CHFR3	Fremont's goosefoot	UF	forb	native	Annual
+CHGE	Geyer's sandmat	N	forb	native	Annual
+CHGE2	Geyer's sandmat	N	forb	native	Annual
+CHIN2	
+y goosefoot	N	forb	native	Annual
+CHLE4	narrowleaf goosefoot		forb	native	annual
+CHNU9	eyebane	N	forb	native	Annual/Perennial
+CHPR5	desert goosefoot	N	forb	native	Annual
+CHSP11	spiny chloracantha	F	forb	native	Perennial
+CHVE2	tumble windmill grass		grass	native	perennial
+CHVI4	feather fingergrass	UF	grass	native	Annual
+CHVI8	yellow rabbitbrush	N	shrub	native	Perennial
+CIAR4	Canada thistle	UF	forb	introduced	Perennial
+CIRSI	thistle	UF	forb	native	.
+CIVU	bull thistle	UF	forb	introduced	Biennial
+CLCO2	rock clematis	N	vine	native	Perennial
+CLLI2	western white clematis	F	vine	native	perennial
+COAR	field bindweed	N	forb	introduced	Perennial
+COAR4	field bindweed	N	forb	introduced	Perennial
+COCA5	Canadian horseweed	N	forb	native	Annual/Biennial
+COMP	asteraceae		forb	both	both
+CONYZ	horseweed	UF	forb	both	.
+CROTO	croton	N	forb
+CROTON	croton	N	forb
+CRTE4	Texas croton	N	forb	native	Annual
+CRYPT	cryptantha	UF	forb	native	.
+CUAR	Arizona cypress	N	tree	native
+CUFO	Missouri gourd	N	forb	native	Perennial
+CYDA	Bermudagrass	UF	grass	introduced	Perennial
+CYES 	yellow nutsedge 	WF	grass	both	Perennial
+CYIM2	tree cholla	N	shrub	native	Perennial
+CYOD	fragrant flatsedge	WF	grass	native	Annual/Perennial
+CYPER	flatsedge	N	grass	both	.
+DAGL	orchardgrass	UF	grass	introduced	Perennial
+DALA3	woolly prairie clover	N	forb	native	Perennial
+DALE3 	foxtail prairie clover	N	forb	native	Annual
+DAWR2	sacred thorn-apple	DO	forb	native	Annual/Perennial
+DEIL	Illinois bundleflower	N	forb	native	Perennial
+DESCU	tansymustard	UF	forb	both	.
+DICOT	unidentified dicot	.	forb	.	.
+DISA	hairy crabgrass	UF	grass	introduced	Annual
+DISP	inland saltgrass	F	grass	native	Perennial
+DISP/MUAS			grass
+DIWI2	spectaclepod	N	forb	native	Annual
+DIWI5	fall rosette grass	N	grass	native	Perennial
+ECCR	barnyardgrass	WF	grass	introduced	Annual
+ECHIN	purple coneflower	N	forb	native	.
+ECHIN4	cockspur grass	N	grass	both	.
+ECMUM	rough barnyardgrass	N	grass	native	Annual
+ELAN	Russian olive	F	tree	introduced	Perennial
+ELCA4	Canada wildrye	N	grass	native	Perennial
+ELEL	squirreltail	UF	grass	native	Perennial
+ELEL5	squirreltail	UF	grass	native	Perennial
+ELEOC	spikerush	Y	grass	native	.
+ELPA3	common spikerush	OW	grass	native	Perennial
+ELPS	grass	N	grass	native	Perennial
+ELTR7	slender wheatgrass	N	grass	native	Perennial
+ELYMU	wildrye	F	grass	both	.
+EPCI	fringed willowherb	WF	forb	native	Perennial
+EPHE	broadleaf helleborine	UF	forb	introduced	Perennial
+EPILO	willowherb	OW		native	.
+EQLA	smooth horsetail	N	forb	native	Perennial
+EQUIS	horsetail	WF	forb	native	.
+ERACA	tapertip cupgrass		grass	native	annual
+ERAGR	lovegrass	N	grass	both	.
+ERBE2	western daisy fleabane	N	forb	native	Annual
+ERDI4	spreading fleabane	N	forb	native	Biennial
+ERHY	teal lovegrass	N	grass	native	Annual
+ERICA = ERICA2?	goldenbush	N	forb	.	.
+ERIGE	fleabane	N	forb	native	.
+ERIGE2	fleabane	N	forb	native	.
+ERPE	tufted lovegrass	N	grass	native	Annual/Perennial
+ERPEM	desert lovegrass	N	grass	native	Annual
+EUDA5	David's spurge	N	forb	introduced	Annual
+EUDE4
+EUOC4	western goldentop	WF	forb	native	Perennial
+EUPHO	spurge	N	forb	both	.
+FONE	New Mexico olive	N	shrub	native	Perennial
+FOPUP	New Mexico olive	N	shrub	native	Perennial
+FORB	unidentified forb	.	forb	.	.
+FRAXINUS	ash	N	shrub	both
+FRVE2	velvet ash	N	tree	native	Perennial
+FUNGI1
+GACO5	scarlet beeblossom	N	forb	native	Perennial
+GAMO5	velvetweed	N	forb	native	Annual
+GAPI	red dome blanketflower			native	perennial
+GAPU	Indian blanket	UF	forb	native	Annual/Biennial/Perennial
+GAURA	beeblossom	N	forb	native	.
+GAURA/OENOT			forb	.	.
+GAVI2	woolly beeblossom	N	forb	native	Perennial
+GLLE3	American licorice	N	forb	native	Perennial
+GRASS	unidentified grass	.	grass	.	.
+GRASS1			grass
+GRSQ 	curlycup gumweed	N	forb	native	Annual/Biennial/Perennial
+GRSS			grass
+GUSA2	broom snakeweed	N	shrub	native	Perennial
+HEAN	common sunflower	N	forb	native	Annual
+HEAN3	common sunflower	N	forb	native	Annual
+HECI	Texas blueweed	N	forb	native	Perennial
+HECU3	salt heliotrope	N	forb	native	Annual/Perennial
+HELIA3	sunflower	N	forb	native	.
+HENE4	New Mexico feathergrass	N	grass	native	Perennial
+HENE5	New Mexico feathergrass	N	grass	native	Perennial
+HEPE	prairie sunflower	N	forb	native	Annual
+HESPE11	needle and thread	N	grass	native	Perennial
+HEVI4	hairy false goldenaster	N	forb	native	Perennial
+HITR	flower of an hour		forb	introduced	annual
+HOJU	foxtail barley	F	grass	native	Perennial
+HYMEN4	hymenopappus		.	native	.
+IPLO	flaxflowered ipomopsis	N	forb	native	Perennial
+IPLO2	flaxflowered ipomopsis	N	forb	native	Perennial
+JUARL	mountain rush	N	grass	native	Perennial
+JUBA	Baltic rush	WF	grass	native	Perennial
+JUMO	oneseed juniper	N	tree	native	Perennial
+JUNCU	rush		forb	native	.
+JUSC2	Rocky Mountain juniper	N	tree	native	perennial
+JUTO	Torrey's rush	WF	grass	native	Perennial
+KAPA	warty caltrop	N	forb	native	Annual
+KOSC	kochia	F	forb	introduced	Annual
+LACTU	lettuce	N	forb	both	.
+LASE	prickly lettuce	UF	forb	introduced	Annual/Biennial
+LATAP	blue lettuce	N	forb	native	Biennial/Perennial
+LEFUF	bearded sprangletop	N	grass	native	Annual
+LELA2	broadleaved pepperweed	F	forb	introduced	Perennial
+LEMNA	duckweed	N	forb	native	.
+LEOR	rice cutgrass	OW	grass	native	Perennial
+LINUM	flax		forb	both	.
+LONIC	honeysuckle	F	shrub	both	.
+LYAM	American water horehound	OW	forb	native	Perennial
+LYCIU	desert-thorn	N	shrub	.	.
+LYCIUM	desert-thorn	N	shrub	.	.
+LYCOP4	waterhorehound		forb	native	both
+LYSA2	Purple loosestrife	OW	forb	introduced	Perennial
+LYTO	Torrey wolfberry	F	shrub	native	Perennial
+MAAQ2	hollyleaved barberry	U	shrub	native	Perennial
+MACA	hoary tansyaster	N	forb	native	Annual/Biennial/Perennial
+MACA2	hoary tansyaster	N	forb	native	Annual/Biennial/Perennial
+MACHA	tansyaster	N	forb	native	.
+MAG			grass
+MAPIP	lacy tansyaster	N	forb	native	Perennial
+MAPIP4	lacy tansyaster	N	forb	native	Perennial
+MARE11	creeping barberry	N	shrub	native	perennial
+MARSI (WC = water clover)	waterclover (fern)	N	forb	both	.
+MEAL	white sweetclover	UF	forb	introduced	Annual/Biennial/Perennial
+MEAL2	white sweetclover	UF	forb	introduced	Annual/Biennial/Perennial
+MELIL	sweetclover	N	forb	introduced	.
+MELIL/MESA
+MENTZ	blazingstar	N	forb	native	.
+MEOF	white sweetclover	UF	forb	introduced	Annual/Biennial/Perennial
+MEOL	chickenthief	N	forb	native	Perennial
+MESA	alfalfa	DO	forb	introduced	Annual
+MESA/MEOF
+MG			grass
+MIGL	roundleaf monkeyflower	OW	forb	native	Perennial
+MINT	unidentified mint	.	forb	.	.
+MINT1	unidentified mint	.	forb	.	.
+MIRAB	four o'clock	N	forb	both	.
+MOAL	white mulberry	UF	tree	introduced	Perennial
+MORA
+MOSQ	false buffalograss	N	grass	native	Annual
+MOVE	green carpetweed	UF	forb	native	Annual
+MUAS	scratchgrass	WF	grass	native	Perennial
+MUAS/DISP
+MUHLE	muhly		grass	native	unknown
+MUME2	Mexican muhly	N	grass	native	Perennial
+MUTO2	ring muhly	N	grass	native	perennial
+NAHI	bristly nama	N	forb	native	Annual
+OECI	high-plains beeblossom		forb	both	perennial
+OECO2	crownleaf evening primrose		forb	native	perennial
+OECU2	velvetweed		forb	native	annual
+OEELH	Hooker's evening primrose		forb	native	perennial
+OEELH2	Hooker's evening primrose		forb	native	perennial
+OENOT	evening-primrose	N	forb	native	both
+OEPA	pale evening-primrose	N	forb	native	Biennial/Perennial
+OESU3	scarlet beeblossom	n	forb	native	perennial
+ONAG	evening primrose	N	forb	.	.
+OPIM	tree cholla	N	shrub	native	perennial
+OPPH	tulip pricklypear	N	shrub	native	Perennial
+OPUNT	pricklypear	N	shrub	both	Perennial
+PACA6	witchgrass	N	grass	native	Annual
+PADI	fall panicgrass 	WF	grass	native	Annual
+PADI6	knotgrass		grass	native	Perennial
+PAIN	thicket creeper		vine	native	perennial
+PANIC	panicgrass	.	grass	both	.
+PAOB	vine mesquite	N	grass	native	Perennial
+PAQU2	thicket creeper		vine	native	perennial
+PASM	western wheatgrass	N	grass	native	Perennial
+PASP	othake		forb	native	annual
+PASPA2	crowngrass	Y	grass	both	.
+PAVI5	thicket creeper		vine	native	perennial
+PEAN	lemonscent	N	forb	native	Annual
+PECTI	chinchweed	N	forb	native	.
+PEHYS	broom dalea	N	shrub	native	Perennial
+PG			grass
+PHACE	phacelia	N	forb	native	Annual
+PHAR3	reed canarygrass	WF	grass	native	Perennial
+PHAU7	common reed	N	shrub	native	Perennial
+PHCO	skyblue phacelia	Y	forb	native	Annual
+PHCRC	cleftleaf wildheliotrope	N	forb	native	Annual
+PHHE4	ivyleaf groundcherry		forb	native	perennial
+PHHE5	ivyleaf groundcherry		forb	native	perennial
+PHHI8	prairie groundcherry	N	forb	native	Perennial
+PHVI5	Virginia groundcherry	N	forb	native	Perennial
+PHYSA	groundcherry	N	forb	both	.
+PIOP	oppositeleaf bahia	N	forb	native	perennial
+PLANT	plantain	N	forb	both	.
+PLJA	James' galleta	N	grass	native	Perennial
+POA	bluegrass	V	grass	.	.
+POCO	Canada bluegrass	UF 	grass	introduced	Perennial
+PODEW	Rio Grande cottonwood	N	tree	native	Perennial
+POHA5	silkcotton purslane	N	forb	native	Annual
+POHI6	woolly cinquefoil	N	forb	native	perennial
+POLA4	curlytop knotweed	N	forb	native	Annual
+POMO5	annual rabbitsfoot grass	WF	grass	introduced	Annual
+POOL	little hogweed	F	forb	introduced	Annual
+POPR	Kentucky bluegrass	N	grass	both	Perennial
+PORT	purslane	N	forb	both	.
+PORTU	purslane	N	forb	both	.
+POVI9	beardless rabbitsfoot grass	WF	grass	introduced	Perennial
+PRLO	ram's horn / devil's claw	N	forb	native	Annual
+PRPU	screwbean mesquite	N	tree	native	Perennial
+PSSC6	broom dalea	N	shrub	native	Perennial
+PSST7	cottonbatting plant	F	forb	native	Annual
+PYPA4	smallflower desert-chicory	N	forb	native	Annual/Perennial
+RACO3	upright prairie coneflower		forb	native	perennial
+RATA	green prairie coneflower	N	forb	native	Perennial
+RHTR	skunkbush sumac	N	shrub	native	Perennial
+RIAU	golden currant	N	shrub	native	Perennial
+RONE	New Mexico locust	N	tree	native	Perennial
+ROPS	black locust	N	tree	native	Perennial
+ROWO	Woods' rose	N	shrub	native	Perennial
+RUCR	curly dock	F	forb	introduced	Perennial
+RUMEX	dock	Y	forb	both	.
+SAAB	Abert's creeping zinnia		forb	native	annual
+SAAM2	peachleaf willow	N	tree	native	Perennial
+SAEX	narrowleaf willow	WF	shrub	native	Perennial
+SAGIT	arrowhead	N	forb	native	.
+SAGO	Goodding's willow	WF	tree	native	Perennial
+SAKA	prickly Russian thistle	UF	forb	introduced	Annual
+SALIX	willow	Y	shrub	native	Perennial
+SAPA8	prickly Russian thistle	UF	forb	introduced	Annual
+SARA3 	ravennagrass 	F	grass	introduced	Perennial
+SATR12	prickly Russian thistle	UF	forb	introduced	Annual
+SCACO2	tule	N	grass	native	perennial
+SCAM6	chairmaker's bulrush	OW	grass	native	Perennial
+SCAR	Arabian schismus	UF	grass	introduced	Annual
+SCAR7	tall fescue		grass	introduced	perennial
+SCHIZ4	little bluestem	N	grass	native	.
+SCHOE6	bulrush	N	grass	native	.
+SCPA8	cloaked bulrush	OW	grass	native	Perennial
+SCPH	tall fescue	N	grass	introduced	Perennial
+SCPU10	common threesquare	N	grass	native	Perennial
+SCTA2	softstem bulrush	N	grass	native	Perennial
+SEED	unidentified seedlings	.
+SEFL3	threadleaf ragwort	N	forb	native	Perennial
+SELE 	streambed bristlegrass	N	grass	native	Perennial
+SELE6	streambed bristlegrass	N	grass	native	Perennial
+SENEC	ragwort		.	both	.
+SETAR	bristlegrass	F	grass	both	.
+SEVI	green bristlegrass	N	grass	introduced	Annual
+SEVI4	green bristlegrass	N	grass	introduced	Annual
+SHRUB	unknown shrub	.	shrub	.	.
+SIIR	London rocket	N	forb	introduced	Annual
+SISYM	hedgemustard		.	both	.
+SOAM	American black nightshade	UF	forb	native	Annual/Perennial
+SOAR	field sowthistle	UF	forb	introduced	Perennial
+SOAR2	field sowthistle	UF	forb	introduced	Perennial
+SOAS	spiny sowthistle	F	forb	introduced	Annual
+SOCA6	Canada goldenrod	N	forb	native	Perennial
+SOEL	silverleaf nightshade	N	forb	native	Perennial
+SOHA	Johnsongrass	UF	grass	introduced	Perennial
+SOLAN	nightshade	S	forb	both	.
+SOLID	goldenrod	V	forb	native	.
+SONCH	sowthistle	N	forb	introduced	.
+SONI	black nightshade	UF	forb	introduced	Annual/Perennial
+SONU2	Indiangrass	N	grass	native	Perennial
+SONU9	Indiangrass	N	grass	native	Perennial
+SOTR	cutleaf nightshade	N	forb	native	Annual
+SPAI	alkali sacaton	N	grass	native	Perennial
+SPAN3	copper globemallow	N	forb	native	Perennial
+SPCO	spike dropseed	N	grass	native	Perennial
+SPCO4	spike dropseed	N	grass	native	Perennial
+SPCO4/SPGI	spike dropseed	N	grass	native	Perennial
+SPCR	sand dropseed	N	grass	native	Perennial
+SPCR/SPFL2	mesa dropseed	N	grass	native	Perennial
+SPCR/SPWR2	dropseed	N	grass	native	Perennial
+SPFL	mesa dropseed	N	grass	native	Perennial
+SPFL2	mesa dropseed	N	grass	native	Perennial
+SPGI	giant dropseed	N	grass	native	Perennial
+SPGR2	gooseberryleaf globemallow	N	forb	native	Perennial
+SPHAE	globemallow	N	forb	native	Perennial
+SPOR	dropseed	N	grass	both	.
+SPORO	dropseed	N	grass	both	.
+SPSA3	alkali swainsonpea	UF	forb	introduced	Perennial
+SPSC3	alkali swainsonpea	UF	forb	introduced	Perennial
+STIPA		N	grass	.	.
+SUAED	seepweed	Y	forb	native	.
+SYER	white heath aster	N	forb	native	Perennial
+SYFAC	white prairie aster	N	forb	native	Perennial
+SYLAH6	white panicle aster		forb	native	perennial
+SYMPH 	snowberry	N	shrub	native	Perennial
+SYMPH4	aster	N	forb	native	.
+SYPR5	willowleaf aster	N	forb	native	Perennial
+TACH	saltcedar	F	tree	introduced	Perennial
+TACH2	saltcedar	F	tree	introduced	Perennial
+TAOF	dandelion	UF	forb	both	Perennial
+TARA	saltcedar	F	tree	introduced	Perennial
+TECA3	Canada germander	N	forb	native	Perennial
+TECAO	western germander	N	forb	native	Perennial
+THIN6	intermediate wheatgrass	N	grass	introduced	Perennial
+THPO4	tall wheatgrass	N	grass	introduced	Perennial
+THPO7	tall wheatgrass	N	grass	introduced	Perennial
+TILA2	woolly tidestromia	N	forb	native	Annual
+TOAN	annual Townsend daisy		forb	native	annual
+TRAGO	goatsbeard	N	forb	introduced	.
+TRTE	puncturevine/goathead	N	forb	introduced	Annual
+TYDO	southern cattail		forb	native	perennial
+TYLA	broadleaf cattail	OW	forb	native	Perennial
+TYPHA	cattail	OW	forb	both	.
+UFS	unidentified forb species (e.g. forb cotyledon)		forb	both	both
+UGS	unidentified grass species		grass	both	both
+ULPA	Siberian elm	DO	tree	introduced	Perennial
+ULPU	Siberian elm	DO	tree	introduced	Perennial
+UNID
+UNIDF2			forb
+UNIDG1			grass
+UNIDG2			grass
+UNK
+VEAN2	water speedwell	OW	forb	native	Perennial
+VEBR 	bigbract verbena	F	forb	native	Annual/Perennial
+VETH	common mullein	UF	forb	introduced	Biennial
+WC = MARSI	wood chips?	.
+XANTH2	cocklebur	N	forb	both	.
+XASP2	spiny cocklebur	UF	forb	introduced	Annual
+XAST	rough cockleburr	F	forb	native	Annual
+YAD			forb
+YAG			grass
+YELAC	agoseris	F 	forb	native	(2 perennial, 1 annual)
