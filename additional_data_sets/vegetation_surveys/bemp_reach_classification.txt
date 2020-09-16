@@ -1,0 +1,34 @@
+site	bemp_reach_classification	metadata
+1	Northern Albuquerque	
+2	Northern Albuquerque	
+3	Valencia	
+4	Valencia	
+5	Northern Perched	
+6	Northern Albuquerque	
+7	Semi-arid	
+8	Southern Albuquerque	less degraded river bed, potential for overbank flooding	
+10	Northern Albuquerque	degraded river, pern flow
+11	Northern Albuquerque	
+12	Northern Albuquerque	
+13	Southern Albuquerque	
+14	Socorro	potential for flooding
+15	Valencia	aggraded river bed, inter flow
+16	Valencia	
+17	Northern Albuquerque	
+18	Valencia	
+19	Valencia	
+20	Southern Albuquerque	
+21	Northern Albuquerque	
+22	Northern Albuquerque	
+23	Southern Albuquerque	
+24	Northern Perched	
+25	Valencia	
+26	Semi-arid	
+27	Valencia	
+28	Southern Albuquerque	
+29	Southern Albuquerque	
+30	Southern Albuquerque	
+31	Southern Albuquerque	
+32	Northern Perched	
+33	Socorro	
+34	Socorro	
