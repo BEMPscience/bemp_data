@@ -121,5 +121,6 @@ Monthly Groundwater Procedure
     If the point does not follow the same trend as the other wells (eg, a well that is declining while the other four wells are increasing), and is >20cm off track from the other wells’ trend, remove the point. In the QA/QC column, note the original entry and your initials.  
 
 
-
+CHANGES TO WELL DATA
+In April of 2019 Site 9 was removed from the data set. 
 
