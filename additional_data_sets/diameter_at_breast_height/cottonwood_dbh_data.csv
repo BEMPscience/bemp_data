@@ -1,0 +1,479 @@
+year  ,site,plot,tree,DBH,sex,Field notes,data notes
+1997,2,a,1,620,m,.,.
+1997,2,a,2,350,.,.,.
+1997,2,a,3,570,m,.,.
+1997,2,a,4,465,.,.,.
+1997,2,b,1a,990,.,.,.
+1997,2,b,1b,900,.,.,.
+1997,2,b,2,480,.,.,.
+1997,2,b,3,650,.,.,.
+1997,2,b,4,445,.,.,.
+1997,2,b,5,510,m,.,.
+1997,2,b,6,880,m,.,.
+1997,2,b,7,745,m,.,.
+1997,2,c,1,680,.,.,.
+1997,2,c,2,440,.,.,.
+1997,2,c,3,780,m,.,.
+1997,2,c,4,480,.,.,.
+1997,2,c,5,585,.,.,.
+1997,2,c,6,720,m,.,.
+1997,2,c,7,440,.,.,.
+1997,2,c,8,675,.,.,.
+1997,2,c,9,490,.,.,.
+1997,2,c,10,715,m,.,.
+1997,2,d,1,.,.,.,.
+1997,2,d,2,465,.,.,.
+1997,2,d,3,1060,f,.,.
+1997,2,d,4,720,.,.,.
+1997,2,d,5,760,f,.,.
+1997,2,d,6,685,m,.,.
+1997,2,d,7,785,m,.,.
+1997,2,d,8,605,.,.,.
+1997,2,e,1,515,.,.,.
+1997,2,e,2,475,.,.,.
+1997,2,e,3,410,.,.,.
+1997,2,e,4,630,.,.,.
+1997,2,e,5,520,.,.,.
+1997,2,e,6,660,.,.,.
+1997,2,e,7,405,.,.,.
+1997,2,e,8,820,.,.,.
+1997,2,e,9,680,m,.,.
+1997,2,e,10a,785,.,.,.
+1997,2,e,10b,915,.,.,.
+1997,2,e,11,975,m,.,.
+1997,2,f,1,350,.,.,.
+1997,2,f,2a,700,.,.,.
+1997,2,f,2b,620,.,.,.
+1997,2,f,3,780,.,.,.
+1997,2,f,4,885,.,.,.
+1997,2,f,5a,895,f,.,.
+1997,2,f,5b,955,f,.,.
+1997,2,f,6,690,.,.,.
+1997,2,f,7,1505,.,.,.
+1997,2,f,8,1045,.,.,.
+1997,2,g,1,1020,f,.,.
+1997,2,g,2,120,.,.,.
+1997,2,g,3a,735,.,.,.
+1997,2,g,3b,545,.,.,.
+1997,2,g,4,510,.,.,.
+1997,2,g,5a,755,.,.,.
+1997,2,g,5b,515,.,.,.
+1997,2,h,1,675,.,.,.
+1997,2,h,2,680,.,.,.
+1997,2,h,3,815,f,.,.
+1997,2,h,4,1010,.,.,.
+1997,2,i,1,605,.,.,.
+1997,2,i,2,1500,f,.,.
+1997,2,i,3,665,.,.,.
+1997,2,j,1,700,.,.,.
+1997,2,j,2,980,f,.,.
+1997,2,j,3,980,.,.,.
+1997,2,j,4,720,.,.,.
+1997,2,j,5,1150,.,.,.
+1998,1,a,0,.,.,no cottonwoods present,.
+1998,1,a,0,.,.,.,.
+1998,1,b,1,308,u,tree may be dead,.
+1998,1,b,2,405,m,.,.
+1998,1,c,1,497,m,.,.
+1998,1,d,1,278,u,"tree mostly dead, except for a few leafy branches half-way up",.
+1998,1,e,1,688,f,forks into two trunks just above DBH location,.
+1998,1,f,1,420,m,sex uncertain,.
+1998,1,f,2,718,f,.,.
+1998,1,f,3,518,u,.,.
+1998,1,f,4,354,u,"sex uncertain, male?",.
+1998,1,f,5,485,f,.,.
+1998,1,f,6,240,f,.,.
+1998,1,f,7,678,f,"trees f5, f6, f7, and a fourth tree outside the plot are all connected at base ",.
+1998,1,g,1,305,u,.,.
+1998,1,g,2,578,f,.,.
+1998,1,g,3,505,m,.,.
+1998,1,g,4,297,m,.,.
+1998,1,g,5,512,u,.,.
+1998,1,h,1,580,f,"trees h1, h2 and h3 are 3 trunks of same tree",.
+1998,1,h,2,613,f,"trees h1, h2 and h3 are 3 trunks of same tree",.
+1998,1,h,3,530,f,"trees h1, h2 and h3 are 3 trunks of same tree",.
+1998,1,h,4,467,m,.,.
+1998,1,h,5,543,f,.,.
+1998,1,h,6,519,f,trees h6 and h7 stems of same tree; h7 not tagged,.
+1998,1,h,7,81,f,trees h6 and h7 stems of same tree; h7 not tagged,.
+1998,1,i,1,242,f,.,.
+1998,1,i,2,356,m,.,.
+1998,1,i,3,183,m,.,.
+1998,1,i,4,210,m,.,.
+1998,1,i,5,460,f,.,.
+1998,1,j,1,316,u,.,.
+1998,1,j,2,363,m,trees j2 and j3 connected at base,.
+1998,1,j,3,435,m,trees j2 and j3 connected at base,.
+2000,1,b,1,308,u,.,.
+2000,1,b,2,404,m,.,.
+2000,1,c,1,499,m,.,.
+2000,1,d,1,280,u,.,.
+2000,1,e,1,690,f,.,.
+2000,1,f,1,416,m,.,.
+2000,1,f,2,720,f,.,.
+2000,1,f,3,520,m,.,.
+2000,1,f,4,363.5,f,.,.
+2000,1,f,5,487,f,.,.
+2000,1,f,6,243,f,.,.
+2000,1,f,7,.,.,.,.
+2000,1,g,1,306,m,sex uncertain,.
+2000,1,g,2,585,f,.,.
+2000,1,g,3,508,m,.,.
+2000,1,g,4,299,m,.,.
+2000,1,g,5,516,m,.,.
+2000,1,h,1,580,f,.,.
+2000,1,h,2,620,f,.,.
+2000,1,h,3,534,f,.,.
+2000,1,h,4,475,m,.,.
+2000,1,h,5,554,f,.,.
+2000,1,h,6,527,f,.,.
+2000,1,h,7,82,u,.,.
+2000,1,i,1,250,f,.,.
+2000,1,i,2,360,m,.,.
+2000,1,i,3,190,m,.,.
+2000,1,i,4,215,m,.,.
+2000,1,i,5,480,f,.,.
+2000,1,j,1,318,u,.,.
+2000,1,j,2,362,m,.,.
+2000,1,j,3,445,m,.,.
+2000,2,a,1,665,.,.,.
+2000,2,a,2,380,.,.,.
+2000,2,a,3,594,.,.,.
+2000,2,a,4,480,.,.,.
+2000,2,b,1a,1038,.,.,.
+2000,2,b,1b,912,.,.,.
+2000,2,b,2,495,.,.,.
+2000,2,b,3,680,.,.,.
+2000,2,b,4,468,.,.,.
+2000,2,b,5,530,.,.,.
+2000,2,b,6,927,.,.,.
+2000,2,b,7,779,.,.,.
+2000,2,b,8,533,.,.,.
+2000,2,c,1,703,.,.,.
+2000,2,c,2,458,.,.,.
+2000,2,c,3,823,.,.,.
+2000,2,c,4,487,.,.,.
+2000,2,c,5,598,.,.,.
+2000,2,c,6,762,.,.,.
+2000,2,c,7,.,.,"dead, on ground",.
+2000,2,c,8,686,.,.,.
+2000,2,c,9,.,.,"dead, on ground",.
+2000,2,c,10,754,.,.,.
+2000,2,d,1,893,.,.,.
+2000,2,d,2,476,.,.,.
+2000,2,d,3,1115,.,.,.
+2000,2,d,4,738,.,.,.
+2000,2,d,5,779,.,.,.
+2000,2,d,6,652,.,.,.
+2000,2,d,7,803,.,.,.
+2000,2,d,8,652,.,.,.
+2000,2,e,1,542,.,.,.
+2000,2,e,2,495,.,.,.
+2000,2,e,3,420,.,.,.
+2000,2,e,4,658,.,.,.
+2000,2,e,5,555,.,.,.
+2000,2,e,6,787,.,.,.
+2000,2,e,7,423,.,.,.
+2000,2,e,8,842,.,.,.
+2000,2,e,9,702,.,.,.
+2000,2,e,10a,820,.,.,.
+2000,2,e,10b,940,.,.,.
+2000,2,e,11,923,.,.,.
+2000,2,f,1,355,.,not dead,.
+2000,2,f,2a,720,.,.,.
+2000,2,f,2b,526,.,.,.
+2000,2,f,3,802,.,.,.
+2000,2,f,4,923,.,.,.
+2000,2,f,5a,947,.,.,.
+2000,2,f,5b,984,.,.,.
+2000,2,f,6,725,.,.,.
+2000,2,f,7,1485,.,.,.
+2000,2,f,8,1082,.,.,.
+2000,2,g,x1,841,.,.,.
+2000,2,g,x2,600,.,.,.
+2000,2,g,x3,532,.,.,.
+2000,2,g,3a,783,.,.,.
+2000,2,g,3b,562,.,.,.
+2000,2,g,4,513,.,.,.
+2000,2,g,5a,796,.,.,.
+2000,2,g,5b,533,.,.,.
+2000,2,h,1,710,.,.,.
+2000,2,h,2,698,.,.,.
+2000,2,h,3,932,.,.,.
+2000,2,h,4,1080,.,.,.
+2000,2,i,1,607,.,.,.
+2000,2,i,2,1457,.,.,.
+2000,2,i,3,650,.,.,.
+2000,2,j,1,728,.,.,.
+2000,2,j,2,1020,.,.,.
+2000,2,j,3,992,.,.,.
+2000,2,j,4,753,.,.,.
+2000,2,j,5,1173,.,.,.
+2000,5,a,0,.,.,2000 5  no trees in a,.
+2000,5,b,1,210,u,trees in b not tagged,.
+2000,5,b,2,203,u,trees in b not tagged,.
+2000,5,b,3,201,u,b3 dead ,.
+2000,5,b,4,174,u,trees in b not tagged,.
+2000,5,b,5,210,u,trees in b not tagged,.
+2000,5,c,1,446,m,"c1, c2, c3 all one tree",.
+2000,5,c,2,271,m,"c1, c2, c3 all one tree",.
+2000,5,c,3,371,m,"c1, c2, c3 all one tree",.
+2000,5,c,4,511,m,.,.
+2000,5,c,5,435,f,.,.
+2000,5,d,1,392,f,.,.
+2000,5,d,2,329,f,.,.
+2000,5,d,3,407,m,.,.
+2000,5,e,1,159,.,e1 dead,.
+2000,5,e,2,422,u,.,.
+2000,5,e,3,237,u,.,.
+2000,5,e,4,179,u,.,.
+2000,5,e,5,396,u,.,.
+2000,5,e,6,293,m,.,.
+2000,5,e,7,437,m,.,.
+2000,5,e,8,333,m,.,.
+2000,5,e,9,396,m,.,.
+2000,5,e,10,289,f,.,.
+2000,5,e,11,456,m,.,.
+2000,5,f,1,230,u,.,.
+2000,5,f,2,222,u,.,.
+2000,5,f,3,396,f,.,.
+2000,5,f,4,272,f,.,.
+2000,5,f,5,227,f,.,.
+2000,5,f,6,320,m,.,.
+2000,5,f,7,218,u,.,.
+2000,5,g,1,199,.,g1 dead,.
+2000,5,g,2,323,f,.,.
+2000,5,g,3,286,m,g3 & g4 one tree,.
+2000,5,g,4,347,m,g3 & g4 one tree,.
+2000,5,g,5,.,.,g5 dead and down flat,.
+2000,5,g,6,402,u,.,.
+2000,5,g,7,233,u,.,.
+2000,5,g,8,341,u,.,.
+2000,5,g,9,210,u,.,.
+2000,5,g,10,258,m,.,.
+2000,5,g,11,276,u,.,.
+2000,5,h,1,196,.,h1 dead,.
+2000,5,h,2,306,u,.,.
+2000,5,h,3,453,m,.,.
+2000,5,h,4,148,u,.,.
+2000,5,h,5,463,u,.,.
+2000,5,i,1,244,u,.,.
+2000,5,i,2,294,u,.,.
+2000,5,i,3,242,f,.,.
+2000,5,i,4,310,f,.,.
+2000,5,i,5,263,u,.,.
+2000,5,i,6,435,f,.,.
+2000,5,i,7,320,u,.,.
+2000,5,i,8,351,u,.,.
+2000,5,j,1,163,.,j1 dead,.
+2000,5,j,2,236,u,.,.
+2000,5,j,3,310,f,.,.
+2000,5,j,4,288,m,.,.
+2000,5,j,5,291,f,.,.
+2000,5,j,6,205,.,j6 dead,.
+2000,5,j,7,252,u,j7 & j8 same tree,.
+2000,5,j,8,322,u,j7 & j8 same tree,.
+2000,5,j,9,356,f,j9 & j10 same tree,.
+2000,5,j,10,369,f,j9 & j10 same tree,.
+2001,1,a,0,.,.,no cottonwoods in a,.
+2001,1,a,0,.,.,.,.
+2001,1,b,.,.,.,dead,.
+2001,1,b,2,411,m,.,.
+2001,1,c,1,500,m,.,.
+2001,1,d,.,.,.,dead,.
+2001,1,d,0,.,.,.,.
+2001,1,e,1,690,f,.,.
+2001,1,f,1,420,m,.,.
+2001,1,f,2,723,f,.,.
+2001,1,f,3,525,u,.,.
+2001,1,f,4,354,u,dead?,.
+2001,1,f,5,491,f,.,.
+2001,1,f,6,244,f,.,.
+2001,1,f,7,678,f,.,.
+2001,1,g,1,307,u,.,.
+2001,1,g,2,588,u,.,.
+2001,1,g,3,513,m,.,.
+2001,1,g,4,300,m,.,.
+2001,1,g,5,516,m,.,.
+2001,1,h,1,580,f,.,.
+2001,1,h,2,624,f,.,.
+2001,1,h,3,534,f,.,.
+2001,1,h,4,480,m,.,.
+2001,1,h,5,560,f,.,.
+2001,1,h,6,533,f,.,.
+2001,1,h,7,85,u,.,.
+2001,1,i,1,250,f,.,.
+2001,1,i,2,360,m,.,.
+2001,1,i,3,191,m,.,.
+2001,1,i,4,214,m,.,.
+2001,1,i,5,482,f,.,.
+2001,1,j,1,318,u,.,.
+2001,1,j,2,363,m,.,.
+2001,1,j,3,449,m,.,.
+2001,2,a,1,8.4,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,a,2,4.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,a,3,7.4,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,a,4,.,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,1a,13,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,1b,11.6,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,2,6,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,3,8.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,4,5.9,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,5,6.6,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,6,11.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,7,9.6,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,b,8,6.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,1,8.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,2,5.8,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,3,10.4,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,4,6.1,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,5,7.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,6,9.6,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,7,.,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,8,8.4,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,9,.,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,c,10,9.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,1,11,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,2,6,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,3,14.1,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,4,9.2,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,5,9.1,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,6,8.3,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,7,10.1,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,d,8,7.7,.,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,1,6.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,2,6.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,3,5.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,4,8.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,5,7,u,estimated diameter ,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,6,9,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,7,5.4,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,8,10.6,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,9,8.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,10a,10,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,10b,11.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,e,11,11.4,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,1,4.5,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,2a,9.1,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,2b,6.5,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,3,10.1,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,4,11.6,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,5a,11.7,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,5b,12.3,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,6,9.1,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,7,18.5,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,f,8,13.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,g,1,13.6,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,g,2,0.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,g,3a,9.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,g,3b,7.1,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,g,4,.,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,g,5a,10.1,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,g,5b,6.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,h,1,9,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,h,2,8.5,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,h,3,11.8,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,h,4,13.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,i,1,7.6,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,i,2,18.7,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,i,3,8.7,.,dead?,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,j,1,8.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,j,2,12.9,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,j,3,12.4,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,j,4,9.5,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,2,j,5,16,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,a,1,0.2,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,b,1,7.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,b,2,8.7,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,b,3,8,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,b,4,8,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,b,5,8.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,c,1,20,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,c,2,11.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,c,3,14.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,c,4,21.1,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,c,5,17.6,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,d,1,15.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,d,2,13.1,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,d,3,15.5,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,1,6.1,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,2,8.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,3,8.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,4,7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,5,15.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,6,11.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,7,13.5,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,8,13.2,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,9,15.7,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,10,11.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,e,11,18.3,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,f,1,8.9,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,f,2,8.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,f,3,15.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,f,4,10.6,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,f,5,8.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,f,6,12.6,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,f,7,8.9,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,1,7.7,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,2,12.9,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,3,11.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,4,13.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,6,15.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,7,9.1,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,8,13.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,9,8.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,10,10.1,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,g,11,10.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,h,1,7,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,h,2,11.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,h,3,18.1,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,h,4,7.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,h,5,18.2,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,1,9.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,2,11.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,3,9.4,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,4,12.2,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,5,9.7,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,6,17.2,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,7,12.6,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,i,8,14.3,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,1,6,.,dead?,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,2,8.8,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,3,12.2,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,4,10.8,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,5,11,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,6,8,.,dead,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,7,9.5,u,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,8,12.5,m,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,9,13.8,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,5,j,10,13.9,f,.,"Data for RGNC 2001 and Santa Ana 2001 in inches, not mm"
+2001,6,a,.,.,.,no cottonwoods,.
+2001,6,b,.,.,.,no cottonwoods,.
+2001,6,c,.,.,.,no cottonwoods,.
+2001,6,d,.,.,.,no cottonwoods,.
+2001,6,e,.,.,.,no cottonwoods,.
+2001,6,a,0,.,.,.,.
+2001,6,b,0,.,.,.,.
+2001,6,c,0,.,.,.,.
+2001,6,d,0,.,.,.,.
+2001,6,e,0,.,.,.,.
+2001,6,f,1,638,m,.,.
+2001,6,g,1,3,u,.,.
+2001,6,g,2,6,u,.,.
+2001,6,h,.,.,.,no cottonwoods,.
+2001,6,h,0,.,.,.,.
+2001,6,i,1,563,f,.,.
+2001,6,j,1,9,u,.,.
+2001,3,a,1,111,m,.,.
+2001,3,a,2,94,f,.,.
+2001,3,b,0,.,.,.,.
+2001,3,c,0,.,.,.,.
+2001,3,d,0,.,.,.,.
+2001,3,e,0,.,.,.,.
+2001,3,f,1,102,m,.,.
+2001,3,g,0,.,.,.,.
+2001,3,h,0,.,.,.,.
+2001,3,i,1,95,m,.,.
+2001,3,i,2,95,m,.,.
+2001,3,j,0,.,.,.,.
+2001,1,a,.,.,.,.,.
