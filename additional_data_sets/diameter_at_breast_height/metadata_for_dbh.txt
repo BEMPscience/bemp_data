@@ -69,3 +69,82 @@ Valley of central New Mexico.  Data are available to any interested parties.
 Data are housed at the University of New Mexico via the Sevilleta Information 	
 Management System.	
 
+WHERE THE DATA WERE COLLECTED	
+	
+The following are the BEMP site locations:	
+	
+     1.  Alameda/Bosque Prep site:	
+	
+     2.  Rio Grande Nature Center:	
+	
+     3.  Los Lunas:	
+	
+     4.  Belen:	
+	
+     5.  Santa Ana:	
+	
+     6.  Savannah:	
+	
+Each site is set up as a rectangle with a length (200 m) running with	
+the river. The site is located between the river and the levee and if	
+local conditions permit, is at least 100 m wide (never less than 80	
+m).  Sites also include a buffer zone of at least 20 m between the	
+levee and the most inland edge when possible.  Sites are generally	
+representative of the general area and forest composition, and are in	
+areas with low human impact when possible.	
+	
+Each site includes ten 30 m long transects, around which sampling and	
+data collection is coordinated.  Transects run parallel to the north	
+and south boundaries, with the location from the edge of the site 	
+determined randomly along a 100 m line.	
+	
+	
+HOW THE DATA WERE COLLECTED	
+	
+Sample Locations:	
+	
+Cottonwoods are counted within each of ten, 5 x 30 m vegetation plots	
+at each monitoring site.  Plots were located between established	
+transects.   	
+	
+Methods:	
+	
+Cottonwood monitoring is timed to correspond with the cottonwood 	
+flowering season, typically around the first week of April.	
+	
+Within each vegetation plot, all cottonwoods have been tagged and	
+mapped. Only cottonwoods within the vegetation plot that intersect an	
+imaginary plane 1.5 m above the ground are counted.  Trees that	
+may originate together at the base but that split into separate trunks	
+at or below 1.5 m above the ground are counted as separate trees, but	
+this is indicated with the data.	
+	
+Data collected:	
+	Diameter at Breast Height (DBH): measured at 1.5 m above the
+	ground on the tree's west side.
+	Sex:  binoculars are used to examine the trees flowers, if
+	present, to determine whether trees are male, female or
+	unknown (no flowers present).
+	Only living trees are recorded, so in subsequent years
+	mortality information will be available for trees alive the 
+	previous season.
+	
+	
+VARIABLE DESCRIPTION	
+	
+year = year of data collection	
+site = numerical code for monitoring site:	
+          1 = Bosque Prep/Alameda site	
+          2 = Rio Grande Nature Center	
+          3 = Los Lunas	
+          4 = Belen	
+          5 = Santa Ana	
+          6 = Savannah	
+          7 = Lemitar	
+	
+plot = alphabetical code for vegetation plot	
+tree = tree number (number on tag)	
+DBH = diameter at breast height, recorded in mm at 1.5 m above ground	
+sex = gender of tree (m=male, f=female, u=unknown (no flowers)	
+
+
