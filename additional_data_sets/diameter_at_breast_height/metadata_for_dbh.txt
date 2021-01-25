@@ -1,0 +1,71 @@
+log	
+	8 October 1998: file created; initial documentation; Lisa Ellis    
+	8 October 1998: data entry (Alameda 1998); Lisa Ellis
+        10 December 1998: data entry (RGNC 1997); Lisa Ellis	
+        6 October 1999: update documentation; Lisa Ellis	
+        16 April 2001: update documentation; data entry (Alameda, RGNC, 		
+        Santa Ana 2000); Kim Eichhorst	
+        23 April 2001: data entry (RGNC, Santa Ana 2001); Kim Eichhorst	
+        15 May 2001: data entry (Alameda, Savannah 2001); Kim Eichhorst	
+	
+	
+ABSTRACT	
+	
+This file records data for cottonwood tree growth, sex, and survival at	
+Bosque Ecosystem Monitoring Program (BEMP) sites in the Middle Rio	
+Grande Valley of Central New Mexico, USA.  This is a citizen-based 	
+monitoring program designed to provide ecological data needed for	
+management of the riparian forest, as well as to provide citizens with	
+a better understanding of and appreciation for this threatened	
+ecosystem.  Cottonwoods were monitored at each site to provide	
+information on existing size, growth and survial of this dominant	
+riparian tree species.  Data collection was begun in 1998 at four	
+sites in the valley.	
+	
+	
+KEYWORDS	
+	
+population, Rio Grande plot, Populus deltoides, riparian, primary producer	
+biology, demography	
+	
+	
+WHY THE DATA WERE COLLECTED	
+	
+These data were collected to provide information on the existing size, sex,	
+growth and survival of the dominant riparian tree, _Populus deltoides_	
+subspp. _wislizenii_.  Data can be compared among the different BEMP	
+sites to assess the size and condition of cottonwoods along the Middle	
+Rio Grande Valley.	
+	
+	
+WHEN THE DATA WERE COLLECTED	
+	
+Data are collected in the spring of each year, generally in April and May.	
+Sample dates:	
+1997	
+	2. RGNC:  April-May
+	
+1998	
+	1.  Alameda:  13 April - 4 May
+	
+1999	
+        None	
+   	
+2000	
+       1.  Alameda: April 	
+       2.  RGNC: 22 April, 14 May	
+       5.  Santa Ana: 27 April	
+  	
+2001	
+       3.  Los Lunas: (dbh on July2)	
+	
+WHO COLLECTED THE DATA	
+	
+The Bosque Ecosystem Monitoring Program is a collaborative effort between 	
+the University of New Mexico, the National Science Foundation LTER 	
+Schoolyard Habitats Program, Bosque Preparatory School, and a number of 	
+other schools and citizen-based volunteer groups in the Middle Rio Grande 	
+Valley of central New Mexico.  Data are available to any interested parties.  	
+Data are housed at the University of New Mexico via the Sevilleta Information 	
+Management System.	
+
