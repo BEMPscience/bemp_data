@@ -30,4 +30,5 @@ Citing these data: BEMP. (2020, March 4). BEMPscience/bemp_data: BEMP Core Commu
 
 BEMP is a partnership between Bosque School, Sevilleta Long Term Ecological Research Station, and the University of New Mexico. 
 
-CC-BY 4.0 license. 
+Data and text are under the CC-BY 4.0 license. 
+Logo is under CC-BY-NC-SA 4.0 license.
