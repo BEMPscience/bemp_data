@@ -32,3 +32,6 @@ BEMP is a partnership between Bosque School, Sevilleta Long Term Ecological Rese
 
 Data and text are under the CC-BY 4.0 license. 
 Logo is under CC-BY-NC-SA 4.0 license.
+
+Disclaimer
+The data are released on the condition that BEMP nor it's partners may not be held liable for any damages resulting from their authorized or unauthorized use.
