@@ -6,7 +6,7 @@
 
 Click on the csv you want to download then right click on the raw button to save as a csv. 
 
-<img src="https://github.com/BEMPscience/bemp_data/blob/master/depth_to_groundwater_data/images/master_litterfall_data_viz.png" width=100% height=100%>
+<img src="https://github.com/BEMPscience/bemp_data/blob/master/depth_to_groundwater_data/images/info_graphic_boxplot_and_variance.png" width=100% height=100%>
 
 ### Purpose
 Five wells at each site are used to measure depth to groundwater, which play a critical role in cottonwood and other vegetation health and are also important to understanding water cycle and evapotranspiration dynamics.
