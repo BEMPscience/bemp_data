@@ -1,0 +1,588 @@
+Year,Site number,Site name,Latitude,Longitude,Reaches,Annual sum of canopy precipitation ,Annual sum of open precipitation 
+1997,1,Alameda,35.1875,-106.6459,Angostura Reach,254.89999999999998,296.6
+1997,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,163.4,243.7
+1997,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,66.8,46.8
+1998,1,Alameda,35.1875,-106.6459,Angostura Reach,141.2,188.4
+1998,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,179.7,182.3
+1998,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,229.79999999999998,299.2
+1998,4,Belen,34.6484315,-106.7377022,Isleta Reach,165.6,191.8
+1999,1,Alameda,35.1875,-106.6459,Angostura Reach,173.4,188.29999999999998
+1999,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,201.6,223.7
+1999,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,56.3,80.7
+1999,4,Belen,34.6484315,-106.7377022,Isleta Reach,166.7,176.29999999999998
+1999,5,Santa Ana,35.34284,-106.5458,Cochti Reach,83.80000000000001,105.2
+2000,1,Alameda,35.1875,-106.6459,Angostura Reach,169.4,177.79999999999998
+2000,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,152.2,177.7
+2000,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,148.6,193
+2000,4,Belen,34.6484315,-106.7377022,Isleta Reach,226.29999999999998,269.8
+2000,5,Santa Ana,35.34284,-106.5458,Cochti Reach,124.7,166.6
+2000,6,Savannah,35.14285294,-106.6819814,Angostura Reach,183.7,247.4
+2000,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,30,64
+2001,1,Alameda,35.1875,-106.6459,Angostura Reach,76.4,117.3
+2001,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,85.7,118.3
+2001,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,77.5,137.7
+2001,4,Belen,34.6484315,-106.7377022,Isleta Reach,134.1,118
+2001,5,Santa Ana,35.34284,-106.5458,Cochti Reach,129.2,156.3
+2001,6,Savannah,35.14285294,-106.6819814,Angostura Reach,113,173.8
+2001,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,97,119.7
+2002,1,Alameda,35.1875,-106.6459,Angostura Reach,92.4,105.8
+2002,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,160,134.5
+2002,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,127.5,236.8
+2002,4,Belen,34.6484315,-106.7377022,Isleta Reach,104.3,171.1
+2002,5,Santa Ana,35.34284,-106.5458,Cochti Reach,86.8,127.3
+2002,6,Savannah,35.14285294,-106.6819814,Angostura Reach,107.2,174.1
+2002,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,136,210
+2002,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,66.7,76.7
+2002,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,122.9,199.5
+2002,10,Diversion,35.1908,-106.6429,Angostura Reach,32.5,26.5
+2002,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,25.3,31.5
+2002,12,Minnow,35.19315094,-106.646915,Angostura Reach,1.5,6.5
+2003,1,Alameda,35.1875,-106.6459,Angostura Reach,94.3,135.5
+2003,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,66.9,89.9
+2003,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,74.8,154.4
+2003,4,Belen,34.6484315,-106.7377022,Isleta Reach,125.6,173.8
+2003,5,Santa Ana,35.34284,-106.5458,Cochti Reach,64.7,87.5
+2003,6,Savannah,35.14285294,-106.6819814,Angostura Reach,74.4,76.5
+2003,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,56.3,107
+2003,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,67.5,149.5
+2003,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,75.8,174.6
+2003,10,Diversion,35.1908,-106.6429,Angostura Reach,85,127.8
+2003,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,56.5,101.2
+2003,12,Minnow,35.19315094,-106.646915,Angostura Reach,67,189.3
+2003,13,Harrison,35.01505603,-106.6736953,Angostura Reach,80.7,96.2
+2003,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,40.9,53.2
+2003,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,68.4,133.6
+2003,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,102.5,135.2
+2004,1,Alameda,35.1875,-106.6459,Angostura Reach,252.5,278.2
+2004,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,223.9,232.6
+2004,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,175.8,208.5
+2004,4,Belen,34.6484315,-106.7377022,Isleta Reach,232.7,293
+2004,5,Santa Ana,35.34284,-106.5458,Cochti Reach,0,0
+2004,6,Savannah,35.14285294,-106.6819814,Angostura Reach,136.9,239.3
+2004,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,200.2,271.7
+2004,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,203.9,276.8
+2004,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,115.4,174.2
+2004,10,Diversion,35.1908,-106.6429,Angostura Reach,209.3,304.3
+2004,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,193.3,223.3
+2004,12,Minnow,35.19315094,-106.646915,Angostura Reach,183.7,230.2
+2004,13,Harrison,35.01505603,-106.6736953,Angostura Reach,203.8,323.7
+2004,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,159.8,207.7
+2004,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,200.2,272.9
+2004,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,252.6,251.9
+2004,17,Montano,35.14528819,-106.6803699,Angostura Reach,102.4,128.8
+2004,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,73,98
+2004,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,60,73
+2004,20,Route 66,35.1006408,-106.6914783,Angostura Reach,0,0
+2005,1,Alameda,35.1875,-106.6459,Angostura Reach,137.5,157.4
+2005,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,201.2,192.4
+2005,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,157.1,180
+2005,4,Belen,34.6484315,-106.7377022,Isleta Reach,143.2,126.2
+2005,5,Santa Ana,35.34284,-106.5458,Cochti Reach,0,0
+2005,6,Savannah,35.14285294,-106.6819814,Angostura Reach,121.9,217.7
+2005,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,157.6,221.3
+2005,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,139.2,137.6
+2005,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,235.5,265.4
+2005,10,Diversion,35.1908,-106.6429,Angostura Reach,171.8,220.2
+2005,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,141.4,154
+2005,12,Minnow,35.19315094,-106.646915,Angostura Reach,127.5,192.2
+2005,13,Harrison,35.01505603,-106.6736953,Angostura Reach,169.4,233.8
+2005,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,149.8,156
+2005,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,95.3,124.9
+2005,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,242.6,141.9
+2005,17,Montano,35.14528819,-106.6803699,Angostura Reach,134.2,226.8
+2005,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,153.2,218.8
+2005,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,115.7,142.5
+2005,20,Route 66,35.1006408,-106.6914783,Angostura Reach,169.4,238.3
+2005,21,Badger,35.1956,-106.6402,Angostura Reach,0,0
+2005,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,0,0
+2006,1,Alameda,35.1875,-106.6459,Angostura Reach,264.3,254
+2006,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,191.3,229
+2006,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,139.1,208.2
+2006,4,Belen,34.6484315,-106.7377022,Isleta Reach,264.2,315.8
+2006,5,Santa Ana,35.34284,-106.5458,Cochti Reach,0,0
+2006,6,Savannah,35.14285294,-106.6819814,Angostura Reach,112.8,234.7
+2006,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,309.59999999999997,380.9
+2006,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,189.8,206.8
+2006,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,172.7,250.1
+2006,10,Diversion,35.1908,-106.6429,Angostura Reach,210.5,295.3
+2006,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,212.7,289.7
+2006,12,Minnow,35.19315094,-106.646915,Angostura Reach,154.4,240.7
+2006,13,Harrison,35.01505603,-106.6736953,Angostura Reach,225.1,251.79999999999998
+2006,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,192.5,130.6
+2006,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,184.8,316.3
+2006,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,291.8,324.9
+2006,17,Montano,35.14528819,-106.6803699,Angostura Reach,160.8,270
+2006,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,221.4,294.6
+2006,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,217.4,298.7
+2006,20,Route 66,35.1006408,-106.6914783,Angostura Reach,81.3,137.1
+2006,21,Badger,35.1956,-106.6402,Angostura Reach,0,0
+2006,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,0,1.1
+2007,1,Alameda,35.1875,-106.6459,Angostura Reach,226,235.4
+2007,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,171.2,171.9
+2007,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,141.5,201.3
+2007,4,Belen,34.6484315,-106.7377022,Isleta Reach,189.7,203.7
+2007,5,Santa Ana,35.34284,-106.5458,Cochti Reach,26,25.2
+2007,6,Savannah,35.14285294,-106.6819814,Angostura Reach,159,216
+2007,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,189.5,254
+2007,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,162.4,211.2
+2007,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,190.5,273.4
+2007,10,Diversion,35.1908,-106.6429,Angostura Reach,193,241.5
+2007,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,200.7,235.1
+2007,12,Minnow,35.19315094,-106.646915,Angostura Reach,190.4,259.3
+2007,13,Harrison,35.01505603,-106.6736953,Angostura Reach,212.4,322
+2007,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,115.8,195.9
+2007,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,137.5,182.6
+2007,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,160.5,210.8
+2007,17,Montano,35.14528819,-106.6803699,Angostura Reach,224.4,228.5
+2007,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,137.4,199.6
+2007,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,132.4,199.6
+2007,20,Route 66,35.1006408,-106.6914783,Angostura Reach,160.6,229.8
+2007,21,Badger,35.1956,-106.6402,Angostura Reach,177.3,260
+2007,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,170.6,271.7
+2007,23,BioPark,35.079,-106.668,Angostura Reach,148.2,209.8
+2008,1,Alameda,35.1875,-106.6459,Angostura Reach,146.7,163.9
+2008,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,141.8,167.2
+2008,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,121,174.5
+2008,4,Belen,34.6484315,-106.7377022,Isleta Reach,127.60000000000001,209.79999999999998
+2008,5,Santa Ana,35.34284,-106.5458,Cochti Reach,55.7,89.8
+2008,6,Savannah,35.14285294,-106.6819814,Angostura Reach,104.5,185.8
+2008,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,119.9,194.7
+2008,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,126,163.7
+2008,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,140.1,171.8
+2008,10,Diversion,35.1908,-106.6429,Angostura Reach,140.4,153
+2008,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,121.9,157.3
+2008,12,Minnow,35.19315094,-106.646915,Angostura Reach,84.5,150.8
+2008,13,Harrison,35.01505603,-106.6736953,Angostura Reach,165,214
+2008,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,142.8,192.8
+2008,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,141.4,200.1
+2008,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,160.5,204.1
+2008,17,Montano,35.14528819,-106.6803699,Angostura Reach,132.7,198
+2008,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,226.7,292.5
+2008,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,227.3,19.9
+2008,20,Route 66,35.1006408,-106.6914783,Angostura Reach,106.5,160.3
+2008,21,Badger,35.1956,-106.6402,Angostura Reach,97.2,162.5
+2008,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,100.8,170.5
+2008,23,BioPark,35.079,-106.668,Angostura Reach,122,159.9
+2008,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,170.3,143.8
+2008,25,Crawford,34.63835,-106.74277,Isleta Reach,0,0
+2009,1,Alameda,35.1875,-106.6459,Angostura Reach,169.5,203
+2009,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,100,98
+2009,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,134.5,206.5
+2009,4,Belen,34.6484315,-106.7377022,Isleta Reach,93,137.7
+2009,5,Santa Ana,35.34284,-106.5458,Cochti Reach,89.3,78.4
+2009,6,Savannah,35.14285294,-106.6819814,Angostura Reach,123,201.3
+2009,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,96.8,163
+2009,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,137,234
+2009,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,258.1,297.5
+2009,10,Diversion,35.1908,-106.6429,Angostura Reach,123.5,185
+2009,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,114.5,172.6
+2009,12,Minnow,35.19315094,-106.646915,Angostura Reach,95,180.5
+2009,13,Harrison,35.01505603,-106.6736953,Angostura Reach,85.3,202.3
+2009,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,62.8,149.8
+2009,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,108.7,171.2
+2009,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,116.7,181.3
+2009,17,Montano,35.14528819,-106.6803699,Angostura Reach,73.1,193
+2009,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,85.8,150.4
+2009,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,121.1,171.6
+2009,20,Route 66,35.1006408,-106.6914783,Angostura Reach,74,168
+2009,21,Badger,35.1956,-106.6402,Angostura Reach,75.9,146.2
+2009,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,111.3,216.2
+2009,23,BioPark,35.079,-106.668,Angostura Reach,119.5,187.5
+2009,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,141.9,223
+2009,25,Crawford,34.63835,-106.74277,Isleta Reach,0,0
+2010,1,Alameda,35.1875,-106.6459,Angostura Reach,198.5,196.5
+2010,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,171.8,196.2
+2010,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,162.8,217.8
+2010,4,Belen,34.6484315,-106.7377022,Isleta Reach,158.6,151
+2010,5,Santa Ana,35.34284,-106.5458,Cochti Reach,198,213.3
+2010,6,Savannah,35.14285294,-106.6819814,Angostura Reach,138.9,230.3
+2010,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,125.5,151.5
+2010,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,175.7,233.4
+2010,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,143.4,253.8
+2010,10,Diversion,35.1908,-106.6429,Angostura Reach,128.5,212.6
+2010,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,106,188.1
+2010,12,Minnow,35.19315094,-106.646915,Angostura Reach,123.9,195.9
+2010,13,Harrison,35.01505603,-106.6736953,Angostura Reach,110.5,211.5
+2010,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,112,128.5
+2010,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,130.9,165.5
+2010,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,199.9,190.7
+2010,17,Montano,35.14528819,-106.6803699,Angostura Reach,103.4,220.3
+2010,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,111.2,188.7
+2010,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,115.3,183.8
+2010,20,Route 66,35.1006408,-106.6914783,Angostura Reach,123.8,247.8
+2010,21,Badger,35.1956,-106.6402,Angostura Reach,126.9,154.5
+2010,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,176.1,276.7
+2010,23,BioPark,35.079,-106.668,Angostura Reach,210.8,302
+2010,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,293.7,357.5
+2010,25,Crawford,34.63835,-106.74277,Isleta Reach,0,0
+2011,1,Alameda,35.1875,-106.6459,Angostura Reach,102.1,118.5
+2011,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,119.5,152.8
+2011,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,150.5,183.5
+2011,4,Belen,34.6484315,-106.7377022,Isleta Reach,130,157
+2011,5,Santa Ana,35.34284,-106.5458,Cochti Reach,124.6,165.9
+2011,6,Savannah,35.14285294,-106.6819814,Angostura Reach,85.5,106
+2011,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,119,110.5
+2011,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,101,159.1
+2011,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,141.3,182
+2011,10,Diversion,35.1908,-106.6429,Angostura Reach,57.5,116.7
+2011,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,83.8,115.5
+2011,12,Minnow,35.19315094,-106.646915,Angostura Reach,60,12.6
+2011,13,Harrison,35.01505603,-106.6736953,Angostura Reach,81.2,142.1
+2011,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,58.3,95.8
+2011,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,94.5,100.8
+2011,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,134.9,159
+2011,17,Montano,35.14528819,-106.6803699,Angostura Reach,57.2,166.1
+2011,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,78,138.1
+2011,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,114,151.3
+2011,20,Route 66,35.1006408,-106.6914783,Angostura Reach,69,138
+2011,21,Badger,35.1956,-106.6402,Angostura Reach,59.3,103.1
+2011,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,44.3,43.3
+2011,23,BioPark,35.079,-106.668,Angostura Reach,102.9,142.7
+2011,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,97.5,153
+2011,25,Crawford,34.63835,-106.74277,Isleta Reach,98,107.8
+2011,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,102.5,140.5
+2012,1,Alameda,35.1875,-106.6459,Angostura Reach,70.8,92
+2012,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,71.5,95.5
+2012,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,93,131.1
+2012,4,Belen,34.6484315,-106.7377022,Isleta Reach,158.8,159.7
+2012,5,Santa Ana,35.34284,-106.5458,Cochti Reach,88.4,113.5
+2012,6,Savannah,35.14285294,-106.6819814,Angostura Reach,84,50.6
+2012,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,84.5,119.7
+2012,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,73.6,122.1
+2012,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,65.8,138.7
+2012,10,Diversion,35.1908,-106.6429,Angostura Reach,55.5,75.8
+2012,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,59.1,65.8
+2012,12,Minnow,35.19315094,-106.646915,Angostura Reach,42.6,52.7
+2012,13,Harrison,35.01505603,-106.6736953,Angostura Reach,65.8,120.1
+2012,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,56.8,87.5
+2012,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,120,138.7
+2012,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,169.5,193
+2012,17,Montano,35.14528819,-106.6803699,Angostura Reach,51.5,151.5
+2012,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,95.8,151
+2012,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,109.5,156.5
+2012,20,Route 66,35.1006408,-106.6914783,Angostura Reach,44.9,94.9
+2012,21,Badger,35.1956,-106.6402,Angostura Reach,62.5,107
+2012,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,49.1,89.2
+2012,23,BioPark,35.079,-106.668,Angostura Reach,69.3,105.2
+2012,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,46.1,77.8
+2012,25,Crawford,34.63835,-106.74277,Isleta Reach,130.2,165.8
+2012,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,95.4,119.5
+2012,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,32,0
+2013,1,Alameda,35.1875,-106.6459,Angostura Reach,204.3,234.8
+2013,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,154.6,164.3
+2013,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,177.2,244.9
+2013,4,Belen,34.6484315,-106.7377022,Isleta Reach,237,258.8
+2013,5,Santa Ana,35.34284,-106.5458,Cochti Reach,195.7,249.3
+2013,6,Savannah,35.14285294,-106.6819814,Angostura Reach,124.6,157.2
+2013,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,179.8,92
+2013,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,137.8,259.8
+2013,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,129.6,229.9
+2013,10,Diversion,35.1908,-106.6429,Angostura Reach,168.6,239.6
+2013,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,188.5,246.6
+2013,12,Minnow,35.19315094,-106.646915,Angostura Reach,163,256.7
+2013,13,Harrison,35.01505603,-106.6736953,Angostura Reach,133.7,252.3
+2013,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,170.6,199.2
+2013,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,176.1,242.3
+2013,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,248.8,254.3
+2013,17,Montano,35.14528819,-106.6803699,Angostura Reach,101,194
+2013,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,113.3,147.3
+2013,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,75,212.9
+2013,20,Route 66,35.1006408,-106.6914783,Angostura Reach,72.8,235.8
+2013,21,Badger,35.1956,-106.6402,Angostura Reach,183.5,229.7
+2013,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,160.7,231.1
+2013,23,BioPark,35.079,-106.668,Angostura Reach,194.8,257.1
+2013,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,267.1,377.3
+2013,25,Crawford,34.63835,-106.74277,Isleta Reach,214.3,265.2
+2013,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,20.1,19.5
+2013,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,111.5,168.5
+2014,1,Alameda,35.1875,-106.6459,Angostura Reach,95.5,134.8
+2014,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,119.8,139.8
+2014,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,121,141.1
+2014,4,Belen,34.6484315,-106.7377022,Isleta Reach,150.1,214.3
+2014,5,Santa Ana,35.34284,-106.5458,Cochti Reach,139.8,183.5
+2014,6,Savannah,35.14285294,-106.6819814,Angostura Reach,66.9,189.1
+2014,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,125.6,198.6
+2014,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,151,191.6
+2014,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,227,240.3
+2014,10,Diversion,35.1908,-106.6429,Angostura Reach,61,151.5
+2014,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,90,159.3
+2014,12,Minnow,35.19315094,-106.646915,Angostura Reach,63,133.7
+2014,13,Harrison,35.01505603,-106.6736953,Angostura Reach,163.5,221.8
+2014,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,30.8,60.8
+2014,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,143.8,204.6
+2014,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,231.2,225
+2014,17,Montano,35.14528819,-106.6803699,Angostura Reach,75.3,186
+2014,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,100.3,203
+2014,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,147.6,210.2
+2014,20,Route 66,35.1006408,-106.6914783,Angostura Reach,58.7,175.5
+2014,21,Badger,35.1956,-106.6402,Angostura Reach,79.5,115.1
+2014,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,65.2,138
+2014,23,BioPark,35.079,-106.668,Angostura Reach,123.2,174
+2014,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,108.3,181.3
+2014,25,Crawford,34.63835,-106.74277,Isleta Reach,182.5,229.5
+2014,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,167.6,213.4
+2014,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,62.2,120.1
+2014,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,0
+2014,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,0,0
+2014,30,State Land Office,34.96785,-106.6856,Angostura Reach,100,147
+2015,1,Alameda,35.1875,-106.6459,Angostura Reach,280.5,315.8
+2015,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,272.3,303
+2015,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,102.3,193
+2015,4,Belen,34.6484315,-106.7377022,Isleta Reach,190.2,305.4
+2015,5,Santa Ana,35.34284,-106.5458,Cochti Reach,257,356.5
+2015,6,Savannah,35.14285294,-106.6819814,Angostura Reach,133.5,353
+2015,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,162,247.5
+2015,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,184.1,111.1
+2015,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,351.5,318.3
+2015,10,Diversion,35.1908,-106.6429,Angostura Reach,187.3,330.6
+2015,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,178.3,320.3
+2015,12,Minnow,35.19315094,-106.646915,Angostura Reach,177.9,286
+2015,13,Harrison,35.01505603,-106.6736953,Angostura Reach,174,304.9
+2015,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,149.3,211
+2015,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,202.5,192.5
+2015,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,252.4,310.2
+2015,17,Montano,35.14528819,-106.6803699,Angostura Reach,156,339
+2015,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,166,292.5
+2015,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,217.7,320.5
+2015,20,Route 66,35.1006408,-106.6914783,Angostura Reach,118.7,306.2
+2015,21,Badger,35.1956,-106.6402,Angostura Reach,166,294.5
+2015,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,151.9,277.5
+2015,23,BioPark,35.079,-106.668,Angostura Reach,214.5,293.2
+2015,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,179.7,286.5
+2015,25,Crawford,34.63835,-106.74277,Isleta Reach,252.6,308
+2015,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,57.7,116.4
+2015,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2015,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,149.7
+2015,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,149.9,280.2
+2015,30,State Land Office,34.96785,-106.6856,Angostura Reach,230.3,311.1
+2015,31,San Jose,35.012375,-106.6728,Angostura Reach,0,0
+2016,1,Alameda,35.1875,-106.6459,Angostura Reach,103,114
+2016,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,123.8,112.5
+2016,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,86.3,120.5
+2016,4,Belen,34.6484315,-106.7377022,Isleta Reach,99.8,161.5
+2016,5,Santa Ana,35.34284,-106.5458,Cochti Reach,91.1,110
+2016,6,Savannah,35.14285294,-106.6819814,Angostura Reach,57.3,160.6
+2016,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,188,242.5
+2016,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,117,32.5
+2016,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,0,0
+2016,10,Diversion,35.1908,-106.6429,Angostura Reach,84.4,156
+2016,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,86,158.5
+2016,12,Minnow,35.19315094,-106.646915,Angostura Reach,70.2,168.6
+2016,13,Harrison,35.01505603,-106.6736953,Angostura Reach,93.4,118.1
+2016,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,148,203.5
+2016,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,81.6,92.5
+2016,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,73.3,178.5
+2016,17,Montano,35.14528819,-106.6803699,Angostura Reach,73,165.3
+2016,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,71.8,146.6
+2016,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,94.5,88.5
+2016,20,Route 66,35.1006408,-106.6914783,Angostura Reach,64.8,145.1
+2016,21,Badger,35.1956,-106.6402,Angostura Reach,85.3,136.5
+2016,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,71,122
+2016,23,BioPark,35.079,-106.668,Angostura Reach,122.5,163.1
+2016,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,43,105
+2016,25,Crawford,34.63835,-106.74277,Isleta Reach,52,175.2
+2016,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,72.4,117.5
+2016,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2016,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,101
+2016,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,55.5,178.8
+2016,30,State Land Office,34.96785,-106.6856,Angostura Reach,124.3,158
+2016,31,San Jose,35.012375,-106.6728,Angostura Reach,131.7,171.1
+2016,32,Sandia,35.255,-106.5907,Cochti Reach,54.5,145.5
+2017,1,Alameda,35.1875,-106.6459,Angostura Reach,117.3,176
+2017,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,176.4,106.8
+2017,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,119.7,230.8
+2017,4,Belen,34.6484315,-106.7377022,Isleta Reach,200.7,223.9
+2017,5,Santa Ana,35.34284,-106.5458,Cochti Reach,137.1,131.3
+2017,6,Savannah,35.14285294,-106.6819814,Angostura Reach,87.5,196.3
+2017,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,136.5,201.8
+2017,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,152,108.9
+2017,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,0,0
+2017,10,Diversion,35.1908,-106.6429,Angostura Reach,71,123
+2017,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,42.400000000000006,121
+2017,12,Minnow,35.19315094,-106.646915,Angostura Reach,73,158.3
+2017,13,Harrison,35.01505603,-106.6736953,Angostura Reach,125.6,67.3
+2017,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,114.69999999999999,160.2
+2017,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,161.7,0
+2017,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,176.2,303.7
+2017,17,Montano,35.14528819,-106.6803699,Angostura Reach,85,160.5
+2017,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,149.1,244.1
+2017,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,213.5,196.79999999999998
+2017,20,Route 66,35.1006408,-106.6914783,Angostura Reach,82.10000000000001,165.3
+2017,21,Badger,35.1956,-106.6402,Angostura Reach,72.89999999999999,144.6
+2017,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,74.1,156.9
+2017,23,BioPark,35.079,-106.668,Angostura Reach,133,195.4
+2017,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,235,208
+2017,25,Crawford,34.63835,-106.74277,Isleta Reach,262.3,297.2
+2017,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,108.8,174.5
+2017,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2017,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,2.8,154.4
+2017,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,122.6,154
+2017,30,State Land Office,34.96785,-106.6856,Angostura Reach,114.2,183.3
+2017,31,San Jose,35.012375,-106.6728,Angostura Reach,153,214
+2017,32,Sandia,35.255,-106.5907,Cochti Reach,104.5,163.1
+2018,1,Alameda,35.1875,-106.6459,Angostura Reach,9.5,16.8
+2018,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,15.899999999999999,20.9
+2018,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,5.7,12.5
+2018,4,Belen,34.6484315,-106.7377022,Isleta Reach,45.2,49.8
+2018,5,Santa Ana,35.34284,-106.5458,Cochti Reach,14.6,23.3
+2018,6,Savannah,35.14285294,-106.6819814,Angostura Reach,6.2,17.6
+2018,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,34,10.2
+2018,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,6.5,54.7
+2018,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,0,0
+2018,10,Diversion,35.1908,-106.6429,Angostura Reach,40,75.5
+2018,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,72,68.5
+2018,12,Minnow,35.19315094,-106.646915,Angostura Reach,39.4,70
+2018,13,Harrison,35.01505603,-106.6736953,Angostura Reach,40.9,55
+2018,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,32.3,37.7
+2018,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,37.1,77.5
+2018,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,32,63
+2018,17,Montano,35.14528819,-106.6803699,Angostura Reach,27.8,65
+2018,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,22.8,47.5
+2018,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,36,44.6
+2018,20,Route 66,35.1006408,-106.6914783,Angostura Reach,3.6,11.600000000000001
+2018,21,Badger,35.1956,-106.6402,Angostura Reach,46.3,61
+2018,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,41.6,60.5
+2018,23,BioPark,35.079,-106.668,Angostura Reach,53,51
+2018,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,31,68.5
+2018,25,Crawford,34.63835,-106.74277,Isleta Reach,12.5,48.6
+2018,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,34.8,66
+2018,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2018,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,0
+2018,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,21.4,42
+2018,30,State Land Office,34.96785,-106.6856,Angostura Reach,42.5,43.7
+2018,31,San Jose,35.012375,-106.6728,Angostura Reach,29.8,29.4
+2018,32,Sandia,35.255,-106.5907,Cochti Reach,21.6,23.5
+2018,33,Bosque del Apache,33.8197,-106.8539,San Acacia Reach,22.9,32.9
+2019,1,Alameda,35.1875,-106.6459,Angostura Reach,172,236.45
+2019,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,164.85,102.5
+2019,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,76,173.3
+2019,4,Belen,34.6484315,-106.7377022,Isleta Reach,147.9,191.7
+2019,5,Santa Ana,35.34284,-106.5458,Cochti Reach,171,243.5
+2019,6,Savannah,35.14285294,-106.6819814,Angostura Reach,90.7,175.5
+2019,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,151,167
+2019,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,158.15,228.8
+2019,9,Ohkay Owingeh,36.0618,-106.0761,Cochti Reach,0,0
+2019,10,Diversion,35.1908,-106.6429,Angostura Reach,125.1,220.5
+2019,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,156.5,244
+2019,12,Minnow,35.19315094,-106.646915,Angostura Reach,94,263.3
+2019,13,Harrison,35.01505603,-106.6736953,Angostura Reach,122.75,167.75
+2019,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,105.75,157.5
+2019,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,158,230.1
+2019,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,156.3,177.5
+2019,17,Montano,35.14528819,-106.6803699,Angostura Reach,62.85,221.2
+2019,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,139.3,243
+2019,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,182.3,237.3
+2019,20,Route 66,35.1006408,-106.6914783,Angostura Reach,98.35,203.75
+2019,21,Badger,35.1956,-106.6402,Angostura Reach,178.5,186.4
+2019,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,90.5,192.85
+2019,23,BioPark,35.079,-106.668,Angostura Reach,146,199.05
+2019,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,91.3,108
+2019,25,Crawford,34.63835,-106.74277,Isleta Reach,135.2,240.3
+2019,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,89.75,125
+2019,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2019,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,0
+2019,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,92.5,180.3
+2019,30,State Land Office,34.96785,-106.6856,Angostura Reach,183,224
+2019,31,San Jose,35.012375,-106.6728,Angostura Reach,138.5,179.75
+2019,32,Sandia,35.255,-106.5907,Cochti Reach,121,171
+2019,33,Bosque del Apache,33.8197,-106.8539,San Acacia Reach,131.8,84.3
+2019,34,River Realignment,33.8227,-106.8419,San Acacia Reach,136.25,108
+2020,1,Alameda,35.1875,-106.6459,Angostura Reach,94.1,99
+2020,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,102,115.25
+2020,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,58.75,131
+2020,4,Belen,34.6484315,-106.7377022,Isleta Reach,143.5,108.28
+2020,5,Santa Ana,35.34284,-106.5458,Cochti Reach,63.9,44
+2020,6,Savannah,35.14285294,-106.6819814,Angostura Reach,53.5,175.5
+2020,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,151.25,176.75
+2020,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,112,105.85
+2020,10,Diversion,35.1908,-106.6429,Angostura Reach,60.5,131.6
+2020,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,78.75,124.5
+2020,12,Minnow,35.19315094,-106.646915,Angostura Reach,74,89
+2020,13,Harrison,35.01505603,-106.6736953,Angostura Reach,111.75,175.5
+2020,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,71.5,156.75
+2020,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,87.6,110.3
+2020,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,84.2,143
+2020,17,Montano,35.14528819,-106.6803699,Angostura Reach,83.5,243.2
+2020,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,81.5,140.5
+2020,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,74.5,145
+2020,20,Route 66,35.1006408,-106.6914783,Angostura Reach,65.75,136.5
+2020,21,Badger,35.1956,-106.6402,Angostura Reach,67,113.25
+2020,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,63.5,123.75
+2020,23,BioPark,35.079,-106.668,Angostura Reach,102,139.5
+2020,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,13.5,0
+2020,25,Crawford,34.63835,-106.74277,Isleta Reach,130.6,179
+2020,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,109,191
+2020,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2020,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,0
+2020,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,69.75,175.5
+2020,30,State Land Office,34.96785,-106.6856,Angostura Reach,112.25,142.25
+2020,31,San Jose,35.012375,-106.6728,Angostura Reach,123,174.5
+2020,32,Sandia,35.255,-106.5907,Cochti Reach,33,41.5
+2020,33,Bosque del Apache,33.8197,-106.8539,San Acacia Reach,128.5,87
+2020,34,River Realignment,33.8227,-106.8419,San Acacia Reach,123.38,157.42
+2021,1,Alameda,35.1875,-106.6459,Angostura Reach,112,148.625
+2021,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,139.75,153.25
+2021,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,31.75,99.75
+2021,4,Belen,34.6484315,-106.7377022,Isleta Reach,188.75,161.6
+2021,5,Santa Ana,35.34284,-106.5458,Cochti Reach,64,117.25
+2021,6,Savannah,35.14285294,-106.6819814,Angostura Reach,33.5,206
+2021,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,161.55,213.95
+2021,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,83.3,75
+2021,10,Diversion,35.1908,-106.6429,Angostura Reach,135.25,157.9
+2021,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,76.75,151.525
+2021,12,Minnow,35.19315094,-106.646915,Angostura Reach,85,155.525
+2021,13,Harrison,35.01505603,-106.6736953,Angostura Reach,77.05,109.55
+2021,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,141.4,178.5
+2021,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,143.8,161.2
+2021,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,79.3,160.5
+2021,17,Montano,35.14528819,-106.6803699,Angostura Reach,86,161.5
+2021,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,104,157.05
+2021,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,125.95,161.6
+2021,20,Route 66,35.1006408,-106.6914783,Angostura Reach,76,162
+2021,21,Badger,35.1956,-106.6402,Angostura Reach,109.75,161.75
+2021,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,89.25,160.25
+2021,23,BioPark,35.079,-106.668,Angostura Reach,119,60.8
+2021,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,0,0
+2021,25,Crawford,34.63835,-106.74277,Isleta Reach,144.8,174.75
+2021,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,81.5,167
+2021,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2021,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,0
+2021,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,67.5,115.75
+2021,30,State Land Office,34.96785,-106.6856,Angostura Reach,81.5,123.9
+2021,31,San Jose,35.012375,-106.6728,Angostura Reach,57,105.65
+2021,32,Sandia,35.255,-106.5907,Cochti Reach,68.1,110.25
+2021,33,Bosque del Apache,33.8197,-106.8539,San Acacia Reach,35,25.5
+2021,34,River Realignment,33.8227,-106.8419,San Acacia Reach,157.5,40.5
+2022,1,Alameda,35.1875,-106.6459,Angostura Reach,5.5,9
+2022,2,Rio Grande Nature Center,35.127,-106.6854,Angostura Reach,0,0
+2022,3,Los Lunas,34.81236936,-106.714458,Isleta Reach,3,7
+2022,4,Belen,34.6484315,-106.7377022,Isleta Reach,0,0
+2022,5,Santa Ana,35.34284,-106.5458,Cochti Reach,8,13
+2022,6,Savannah,35.14285294,-106.6819814,Angostura Reach,0,0
+2022,7,Lemitar,34.16703188,-106.8899486,San Acacia Reach,0,0
+2022,8,Hispanic Cultural Center,35.06881267,-106.6580575,Angostura Reach,0,0
+2022,10,Diversion,35.1908,-106.6429,Angostura Reach,7,9.5
+2022,11,Calabacillas,35.19056822,-106.6491626,Angostura Reach,0,0
+2022,12,Minnow,35.19315094,-106.646915,Angostura Reach,7.5,8
+2022,13,Harrison,35.01505603,-106.6736953,Angostura Reach,4.5,0.5
+2022,14,Sevilleta,34.25834233,-106.8831845,San Acacia Reach,0.4,1
+2022,15,Valencia Cleared,34.64863444,-106.7391728,Isleta Reach,5,10.2
+2022,16,Valencia Forest,34.64716225,-106.738482,Isleta Reach,7.5,9
+2022,17,Montano,35.14528819,-106.6803699,Angostura Reach,6.5,9.5
+2022,18,Reynolds Cleared,34.65966431,-106.7421328,Isleta Reach,0,0
+2022,19,Reynolds Forest,34.66054583,-106.7429525,Isleta Reach,7.5,7.5
+2022,20,Route 66,35.1006408,-106.6914783,Angostura Reach,3,7
+2022,21,Badger,35.1956,-106.6402,Angostura Reach,5.5,6.5
+2022,22,Bobcat,35.19705633,-106.6439494,Angostura Reach,0,0
+2022,23,BioPark,35.079,-106.668,Angostura Reach,7,7
+2022,24,Santo Domingo,35.50989,-106.3896,Cochti Reach,0,0
+2022,25,Crawford,34.63835,-106.74277,Isleta Reach,9.5,11
+2022,26,Mesilla,32.248328,-106.821014,South of San Marcial Reach,0,0
+2022,27,Bosque Farm,34.848851,-106.714722,Isleta Reach,0,0
+2022,28,Valle de Oro,34.97895,-106.6801,Angostura Reach,0,0
+2022,29,Albuquerque Overbank Project,35.04546,-106.6657,Angostura Reach,3.5,6.5
+2022,30,State Land Office,34.96785,-106.6856,Angostura Reach,5,6.5
+2022,31,San Jose,35.012375,-106.6728,Angostura Reach,0.1,7
+2022,32,Sandia,35.255,-106.5907,Cochti Reach,7.5,10.5
+2022,33,Bosque del Apache,33.8197,-106.8539,San Acacia Reach,0.3,1.3
+2022,34,River Realignment,33.8227,-106.8419,San Acacia Reach,0,0
