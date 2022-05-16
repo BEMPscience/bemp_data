@@ -3,8 +3,6 @@
 
 ## Water quality data on the Middle Rio Grande.
 
-Click on the csv you want to download then right click on the raw button to save as a csv. 
-
 <img src="https://github.com/BEMPscience/bemp_data/blob/master/water_quality/images/2021_water_chem_sample_sites.png" width=75% height=75%>
 2021 sample sites map showing the complex interactions of streets, drains, arroyos, and landscape. 
 
