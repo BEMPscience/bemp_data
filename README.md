@@ -28,7 +28,7 @@ BEMP science and education take place on current and ancestral lands of the Pueb
 
 Citing these data: BEMP. (2022). BEMPscience/bemp_data: BEMP Core Community Science Data - Riparian floodplain (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3697197 <br>
 
-BEMP is a partnership between the Sevilleta Long Term Ecological Research Station and the University of New Mexico Department of Biology.  
+BEMP is a partnership between the Sevilleta Long Term Ecological Research Station and the University of New Mexico Department of Biology. The primary start funding for the Bosque Ecosystem Monitoring Program came from the National Science Foundation (Grant No. DEB-9420510, Amendment No. 004, 1997) through the Univeristy of New Mexico Department of Biology. 
 
 Data and text are under the CC-BY 4.0 license. 
 Logo is under CC-BY-NC-SA 4.0 license.
