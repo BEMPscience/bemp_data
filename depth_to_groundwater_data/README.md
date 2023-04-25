@@ -4,7 +4,7 @@
 
 ## Depth to groundwater data for the riparian floodplain of the Rio Grande
 
-Click on the csv you want to download then right click on the raw button to save as a csv. 
+The data are in the date folder. Once in the folder click on the csv you want to download then right click on the raw button to save as a csv. 
 
 <img src="https://github.com/BEMPscience/bemp_data/blob/master/depth_to_groundwater_data/images/info_graphic_boxplot_and_variance.png" width=75% height=75%>
 
