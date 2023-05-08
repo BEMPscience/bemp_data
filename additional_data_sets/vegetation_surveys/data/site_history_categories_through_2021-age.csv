@@ -1,0 +1,554 @@
+Site number,Site name,History,Year,Install month,Flood,Fire,Cleared,Flooding,cottonwood age,Cottonwood age structure
+1,Alameda,,1997,3,0,0,0,nonflood,old,Mature
+1,Alameda,,1998,.,0,0,0,nonflood,old,Mature
+1,Alameda,,1999,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2000,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2001,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2002,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2003,.,0,0,0,nonflood,old,Mature
+1,Alameda,Cleared,2004,.,0,0,1,nonflood,old,Mature
+1,Alameda,Water diversion,2005,.,0,0,0,nonflood,old,Mature
+1,Alameda,Water diversion,2006,.,0,0,0,nonflood,old,Mature
+1,Alameda,Mulch,2007,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2008,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2009,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2010,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2011,.,0,0,0,nonflood,old,Mature
+1,Alameda,Water diversion,2012,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2013,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2014,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2015,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2016,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2017,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2018,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2019,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2020,.,0,0,0,nonflood,old,Mature
+1,Alameda,,2021,.,0,0,0,nonflood,old,Mature
+2,Rio Grande Nature Center,,1997,6,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,1998,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,1999,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2000,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2001,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2002,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2003,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,Cleared,2004,.,0,0,1,nonflood,mature,Mature
+2,Rio Grande Nature Center,Water diversion,2005,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,Water diversion,2006,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2007,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2008,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2009,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2010,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2011,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2012,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2013,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2014,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2015,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2016,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2017,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2018,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2019,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2020,.,0,0,0,nonflood,mature,Mature
+2,Rio Grande Nature Center,,2021,.,0,0,0,nonflood,mature,Mature
+3,Los Lunas,,1997,10,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,1998,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,1999,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2000,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2001,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2002,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2003,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2004,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2005,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2006,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,Fire,2007,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2008,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,Seep flood,2009,.,1,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2010,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2011,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2012,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2013,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2014,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2015,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,,2016,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,Seep flood,2017,.,1,0,0,flood,old,Mature-mixed
+3,Los Lunas,Seep flood,2018,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,Seep flood,2019,.,1,0,0,flood,old,Mature-mixed
+3,Los Lunas,Seep flood,2020,.,0,0,0,flood,old,Mature-mixed
+3,Los Lunas,Seep flood,2021,.,0,0,0,flood,old,Mature-mixed
+4,Belen,Overbank flood,1998,2,1,0,0,flood,young,Mature-mixed
+4,Belen,Overbank flood,1999,.,1,0,0,flood,young,Mature-mixed
+4,Belen,,2000,.,0,0,0,flood,young,Mature-mixed
+4,Belen,,2001,.,0,0,0,flood,young,Mature-mixed
+4,Belen,,2002,.,0,0,0,flood,young,Mature-mixed
+4,Belen,,2003,.,0,0,0,flood,young,Mature-mixed
+4,Belen,Overbank flood,2004,.,1,0,0,flood,young,Mature-mixed
+4,Belen,Flood,2005,.,1,0,0,flood,young,Mature-mixed
+4,Belen,,2006,.,0,0,0,flood,young,Mature-mixed
+4,Belen,Fire western edge,2007,.,0,1,0,flood,young,Mature-mixed
+4,Belen,,2008,.,0,0,0,flood,young,Mature-mixed
+4,Belen,Bank lowering flood,2009,.,1,0,0,flood,young,Mature-mixed
+4,Belen,Flood,2010,.,1,0,0,flood,young,Mature-mixed
+4,Belen,,2011,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,,2012,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,,2013,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,,2014,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,,2015,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,,2016,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,Overbank flooding,2017,.,1,0,0,flood,mature,Mature-mixed
+4,Belen,Overbank flooding,2018,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,Overbank flooding,2019,.,1,0,0,flood,mature,Mature-mixed
+4,Belen,Overbank flooding,2020,.,0,0,0,flood,mature,Mature-mixed
+4,Belen,Overbank flooding,2021,.,0,0,0,flood,mature,Mature-mixed
+5,Santa Ana,Flood run-off,1999,7,1,0,0,nonflood,mature,Mature
+5,Santa Ana,,2000,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2001,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2002,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2003,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2004,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2005,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2006,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2007,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2008,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2009,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2010,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2011,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2012,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2013,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2014,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2015,.,0,0,0,nonflood,mature,Mature
+5,Santa Ana,,2016,.,0,0,0,nonflood,old,Mature
+5,Santa Ana,Herbicide,2017,.,0,0,1,nonflood,old,Mature
+5,Santa Ana,Herbicide,2018,.,0,0,1,nonflood,old,Mature
+5,Santa Ana,Herbicide,2019,.,0,0,1,nonflood,old,Mature
+5,Santa Ana,Herbicide,2020,.,0,0,1,nonflood,old,Mature
+5,Santa Ana,Herbicide,2021,.,0,0,1,nonflood,old,Mature
+6,Savannah,Mowed,2003,3,0,1,1,nonflood,young,Mature
+6,Savannah,,2004,.,0,0,0,nonflood,young,Mature
+6,Savannah,Water diversion,2005,.,0,0,0,nonflood,young,Mature
+6,Savannah,Water diversion,2006,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2007,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2008,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2009,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2010,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2011,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2012,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2013,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2014,.,0,0,0,nonflood,young,Mature
+6,Savannah,,2015,.,0,0,0,nonflood,mature,Mature
+6,Savannah,,2016,.,0,0,0,nonflood,mature,Mature
+6,Savannah,,2017,.,0,0,0,nonflood,mature,Mature
+6,Savannah,,2018,.,0,0,0,nonflood,mature,Mature
+6,Savannah,,2019,.,1,0,0,nonflood,mature,Mature
+6,Savannah,,2020,.,0,0,0,nonflood,mature,Mature
+6,Savannah,,2021,.,0,0,0,nonflood,mature,Mature
+7,Lemitar,Outside levy,2000,9,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2001,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2002,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2003,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2004,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2005,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2006,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2007,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2008,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2009,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2010,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2011,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2012,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2013,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2014,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2015,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2016,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2017,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2018,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2019,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2020,.,0,0,0,removed,mature,Mature
+7,Lemitar,Outside levy,2021,.,0,0,0,removed,mature,Mature
+8,Hispanic Cultural Center,Cleared,2002,1,0,0,1,nonflood,old,Mature
+8,Hispanic Cultural Center,,2003,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,Exotic removal,2004,.,0,0,1,nonflood,old,Mature
+8,Hispanic Cultural Center,Water diversion,2005,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,Water diversion,2006,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2007,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2008,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2009,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2010,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2011,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2012,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2013,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2014,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2015,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,,2016,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,Flood 5m to the west of the west well,2017,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,Flood 5m to the west of the west well,2018,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,Flood 5m to the west of the west well,2019,.,1,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,Flood 5m to the west of the west well,2020,.,0,0,0,nonflood,old,Mature
+8,Hispanic Cultural Center,Flood 5m to the west of the west well,2021,.,0,0,0,nonflood,old,Mature
+9,Ohkay Owingeh,Flood,2002,3,1,0,0,flood,old,Young
+9,Ohkay Owingeh,Fire flood,2003,.,1,1,0,flood,old,Young
+9,Ohkay Owingeh,Flood,2004,.,1,0,0,flood,old,Young
+9,Ohkay Owingeh,Flood,2005,.,1,0,0,flood,old,Young
+9,Ohkay Owingeh,Flood,2006,.,1,0,0,flood,old,Young
+9,Ohkay Owingeh,Flood,2007,.,1,0,0,flood,old,Young
+9,Ohkay Owingeh,Flood,2008,.,1,0,0,flood,old,Young
+9,Ohkay Owingeh,Flood,2009,.,1,0,0,flood,old,Young
+9,Ohkay Owingeh,Fire (intense heat) flood ,2010,.,1,1,0,flood,old,Young
+9,Ohkay Owingeh,Flood,2011,.,1,0,0,flood,sapling,Young
+9,Ohkay Owingeh,Fire,2012,.,0,1,0,flood,sapling,Young
+9,Ohkay Owingeh,,2013,.,0,0,0,flood,sapling,Young
+9,Ohkay Owingeh,,2014,.,0,0,0,flood,sapling,Young
+9,Ohkay Owingeh,,2015,.,0,0,0,flood,sapling,Young
+9,Ohkay Owingeh,,2016,.,0,0,0,flood,sapling,Young
+9,Ohkay Owingeh,,2017,.,0,0,0,flood,sapling,Young
+9,Ohkay Owingeh,,2018,.,0,0,0,flood,sapling,Young
+9,Ohkay Owingeh,,2019,.,.,0,0,flood,sapling,Young
+9,Ohkay Owingeh,,2020,.,0,0,0,flood,young,Young
+9,Ohkay Owingeh,,2021,.,0,0,0,flood,young,Young
+10,Diverson,,2002,8,0,0,0,nonflood,young,Mature
+10,Diverson,Cleared,2003,.,0,0,1,nonflood,young,Mature
+10,Diverson,,2004,.,0,0,0,nonflood,young,Mature
+10,Diverson,Water diversion,2005,.,0,0,0,nonflood,young,Mature
+10,Diverson,Water diversion,2006,.,0,0,0,nonflood,young,Mature
+10,Diverson,,2007,.,0,0,0,nonflood,mature,Mature
+10,Diverson,,2008,.,0,0,0,nonflood,mature,Mature
+10,Diverson,,2009,.,0,0,0,nonflood,mature,Mature
+10,Diverson,,2010,.,0,0,0,nonflood,mature,Mature
+10,Diverson,Beavers,2011,.,0,0,1,nonflood,mature,Mature
+10,Diverson,Water diversion,2012,.,0,0,0,nonflood,mature,Mature
+10,Diverson,,2013,.,0,0,0,nonflood,mature,Mature
+10,Diverson,,2014,.,0,0,0,nonflood,sapling,Mature
+10,Diverson,,2015,.,0,0,0,nonflood,sapling,Mature
+10,Diverson,,2016,.,0,0,0,nonflood,sapling,Mature
+10,Diverson,Overbank flooding,2017,.,1,0,0,nonflood,sapling,Mature
+10,Diverson,Overbank flooding,2018,.,0,0,0,nonflood,sapling,Mature
+10,Diverson,Overbank flooding,2019,.,1,0,0,nonflood,sapling,Mature
+10,Diverson,Overbank flooding,2020,.,0,0,0,nonflood,young,Mature
+10,Diverson,Overbank flooding,2021,.,0,0,0,nonflood,young,Mature
+11,Calabacillas,,2002,10,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2003,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,Clearing,2004,.,0,0,1,nonflood,mature,Mature
+11,Calabacillas,Water diversion,2005,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,Water diversion,2006,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2007,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2008,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,Clearing,2009,.,0,0,1,nonflood,mature,Mature
+11,Calabacillas,,2010,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,Mulch,2011,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2012,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2013,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2014,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2015,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2016,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2017,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2018,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2019,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2020,.,0,0,0,nonflood,mature,Mature
+11,Calabacillas,,2021,.,0,0,0,nonflood,mature,Mature
+12,Minnow,,2002,12,0,0,0,nonflood,old,Mature
+12,Minnow,,2003,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2004,.,0,0,0,nonflood,old,Mature
+12,Minnow,Water diversion,2005,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2006,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2007,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2008,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2009,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2010,.,0,0,0,nonflood,old,Mature
+12,Minnow,Mulch,2011,.,0,0,0,nonflood,old,Mature
+12,Minnow,Planted water diversion,2012,.,0,0,0,nonflood,old,Mature
+12,Minnow,Cleared,2013,.,0,0,1,nonflood,old,Mature
+12,Minnow,,2014,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2015,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2016,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2017,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2018,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2019,.,1,0,0,nonflood,old,Mature
+12,Minnow,,2020,.,0,0,0,nonflood,old,Mature
+12,Minnow,,2021,.,0,0,0,nonflood,old,Mature
+13,Harrison,Side channel,2003,4,0,0,0,flood,young,Young
+13,Harrison,,2004,.,0,0,0,flood,young,Young
+13,Harrison,Flood,2005,.,1,0,0,flood,young,Young
+13,Harrison,,2006,.,0,0,0,flood,young,Young
+13,Harrison,Flood,2007,.,1,0,0,flood,young,Young
+13,Harrison,,2008,.,0,0,0,flood,young,Young
+13,Harrison,Flood,2009,.,1,0,0,flood,young,Young
+13,Harrison,Flood,2010,.,1,0,0,flood,young,Young
+13,Harrison,,2011,.,0,0,0,flood,sapling,Young
+13,Harrison,Scallops flash flood,2012,.,1,0,0,flood,sapling,Young
+13,Harrison,Flash flood,2013,.,1,0,0,flood,sapling,Young
+13,Harrison,,2014,.,0,0,0,flood,young,Young
+13,Harrison,,2015,.,0,0,0,flood,young,Young
+13,Harrison,,2016,.,0,0,0,flood,young,Young
+13,Harrison,Overbank flood,2017,.,1,0,0,flood,young,Young
+13,Harrison,Overbank flood,2018,.,0,0,0,flood,young,Young
+13,Harrison,Overbank flood,2019,.,1,0,0,flood,mature,Young
+13,Harrison,Overbank flood,2020,.,0,0,0,flood,mature,Young
+13,Harrison,Overbank flood,2021,.,0,0,0,flood,mature,Young
+14,Sevilleta,,2003,10,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2004,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2005,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2006,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2007,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,Flood,2008,.,1,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2009,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2010,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2011,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2012,.,0,0,0,flood,young,Mature-mixed
+14,Sevilleta,,2013,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2014,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2015,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2016,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2017,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2018,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2019,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2020,.,0,0,0,flood,mature,Mature-mixed
+14,Sevilleta,,2021,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Exotic removal,2003,6,0,0,1,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood west well,2004,.,1,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood west well,2005,.,1,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,,2006,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,,2007,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Exotic removal Seep flood west well ,2008,.,1,0,1,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood west well,2009,.,1,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood west well,2010,.,1,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,,2011,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Site modification (partial road),2012,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,,2013,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,,2014,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,,2015,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,,2016,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood,2017,.,1,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood,2018,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood,2019,.,1,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood,2020,.,0,0,0,flood,mature,Mature-mixed
+15,Valencia Cleared,Seep flood,2021,.,0,0,0,flood,mature,Mature-mixed
+16,Valencia Forest,,2003,6,0,0,0,nonflood,mature,Mature
+16,Valencia Forest,,2004,.,0,0,0,nonflood,mature,Mature
+16,Valencia Forest,,2005,.,0,0,0,nonflood,mature,Mature
+16,Valencia Forest,,2006,.,0,0,0,nonflood,mature,Mature
+16,Valencia Forest,Fire,2007,.,0,1,0,nonflood,sapling,Mature
+16,Valencia Forest,Cleared,2008,.,0,0,1,nonflood,sapling,Mature
+16,Valencia Forest,Cleared,2009,.,0,0,1,nonflood,sapling,Mature
+16,Valencia Forest,Cleared,2010,.,0,0,1,nonflood,young,Mature
+16,Valencia Forest,,2011,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2012,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2013,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2014,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2015,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2016,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2017,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2018,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2019,.,1,0,0,nonflood,young,Mature
+16,Valencia Forest,,2020,.,0,0,0,nonflood,young,Mature
+16,Valencia Forest,,2021,.,0,0,0,nonflood,young,Mature
+17,Montano,Exotic removal pole plants,2004,4,0,0,1,nonflood,mature,Young
+17,Montano,Water diversion,2005,.,0,0,0,nonflood,mature,Young
+17,Montano,Water diversion,2006,.,0,0,0,nonflood,mature,Young
+17,Montano,,2007,.,0,0,0,nonflood,mature,Young
+17,Montano,,2008,.,0,0,0,nonflood,mature,Young
+17,Montano,,2009,.,0,0,0,nonflood,mature,Young
+17,Montano,,2010,.,0,0,0,nonflood,mature,Young
+17,Montano,,2011,.,0,0,0,nonflood,mature,Young
+17,Montano,Mowed,2012,.,0,0,1,nonflood,mature,Young
+17,Montano,,2013,.,0,0,0,nonflood,mature,Young
+17,Montano,,2014,.,0,0,0,nonflood,mature,Young
+17,Montano,,2015,.,0,0,0,nonflood,mature,Young
+17,Montano,,2016,.,0,0,0,nonflood,mature,Young
+17,Montano,,2017,.,0,0,0,nonflood,mature,Young
+17,Montano,,2018,.,0,0,0,nonflood,mature,Young
+17,Montano,,2019,.,1,0,0,nonflood,mature,Young
+17,Montano,,2020,.,0,0,0,nonflood,mature,Young
+17,Montano,,2021,.,0,0,0,nonflood,mature,Young
+18,Reynolds Cleared,Planted before install,2004,4,0,0,1,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2005,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2006,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2007,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2008,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2009,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2010,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2011,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,Exotic removal,2012,.,0,0,1,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2013,.,0,0,0,nonflood,mature-mixed,Mature
+18,Reynolds Cleared,,2014,.,0,0,0,nonflood,mature,Mature
+18,Reynolds Cleared,,2015,.,0,0,0,nonflood,mature,Mature
+18,Reynolds Cleared,,2016,.,0,0,0,nonflood,mature,Mature
+18,Reynolds Cleared,Seep flood,2017,.,1,0,0,nonflood,mature,Mature
+18,Reynolds Cleared,Seep flood,2018,.,0,0,0,nonflood,mature,Mature
+18,Reynolds Cleared,Seep flood,2019,.,1,0,0,nonflood,mature,Mature
+18,Reynolds Cleared,Seep flood,2020,.,0,0,0,nonflood,mature,Mature
+18,Reynolds Cleared,Seep flood,2021,.,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2004,4,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2005,.,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2006,.,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2007,.,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2008,.,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2009,.,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2010,.,0,0,0,nonflood,mature,Mature
+19,Reynolds Forest,,2011,.,0,0,0,nonflood,old,Mature
+19,Reynolds Forest,Cleared mulched,2012,.,0,0,1,nonflood,old,Mature
+19,Reynolds Forest,,2013,.,0,0,0,nonflood,old,Mature
+19,Reynolds Forest,,2014,.,0,0,0,nonflood,old,Mature
+19,Reynolds Forest,,2015,.,0,0,0,nonflood,old,Mature
+19,Reynolds Forest,,2016,.,0,0,0,nonflood,old,Mature
+19,Reynolds Forest,Seep flooding,2017,.,1,0,0,nonflood,old,Mature
+19,Reynolds Forest,Seep flooding,2018,.,0,0,0,nonflood,old,Mature
+19,Reynolds Forest,Seep flooding,2019,.,1,0,0,nonflood,old,Mature
+19,Reynolds Forest,Seep flooding,2020,.,0,0,0,nonflood,old,Mature
+19,Reynolds Forest,Seep flooding,2021,.,0,0,0,nonflood,old,Mature
+20,Route 66,,2004,12,0,0,0,flood,mature,Mature-mixed
+20,Route 66,Water diversion flood,2005,.,1,0,0,flood,mature,Mature-mixed
+20,Route 66,Water diversion,2006,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,Flood,2007,.,1,0,0,flood,mature,Mature-mixed
+20,Route 66,Cleared flood,2008,.,1,0,1,flood,mature,Mature-mixed
+20,Route 66,Flood,2009,.,1,0,0,flood,mature,Mature-mixed
+20,Route 66,Flood,2010,.,1,0,0,flood,mature,Mature-mixed
+20,Route 66,,2011,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,,2012,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,,2013,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,,2014,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,,2015,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,,2016,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,Seep flood,2017,.,1,0,0,flood,mature,Mature-mixed
+20,Route 66,Seep flood,2018,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,Seep flood,2019,.,1,0,0,flood,mature,Mature-mixed
+20,Route 66,Seep flood,2020,.,0,0,0,flood,mature,Mature-mixed
+20,Route 66,Seep flood,2021,.,0,0,0,flood,mature,Mature-mixed
+21,Badger,Water diversion,2005,1,0,0,0,nonflood,old,Mature
+21,Badger,Water diversion,2006,.,0,0,0,nonflood,old,Mature
+21,Badger,,2007,.,0,0,0,nonflood,old,Mature
+21,Badger,,2008,.,0,0,0,nonflood,old,Mature
+21,Badger,,2009,.,0,0,0,nonflood,old,Mature
+21,Badger,,2010,.,0,0,0,nonflood,old,Mature
+21,Badger,Mulch,2011,.,0,0,0,nonflood,old,Mature
+21,Badger,Water diversion,2012,.,0,0,0,nonflood,old,Mature
+21,Badger,,2013,.,0,0,0,nonflood,old,Mature
+21,Badger,,2014,.,0,0,0,nonflood,old,Mature
+21,Badger,,2015,.,0,0,0,nonflood,old,Mature
+21,Badger,,2016,.,0,0,0,nonflood,old,Mature
+21,Badger,Exotic removal,2017,.,0,0,1,nonflood,old,Mature
+21,Badger,Exotic removal,2018,.,0,0,1,nonflood,old,Mature
+21,Badger,Exotic removal,2019,.,0,0,1,nonflood,old,Mature
+21,Badger,Exotic removal,2020,.,0,0,1,nonflood,old,Mature
+21,Badger,Exotic removal,2021,.,0,0,1,nonflood,old,Mature
+22,Bobcat,Water diversion,2005,1,0,0,0,nonflood,old,Mature
+22,Bobcat,,2006,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2007,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2008,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2009,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2010,.,0,0,0,nonflood,old,Mature
+22,Bobcat,Mulched,2011,.,0,0,0,nonflood,old,Mature
+22,Bobcat,Water diversion,2012,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2013,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2014,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2015,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2016,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2017,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2018,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2019,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2020,.,0,0,0,nonflood,old,Mature
+22,Bobcat,,2021,.,0,0,0,nonflood,old,Mature
+23,BioPark,Exotic removal,2007,3,0,0,1,nonflood,mature,Mature
+23,BioPark,,2008,.,0,0,0,nonflood,mature,Mature
+23,BioPark,,2009,.,0,0,0,nonflood,mature,Mature
+23,BioPark,Fire,2010,.,0,1,0,nonflood,mature,Mature
+23,BioPark,,2011,.,0,0,0,nonflood,mature,Mature
+23,BioPark,,2012,.,0,0,0,nonflood,mature,Mature
+23,BioPark,,2013,.,0,0,0,nonflood,mature,Mature
+23,BioPark,,2014,.,0,0,0,nonflood,mature,Mature
+23,BioPark,,2015,.,0,0,0,nonflood,old,Mature
+23,BioPark,,2016,.,0,0,0,nonflood,old,Mature
+23,BioPark,Flooding,2017,.,1,0,0,nonflood,old,Mature
+23,BioPark,Flooding,2018,.,0,0,0,nonflood,old,Mature
+23,BioPark,Flooding,2019,.,1,0,0,nonflood,old,Mature
+23,BioPark,Flooding,2020,.,0,0,0,nonflood,old,Mature
+23,BioPark,Flooding,2021,.,0,1,0,nonflood,old,Mature
+24,Santo Domingo,,2008,1,0,0,1,nonflood,old,Mature
+24,Santo Domingo,,2009,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2010,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2011,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2012,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2013,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2014,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2015,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2016,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2017,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2018,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2019,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2020,.,0,0,0,nonflood,old,Mature
+24,Santo Domingo,,2021,.,0,0,0,nonflood,old,Mature
+25,Crawford,Cleared,2008,10,0,0,1,flood,old,Young
+25,Crawford,Bank lowering flood,2009,.,1,0,1,flood,seedling,Seedling
+25,Crawford,Flood,2010,.,1,0,0,flood,seedling,Seedling
+25,Crawford,,2011,.,0,0,0,flood,seedling,Seedling
+25,Crawford,,2012,.,0,0,0,flood,sapling,Seedling
+25,Crawford,,2013,.,0,0,0,flood,sapling,Seedling
+25,Crawford,,2014,.,0,0,0,flood,sapling,Sapling
+25,Crawford,,2015,.,0,0,0,flood,sapling,Sapling
+25,Crawford,Flood,2016,.,1,0,0,flood,sapling,Sapling
+25,Crawford,Flood,2017,.,1,0,0,flood,sapling,Sapling
+25,Crawford,Flood,2018,.,0,0,0,flood,sapling,Sapling
+25,Crawford,Flood,2019,.,1,0,0,flood,young,Sapling
+25,Crawford,Flood,2020,.,0,0,0,flood,young,Sapling
+25,Crawford,Flood,2021,.,0,0,0,flood,young,Sapling
+26,Mesilla,Exotic removal,2011,6,0,0,1,nonflood,None,None
+26,Mesilla,Cleared,2012,.,0,0,1,nonflood,None,None
+26,Mesilla,,2013,.,0,0,0,nonflood,None,None
+26,Mesilla,,2014,.,0,0,0,nonflood,None,None
+26,Mesilla,,2015,.,0,0,0,nonflood,None,None
+26,Mesilla,,2016,.,0,0,0,nonflood,None,None
+26,Mesilla,,2017,.,0,0,0,nonflood,None,None
+26,Mesilla,,2018,.,0,0,0,nonflood,None,None
+26,Mesilla,,2019,.,0,0,0,nonflood,None,None
+26,Mesilla,,2020,.,0,0,0,nonflood,None,None
+26,Mesilla,,2021,.,0,0,0,nonflood,None,None
+27,Bosque Farms,,2012,2,0,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,,2013,.,0,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,,2014,.,0,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,,2015,.,0,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,,2016,.,0,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,Overbank flooding,2017,.,1,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,Overbank flooding,2018,.,0,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,Overbank flooding,2019,.,1,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,Overbank flooding,2020,.,0,0,0,flood,mature,Mature-mixed
+27,Bosque Farms,Overbank flooding,2021,.,0,0,0,flood,mature,Mature-mixed
+28,Valle de Oro,Farmland,2014,1,0,0,0,nonflood,None,None
+28,Valle de Oro,Exotic removal,2015,.,0,0,1,nonflood,None,None
+28,Valle de Oro,,2016,.,0,0,0,nonflood,None,None
+28,Valle de Oro,,2017,.,0,0,0,nonflood,None,None
+28,Valle de Oro,,2018,.,0,0,0,nonflood,None,None
+28,Valle de Oro,,2019,.,0,0,0,nonflood,None,None
+28,Valle de Oro,,2020,.,0,0,0,nonflood,None,None
+28,Valle de Oro,,2021,.,0,0,0,nonflood,None,None
+29,Albuquerque Overbank Project,,2014,3,0,0,0,flood,mature,Young
+29,Albuquerque Overbank Project,,2015,.,0,0,0,flood,mature,Young
+29,Albuquerque Overbank Project,Flood,2016,.,1,0,0,flood,mature,Young
+29,Albuquerque Overbank Project,Flood,2017,.,1,0,0,flood,mature,Young
+29,Albuquerque Overbank Project,Flood,2018,.,0,0,0,flood,mature,Young
+29,Albuquerque Overbank Project,Flood,2019,.,1,0,0,flood,mature,Young
+29,Albuquerque Overbank Project,Flood,2020,.,0,0,0,flood,mature,Young
+29,Albuquerque Overbank Project,Flood,2021,.,0,0,0,flood,mature,Young
+30,State Land Office,Cleared swales,2014,6,0,0,1,flood,old,Mature-mixed
+30,State Land Office,,2015,.,0,0,0,flood,old,Mature-mixed
+30,State Land Office,,2016,.,0,0,0,flood,old,Mature-mixed
+30,State Land Office,Exotic removal seep flood,2017,.,1,0,1,flood,old,Mature-mixed
+30,State Land Office,Exotic removal seep flood,2018,.,0,0,1,flood,old,Mature-mixed
+30,State Land Office,Exotic removal seep flood,2019,.,1,0,1,flood,old,Mature-mixed
+30,State Land Office,Exotic removal seep flood,2020,.,0,0,1,flood,old,Mature-mixed
+30,State Land Office,Exotic removal seep flood,2021,.,0,0,1,flood,old,Mature-mixed
+31,San Jose,Flood,2015,12,1,0,0,flood,mature-mixed,Mature-mixed
+31,San Jose,,2016,.,0,0,0,flood,mature-mixed,Mature-mixed
+31,San Jose,Flood,2017,.,1,0,0,flood,mature-mixed,Mature-mixed
+31,San Jose,Flood,2018,.,0,0,0,flood,mature-mixed,Mature-mixed
+31,San Jose,Flood,2019,.,1,0,0,flood,mature-mixed,Mature-mixed
+31,San Jose,Flood,2020,.,0,0,0,flood,mature-mixed,Mature-mixed
+31,San Jose,Flood,2021,.,0,0,0,flood,mature-mixed,Mature-mixed
+32,Sandia,,2016,2,0,0,0,nonflood,None,None
+32,Sandia,,2017,.,0,0,0,nonflood,None,None
+32,Sandia,,2018,.,0,0,0,nonflood,None,None
+32,Sandia,,2019,.,0,0,0,nonflood,None,None
+32,Sandia,,2020,.,0,0,0,nonflood,None,None
+32,Sandia,,2021,.,0,0,0,nonflood,None,None
+33,Bosque del Apache,,2018,2,0,0,0,flood,old,Mature
+33,Bosque del Apache,,2019,.,1,0,0,flood,old,Mature
+33,Bosque del Apache,,2020,.,0,0,0,flood,old,Mature
+33,Bosque del Apache,,2021,.,0,0,0,flood,old,Mature
+34,River Realignment,,2019,4,1,0,0,flood,None,None
+34,River Realignment,,2020,.,0,0,0,flood,None,None
+34,River Realignment,,2021,.,0,0,0,flood,None,None
