@@ -4,9 +4,7 @@
 
 Data are located in the data folder. 
 
-<img src="https://github.com/BEMPscience/bemp_data/blob/master/surface_active_arthropods/images/2016_most_prob_artho_topics_by_reach.png" width=75% height=75%>
-
-Topic model (LDA) of the 2016 arthropod communites across the Rio Grande flood plain. Mostly probably topics are shown for each reach. These can be thought of as community composition with the size of the species name scaled to abundace of the species. 
+<img src="https://github.com/BEMPscience/bemp_data/blob/master/surface_active_arthropods/images/bosquefarms_calosoma_scrutator.jpg" width=75% height=75%>
 
 ### Purpose
 The 20 pitfall traps at each site are used to measure surface active arthropod activity. The presence, absence, abundance, and diversity of particular arthropods provide supporting data on the ecological condition of each site. 
