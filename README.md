@@ -22,7 +22,7 @@ Water quality on the Rio Grande<br>
 Pressure transducer data from the shallow riparian aquifer<br>
 Temperature data logger<br>
 
-<img src="https://github.com/BEMPscience/bemp_data/blob/master/images/sev_poster_graphical_abstract.png" width=75% height=75%>
+<img src="https://github.com/BEMPscience/bemp_data/blob/master/images/biopark_globemallow_and_bumblebee.jpg" width=75% height=75%>
 
 BEMP science and education take place on current and ancestral lands of the Pueblo, Diné (Navajo), Apache, and other displaced Indigenous Peoples.
 
