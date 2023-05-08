@@ -1,0 +1,537 @@
+DATABASE NAME,CLASS,ORDER,FAMILY,GENUS,CODE,NAMECODE,CLASS,ORDER,FAMILY ,GENUS/SPECIES,COMMON NAME,NOTES,Found in Pitfall Dataset?
+No captures,0,00,00,00,0000000,NOCAP,,,,,,,
+Insecta,1,00,00,00,1000000,IN,Insecta,,,,All insects,Please avoid use of this code- refine to order at the very least,Yes
+Insecta larva,1,00,00,01,1000001,INLA,Insecta,,,,Generic insect larva,,Yes
+Coleoptera,1,02,00,00,1020000,INCO,Insecta,Coleoptera,,,Beetles,,Yes
+Coleoptera larva,1,02,00,01,1020001,INCOLAR,Insecta,Coleoptera,,Coleoptera larva,Beetle larva,,Yes
+Polyphaga,1,02,00,02,1020002,INCOPOL,Insecta,Coleoptera,Polyphaga (suborder),,"Water, Rove, Scarab, Long-horned, and Snout beetles",,Yes
+Mordellidae,1,02,02,00,1020200,INCOMOR,Insecta,Coleoptera,Mordellidae,,Tumbling flower beetles,,Yes
+Anaspis sp.,1,02,03,01,1020601,COSCRANA,Insecta,Coleoptera,Scraptiidae,Anaspis sp.,,,
+Scarabaeidae,1,02,04,00,1020400,INCOSCA,Insecta,Coleoptera,Scarabaeidae,,Scarab beetles,,Yes
+Melolonthinae,1,02,04,13,1020413,COSCMEL,Insecta,Coleoptera,Scarabaeidae,Melolonthinae,,,
+Dichelonyx sp.,1,02,04,12,1020412,SCDICH,Insecta,Coleoptera,Scarabaeidae,Dichelonyx sp.,,,
+Cremastocheilus sp.,1,02,04,14,1020414,COSCCRE,Insecta,Coleoptera,Scarabaeidae,Cremastocheilus sp.,,,
+Serica sp.,1,02,04,02,1020402,SCSER,Insecta,Coleoptera,Scarabaeidae,Serica sp.,,,Yes
+Ataenius sp.,1,02,04,03,1020403,COSCAATA,Insecta,Coleoptera,Scarabaeidae,Ataenius sp.,,,
+Onthophagus sp.,1,02,04,04,1020404,SCAONT,Insecta,Coleoptera,Scarabaeidae,Onthophagus sp.,,,Yes
+Aphodius sp.,1,02,04,05,1020405,COSCAAPH,Insecta,Coleoptera,Scarabaeidae,Aphodius sp.,,,
+Ochodaeus sp.,1,02,04,06,1020406,SCOCH,Insecta,Coleoptera,Scarabaeidae,Ochodaeus sp.,,,Yes
+Hoplia sp.,1,02,04,08,1020408,SCHOP,Insecta,Coleoptera,Scarabaeidae,Hoplia sp.,,,Yes
+Serica alternata,1,02,04,09,1020409,SCSERALT,Insecta,Coleoptera,Scarabaeidae,Serica alternata  ,,,
+Pseudataenius sp.,1,02,04,10,1020410,COSCAPSE,Insecta,Coleoptera,Scarabaeidae,Pseudataenius sp.,,,
+Phyllophaga sp.,1,02,04,11,1020411,SCPHY,Insecta,Coleoptera,Scarabaeidae,Phyllophaga sp.,May beetles (genus),,Yes
+Elateridae,1,02,05,00,1020500,INCOELA,Insecta,Coleoptera,Elateridae,,Click beetles,,Yes
+Aeolus sp.,1,02,05,06,1020506,ELAAEO,Insecta,Coleoptera,Elateridae,Aeolus sp.,Sweet click beetle,,
+Conoderus sp.,1,02,05,09,1020509,COELCON,Insecta,Coleoptera,Elateridae,Conoderus sp.,,,
+Esthesopus sp.,1,02,05,08,1020508,ELAETH,Insecta,Coleoptera,Elateridae,Esthesopus sp.,,,
+Aeolus mellillus,1,02,05,02,1020502,ELAEOMEL,Insecta,Coleoptera,Elateridae,Aeolus mellillus  ,Sweet click beetle,,Yes
+Athos sp.,1,02,05,03,1020503,COELAATH,Insecta,Coleoptera,Elateridae,Athos sp.,,,
+Heteroderes sp.,1,02,05,07,1020507,ELAHET,Insecta,Coleoptera,Elateridae,Heteroderes sp.,,,
+Heteroderes sordidus,1,02,05,04,1020504,ELCONSOR,Insecta,Coleoptera,Elateridae,Heteroderes sordidus,,"Originally called ""Conoderus sordidus"" in the database, has since been renamed ""Heteroderes sordidus."" Changed in the database to reflect updated phylogeny",Yes
+Melanotus sp.,1,02,05,05,1020505,ELMEL,Insecta,Coleoptera,Elateridae,Melanotus sp.,Click beetle (genus),,Yes
+Melandryidae,1,02,06,00,1020600,INCOMEL,Insecta,Coleoptera,Melandryidae,,,,Yes
+Dermestidae,1,02,07,00,1020700,INCODER,Insecta,Coleoptera,Dermestidae,,Skin beetles,,Yes
+Dermestidae larva,1,02,07,01,1020701,CODERLAR,Insecta,Coleoptera,Dermestidae,Dermestidae larvae,Skin beetle larva,,Yes
+Cryptophagidae,1,02,08,00,1020800,INCOCRY,Insecta,Coleoptera,Cryptophagidae,,Silken fungus beetles,,Yes
+Cryptophagus sp.,1,02,08,01,1020801,COCRYCRY,Insecta,Coleoptera,Cryptophagidae,Cryptophagus sp.,,,Yes
+Chrysomelidae,1,02,09,00,1020900,INCOCHR,Insecta,Coleoptera,Chrysomelidae,,Leaf beetles,,Yes
+Cassidinae,1,02,09,08,1020908,CHCASS,Insecta,Coleoptera,Chrysomelidae,Cassidinae (Subfamily),Tortoise beetles,,
+Eumolpinae,1,02,09,01,1020901,COCHREUM,Insecta,Coleoptera,Chrysomelidae,Eumolpinae (subfamily),,,
+Alicta sp.,1,02,09,03,1020903,COCHRALI,Insecta,Coleoptera,Chrysomelidae,Alicta sp.,,,
+Chrysomela scripta,1,02,09,04,1020904,CHCHRSCR,Insecta,Coleoptera,Chrysomelidae,Chrysomela scripta,Cottonwood leaf beetle,,Yes
+Graphops sp.,1,02,09,05,1020905,COCHRGRA,Insecta,Coleoptera,Chrysomelidae,Graphops sp.,,,
+Diorhabda elongata,1,02,09,06,1020906,CHDIOELO,Insecta,Coleoptera,Chrysomelidae,Diorhabda elongata,Tamarisk leaf beetle,,Yes
+Diorhabda sp.,1,02,09,07,1020907,INCHRDIO,Insecta,Coleoptera,Chrysomelidae,Diorhabda sp.,Tamarisk leaf beetle,"Several species present in New Mexico that are difficult to distinguish without genetic markers, use this code preferentially.",Yes
+Lathridiidae,1,02,10,00,1021000,INCOLAT,Insecta,Coleoptera,Lathridiidae,,,,
+Melanophthalma sp.,1,02,10,01,1021001,COLATMEL,Insecta,Coleoptera,Lathridiidae,Melanophthalma sp.,,,
+Enicmus sp.,1,02,10,02,1021002,COLATENI,Insecta,Coleoptera,Lathridiidae,Enicmus sp.,,,
+Corticaria sp.,1,02,10,03,1021003,COLATCOR,Insecta,Coleoptera,Lathridiidae,Corticaria sp.,,,
+Meloidae,1,02,11,00,1021100,INCOMELO,Insecta,Coleoptera,Meloidae,,Blister beetles,,Yes
+Staphylinidae,1,02,17,00,1021700,INCOSTA,Insecta,Coleoptera,Staphylinidae,,Rove beetles,,Yes
+Staphylinus sp.,1,02,17,01,1021701,COSTASTA,Insecta,Coleoptera,Staphylinidae,Staphylinus sp.,,,
+Aleocharinae sp.,1,02,17,02,1021702,COSTAALE,Insecta,Coleoptera,Staphylinidae,Aleocharinae sp.,,,
+Platydracus sp.,1,02,17,03,1021703,STPLA,Insecta,Coleoptera,Staphylinidae,Platydracus sp.,,,Yes
+Olisthaerus sp.,1,02,17,04,1021704,COSTAOLI,Insecta,Coleoptera,Staphylinidae,Olisthaerus sp.,,,
+Trichophyini sp.,1,02,17,06,1021706,COSTATRI,Insecta,Coleoptera,Staphylinidae,Trichophyini sp.,,,
+Tachyporus sp.,1,02,17,07,1021707,COSTATAC,Insecta,Coleoptera,Staphylinidae,Tachyporus sp.,,,
+Paederinae sp.,1,02,17,09,1021709,COSTAPAN,Insecta,Coleoptera,Staphylinidae,Paederinae sp.,,,
+Quedius sp.,1,02,17,10,1021710,COSTAQUE,Insecta,Coleoptera,Staphylinidae,Quedius sp.,,,
+Platydracus sepulchralis,1,02,17,11,1021711,STPLASEP,Insecta,Coleoptera,Staphylinidae,Platydracus sepulchralis,,,
+Astenus longiusculus,1,02,17,12,1021712,STASTLON,Insecta,Coleoptera,Staphylinidae,Astenus longiusculus  ,,,
+Ocypus ater,1,02,17,13,1021713,STOCYATE,Insecta,Coleoptera,Staphylinidae,Ocypus ater,formerly genus Staphylinus,,
+Paederini sp.,1,02,17,14,1021714,COSTAPAE,Insecta,Coleoptera,Staphylinidae,Paederini sp.,,,
+Platydracus pennsylvanicus,1,02,17,15,1021715,STPLAPEN,Insecta,Coleoptera,Staphylinidae,Platydracus pennsylvanicus,,,
+Coccinellidae,1,02,22,00,1022200,INCOCOC,Insecta,Coleoptera,Coccinellidae,,Ladybird beetles,,Yes
+Coccidulini sp.,1,02,22,02,1022202,COCOCCOC,Insecta,Coleoptera,Coccinellidae,Coccidulini sp.,,,
+Histeridae,1,02,30,00,1023000,INCOHIS,Insecta,Coleoptera,Histeridae,,Clown / Hister beetles,,Yes
+Euspilotus sp.,1,02,30,01,1023001,HIEUS,Insecta,Coleoptera,Histeridae,Euspilotus sp.,,No records in NM but ML says this is believable; have any further observations confirmed by a reliable party ,Yes
+Geomysaprinus sp.,1,02,30,02,1023002,COHISGEO,Insecta,Coleoptera,Histeridae,Geomysaprinus sp.,,,
+Aphelosternus sp.,1,02,30,03,1023003,COHISAPH,Insecta,Coleoptera,Histeridae,Aphelosternus sp.,,,
+Hypocaccus sp.,1,02,30,04,1023004,COHISHYP,Insecta,Coleoptera,Histeridae,Hypocaccus sp.,,,
+Curculionidae,1,02,31,00,1023100,INCOCUR,Insecta,Coleoptera,Curculionidae,,True weevils,,Yes
+Otiorhynchus ovatus,1,02,31,01,1023101,CUOTIOVA,Insecta,Coleoptera,Curculionidae,Otiorhynchus ovatus ,Strawberry root weevil,,Yes
+Rhypodillus brevicollis,1,02,31,02,1023102,CUPHYBRE,Insecta,Coleoptera,Curculionidae,Rhypodillus brevicollis  ,,,
+Sphenophorus sp.,1,02,31,03,1023103,COCURSPH,Insecta,Coleoptera,Curculionidae,Sphenophorus sp.,,,
+Stenichnus sp.,1,02,31,04,1023104,COCURSTE,Insecta,Coleoptera,Curculionidae,Stenichnus  sp.,,,
+Otiorhynchus cercopeus,1,02,31,05,1023105,CUOTICER,Insecta,Coleoptera,Curculionidae,Otiorhynchus cercopeus  ,,,
+Hypera postica,1,02,31,06,1023106,CUHYPPOS,Insecta,Coleoptera,Curculionidae,Hypera postica  ,,,
+Scolytus sp.,1,02,31,07,1023107,COCUSCO,Insecta,Coleoptera,Curculionidae,Scolytus sp.,,"Originally called ""Rugostmiatus"" in the database but this is not a valid genus. ""Ruguloscolytus"" was the closest match in Curculionidae that I found; this genus was folded into ""Scolytus"" recently. -RC",Yes
+Coniatus splendidulus,1,02,31,08,1023108,CUCONSPL,Insecta,Coleoptera,Curculionidae,Coniatus splendidulus,Splendid tamarisk weevil,,Yes
+Ptilidae,1,02,33,00,1023300,INCOPTI,Insecta,Coleoptera,Ptilidae,,,,
+Silphidae,1,02,35,00,1023500,INCOSIL,Insecta,Coleoptera,Silphidae,,Carrion beetles,,Yes
+Nicrophorus sp.,1,02,35,01,1023501,COSILNIC,Insecta,Coleoptera,Silphidae,Nicrophorus sp.,Burying beetle (genus),,Yes
+Heterosilpha ramosa,1,02,35,02,1023502,SIHETRAM,Insecta,Coleoptera,Silphidae,Heterosilpha ramosa,Carrion beetle,,Yes
+Anthicidae,1,02,41,00,1024100,INCOANT,Insecta,Coleoptera,Anthicidae ,,Ant-like flower beetles,,Yes
+Squamanotoxus sp.,1,02,41,06,1024106,COANTSQU,Insecta,Coleoptera,Anthicidae ,Squamanotoxus sp.,,,
+Ischyropalpus sp.,1,02,41,02,1024102,COANTISC,Insecta,Coleoptera,Anthicidae ,Ischyropalpus sp.,,,
+Baulius sp.,1,02,41,03,1024103,COANTBAU,Insecta,Coleoptera,Anthicidae ,Baulius,,,
+Baulius tenuis,1,02,41,04,1024104,ANBAUTEN,Insecta,Coleoptera,Anthicidae ,Baulius tenuis  ,,"Flagged, Matt will check for possible voucher; ask KDE",Yes
+Notoxus sp.,1,02,41,05,1024105,INCONOTO,Insecta,Coleoptera,Anthicidae ,Notoxus,,,Yes
+Tenebrionidae,1,02,46,00,1024600,COTEN,Insecta,Coleoptera,Tenebrionidae,,Darkling beetles,,Yes
+Eleodes sp.,1,02,46,01,1024601,TEELE,Insecta,Coleoptera,Tenebrionidae,Eleodes sp.,Darkling beetle (genus),,Yes
+Eleodes suturalis,1,02,46,07,1024607,TEELESUT,Insecta,Coleoptera,Tenebrionidae,Eleodes suturalis  ,Red-lined darkling beetle,,Yes
+Eleodes fusiformis,1,02,46,10,1024610,TEELEFUS,Insecta,Coleoptera,Tenebrionidae,Eleodes fusiformis  ,,,Yes
+Eleodes gracilis,1,02,46,38,1024638,TEELEGRA,Insecta,Coleoptera,Tenebrionidae,Eleodes gracilis  ,,,Yes
+Eleodes carbonarius,1,02,46,65,1024639,TEELECAR,Insecta,Coleoptera,Tenebrionidae,Eleodes carbonarius,,,Yes
+Eleodes carbonarius (obsoletus),1,02,46,66,1024639,TEELEOBS,Insecta,Coleoptera,Tenebrionidae,Eleodes carbonarius (obsoletus),E. obsoletus now recognized as a subspecies of E. carbonarius,,Yes
+Eleodes obsoletus (USE E. CARB),1,02,46,39,1024639,TEELEOBS,Insecta,Coleoptera,Tenebrionidae,Eleodes carbonarius (obsoletus),E. obsoletus now recognized as a subspecies of E. carbonarius,,Yes
+Eleodes extricatus,1,02,46,41,1024641,TEELEEXT,Insecta,Coleoptera,Tenebrionidae,Eleodes extricatus  ,,,Yes
+Eleodes longicollis,1,02,46,42,1024642,TEELELON,Insecta,Coleoptera,Tenebrionidae,Eleodes longicollis  ,,,Yes
+Eleodes sponsus,1,02,46,43,1024643,TEELESPO,Insecta,Coleoptera,Tenebrionidae,Eleodes sponsus  ,,,Yes
+Metoponium sp.,1,02,46,44,1024644,TEMET,Insecta,Coleoptera,Tenebrionidae,Metoponium sp.,,,Yes
+Stenomorpha opaca,1,02,46,45,1024645,TEASIOPA,Insecta,Coleoptera,Tenebrionidae,Stenomorpha opaca,Tranfered from Asidopsis,,Yes
+Blapstinus sp.,1,02,46,46,1024646,TEBLA,Insecta,Coleoptera,Tenebrionidae,Blapstinus sp.,,,Yes
+Blapstinus sulcatus,1,02,46,63,1024663,TEBLASUL,Insecta,Coleoptera,Tenebrionidae,Blapstinus sulcatus,,,
+Embaphion sp.,1,02,46,47,1024647,TEEMB,Insecta,Coleoptera,Tenebrionidae,Embaphion sp.,Darkling beetle (genus),,Yes
+Blapstinus fortis,1,02,46,48,1024648,TEBLAFOR,Insecta,Coleoptera,Tenebrionidae,Blapstinus fortis,,,Yes
+Araeoschizus decipiens,1,02,46,49,1024649,TEAREDEC,Insecta,Coleoptera,Tenebrionidae,Araeoschizus decipiens  ,,,Yes
+Blapstinus pimalis,1,02,46,50,1024650,TEBLAPIM,Insecta,Coleoptera,Tenebrionidae,Blapstinus pimalis  ,,,Yes
+Embaphion contusum,1,02,46,51,1024651,TEEMBCON,Insecta,Coleoptera,Tenebrionidae,Embaphion contusum  ,Flanged darkling beetle,,Yes
+Agroporis rufipes,1,02,46,52,1024652,TEAGRRUF,Insecta,Coleoptera,Tenebrionidae,Agroporis rufipes  ,,,
+Bothrotes sp.,1,02,46,64,1024664,TEBOT,Insecta,Coleoptera,Tenebrionidae,Bothrotes sp.,,,
+Lobometopon fusiformis,1,02,46,53,1024653,TELOBFUS,Insecta,Coleoptera,Tenebrionidae,Lobometopon fusiformis,,,Yes
+Eusattus sp.,1,02,46,54,1024654,TEEUS,Insecta,Coleoptera,Tenebrionidae,Eusattus sp.,Darkling beetle (genus),,Yes
+Eleodes tricostatus,1,02,46,55,1024655,TEELETRI,Insecta,Coleoptera,Tenebrionidae,Eleodes tricostatus,,,Yes
+Neobaphion planipennis,1,02,46,56,1024656,TENEOPLA,Insecta,Coleoptera,Tenebrionidae,Neobaphion planipennis,,,Yes
+Eusattus reticulatus,1,02,46,57,1024657,TEEUSRET,Insecta,Coleoptera,Tenebrionidae,Eusattus reticulatus,Sand darkling beetle,,Yes
+Eleodes caudiferus,1,02,46,58,1024658,TEELECAU,Insecta,Coleoptera,Tenebrionidae,Eleodes caudiferus,Tailed darkling beetle,,Yes
+Lobometopon sp.,1,02,46,59,1024659,INCOLOBO,Insecta,Coleoptera,Tenebrionidae,Lobometopon ,,,Yes
+Araeoschizus sp.,1,02,46,60,1024660,INCOARES,Insecta,Coleoptera,Tenebrionidae,Araeoschizus,,,Yes
+Alleculinae,1,02,46,61,1024661,COTENALL,Insecta,Coleoptera,Tenebrionidae,Alleculinae (subfamily),Comb-clawed darkling beetles,,Yes
+Pimeliinae,1,02,46,62,1024662,COTENPIM,Insecta,Coleoptera,Tenebrionidae,Pimeliinae (subfamily),,"Unusual finding- only 1 record in the US, in California",Yes
+Corylophidae,1,02,47,00,1024700,INCOCOR,Insecta,Coleoptera,Corylophidae,,,,
+Scaphidiinae,1,02,48,00,1024800,INCOSCP,Insecta,Coleoptera,Staphylinidae,Scaphidiinae (subfamily),Shining fungus beetles,,Yes
+Biphyllidae,1,02,49,00,1024900,INCOBIP,Insecta,Coleoptera,Biphyllidae,,False skin beetles,Only 1 questionable ID in database that was downgraded to Coleoptera b/c this family has not been confirmed in NM; ID number left in case of future finds.,Yes
+Anobiidae,1,02,50,00,1025000,INCOANO,Insecta,Coleoptera,Anobiidae,,formerly Ptinidae,,
+Ptinus fur,1,02,50,01,1025001,ANPTIFUR,Insecta,Coleoptera,Anobiidae,Ptinus fur  ,,,
+Bruchinae,1,02,51,00,1205100,INCOBRU,Insecta,Coleoptera,Chrysomelidae,Bruchinae (subfamily),Bean weevils,,Yes
+Carabidae,1,02,55,00,1025500,INCOCAR,Insecta,Coleoptera,Carabidae,,Ground beetles,,Yes
+Acupalpus sp.,1,02,55,48,1025548,CAACU,Insecta,coleoptera,Carabidae,Acupalpus sp.,,,
+Axinopalpus sp.,1,02,55,51,1025551,COCARAXI,Insecta,coleoptera,Carabidae,Axinopalpus sp.,,,
+Brachinus sp.,1,02,55,49,1025549,CABRA,Insecta,coleoptera,Carabidae,Brachinus sp.,Bombadier beetle,,
+Diplocheila sp.,1,02,55,50,1025550,CADIP,Insecta,coleoptera,Carabidae,Diplocheila sp.,,,
+Scarites sp.,1,02,55,01,1025501,CASCA,Insecta,Coleoptera,Carabidae,Scarites sp.,,,Yes
+Poecilus chalcites,1,02,55,02,1025502,CAPOECHA,Insecta,Coleoptera,Carabidae,Poecilus chalcites,Metallic ground beetle,,Yes
+Calathus opaculus,1,02,55,03,1025503,CACALOPA,Insecta,Coleoptera,Carabidae,Calathus opaculus,serrated claw; small black beetle,,Yes
+Chlaenius sp.,1,02,55,04,1025504,COCARCHA,Insecta,Coleoptera,Carabidae,Chlaenius,,,Yes
+Amara sp.,1,02,55,05,1025505,CAAMA,Insecta,Coleoptera,Carabidae,Amara,,,Yes
+Carabid larva,1,02,55,06,1025506,CALAR,Insecta,Coleoptera,Carabidae,,Ground beetle larva,,Yes
+Stenolophus sp.,1,02,55,07,1025507,CASTE,Insecta,Coleoptera,Carabidae,Stenolophus,,,Yes
+Harpalus pennsylvanicus,1,02,55,08,1025508,CAHARPEN,Insecta,Coleoptera,Carabidae,Harpalus pennsylvanicus  ,Harpalus ground beetle,,Yes
+Selenophorus planipennis,1,02,55,09,1025509,CASELPLA,Insecta,Coleoptera,Carabidae,Selenophorus planipennis  ,,,
+Amara littoralis,1,02,55,10,1025510,CAAMALIT,Insecta,Coleoptera,Carabidae,Amara littoralis  ,,,
+Scarites lissopterus,1,02,55,11,1025511,CASCALIS,Insecta,Coleoptera,Carabidae,Scarites lissopterus ,,"Unusual finding- if this species is found again, have it confirmed by an outside party as S. subterraneus is currently the only known NM species",Yes
+Evarthrus sp.,1,02,55,12,1025512,COCAREVA,Insecta,Coleoptera,Carabidae,Subgenus Evarthrus (of Cyclotrachelus),,,
+Amara carinata,1,02,55,13,1025513,CAAMACAR,Insecta,Coleoptera,Carabidae,Amara carinata  ,,,Yes
+Agonum sp.,1,02,55,15,1025515,CAAGO,Insecta,Coleoptera,Carabidae,Agonum sp.,,,Yes
+Chlaenius tricolor,1,02,55,16,1025516,CACHATRI,Insecta,Coleoptera,Carabidae,Chlaenius tricolor  ,,,Yes
+Agonum decorum,1,02,55,17,1025517,CAAGODEC,Insecta,Coleoptera,Carabidae,Agonum decorum  ,,,Yes
+Tachys sp.,1,02,55,18,1025518,CATAC,Insecta,Coleoptera,Carabidae,Tachys sp.,,,Yes
+Chlaenius sericeus,1,02,55,19,1025519,CACHASER,Insecta,Coleoptera,Carabidae,Chlaenius sericeus  ,,,Yes
+Pterostichus sp.,1,02,55,20,1025520,CAPTE,Insecta,Coleoptera,Carabidae,Pterostichus sp.,,,Yes
+Bradycellus sp.,1,02,55,21,1025521,CABRA,Insecta,Coleoptera,Carabidae,Bradycellus sp.,,,Yes
+Bembidion timidum,1,02,55,22,1025522,CABEMTIM,Insecta,Coleoptera,Carabidae,Bembidion timidum  ,,,Yes
+Bembidion sp.,1,02,55,23,1025523,CABEM,Insecta,Coleoptera,Carabidae,Bembidion,Shoreline ground beetle (genus),,Yes
+Badister sp.,1,02,55,24,1025524,COCARBAD,Insecta,Coleoptera,Carabidae,Badister sp.,,,
+Perigonini sp.,1,02,55,25,1025525,COCARPER,Insecta,Coleoptera,Carabidae,Perigonini sp.,,,
+Galerita janus,1,02,55,26,1025526,CAGALJAN,Insecta,Coleoptera,Carabidae,Galerita janus  ,Galerita ground beetle,,Yes
+Cyclotrachelus substriatus,1,02,55,27,1025527,CACYCSUB,Insecta,Coleoptera,Carabidae,Cyclotrachelus substriatus,,,Yes
+Poecilus sp.,1,02,55,28,1025528,CAPOE,Insecta,Coleoptera,Carabidae,Poecilus sp.,,,Yes
+Rhadine sp.,1,02,55,29,1025529,CARHA,Insecta,Coleoptera,Carabidae,Rhadine sp.,,,Yes
+Harpalus sp.,1,02,55,30,1025530,CAHAR,Insecta,Coleoptera,Carabidae,Harpalus sp.,,,Yes
+Pasimachus elongatus,1,02,55,31,1025531,CAPASELA,Insecta,Coleoptera,Carabidae,Pasimachus elongatus,,,Yes
+Anisodactylus harrisi,1,02,55,32,1025532,CAANIHAR,Insecta,Coleoptera,Carabidae,Anisodactylus harrisi,,,Yes
+Cratacanthus sp.,1,02,55,34,1025534,CACAR,Insecta,Coleoptera,Carabidae,Cratacanthus sp.,,,Yes
+Euryderus sp.,1,02,55,35,1025535,CAEUR,Insecta,Coleoptera,Carabidae,Euryderus sp.,,,Yes
+Selenophorus sp.,1,02,55,36,1025536,COCARSEL,Insecta,Coleoptera,Carabidae,Selenophorus sp.,,,Yes
+Calosoma scrutator,1,02,55,37,1025537,CACALSCR,Insecta,Coleoptera,Carabidae,Calosoma scrutator,Fiery searcher ground beetle,,Yes
+Pasimachus californicus,1,02,55,38,1025538,CAPASCAL,Insecta,Coleoptera,Carabidae,Pasimachus californicus,California warrior beetle,,Yes
+Poecilus lucublandus,1,02,55,39,1025539,CAPOELUC,Insecta,Coleoptera,Carabidae,Poecilus lucublandus,,,Yes
+Tetragonoderus sp.,1,02,55,40,1025540,CATET,Insecta,Coleoptera,Carabidae,Tetragonoderus sp.,,,Yes
+Cyclotrachelus sp.,1,02,55,41,1025541,CACYC,Insecta,Coleoptera,Carabidae,Cyclotrachelus sp.,,,Yes
+Cymindis sp.,1,02,55,42,1025542,CACYM,Insecta,Coleoptera,Carabidae,Cymindis sp.,,,Yes
+Pasimachus sp.,1,02,55,43,1025543,CAPAS,Insecta,Coleoptera,Carabidae,Pasimachus sp.,Pasimachus ground beetle (genus),,Yes
+Calosoma peregrinator,1,02,55,44,1025544,CACALPER,Insecta,Coleoptera,Carabidae,Calosoma peregrinator,,,Yes
+Harpalus caliginosus,1,02,55,45,1025545,HARCAL,Insecta,Coleoptera,Carabidae,Harpalus caliginosus,Murky ground beetle,,Yes
+Scarites subterraneus,1,02,55,46,1025546,SCASUB,Insecta,Coleoptera,Carabidae,Scarites subterraneus,Big-headed ground beetle,,Yes
+Calosoma sp.,1,02,55,47,1025547,INCACAL,Insecta,Coleoptera,Carabidae,Calosoma,,,Yes
+Omophron sp.,1,02,55,48,1025548,COCAOMO,Insecta,Coleoptera,Carabidae,Omophron sp.,,,
+Dyschirius sp.,1,02,55,52,1025552,COCADYS,Insecta,Coleoptera,Carabidae,Dyschirius sp.,,,
+Pseudomorpha sp.,1,02,55,49,1025549,COCAPSE,Insecta,Coleoptera,Carabidae,Pseudomorpha sp.,,,
+Dytiscidae,1,02,60,00,1026000,INCODYT,Insecta,Coleoptera,Dytiscidae,,,,
+Laccophilus sp.,1,02,60,02,1026002,CODYTLAC,Insecta,Coleoptera,Dytiscidae,Laccophilus sp.,,,
+Cucujidae,1,02,75,00,1027500,INCOCUC,Insecta,Coleoptera,Cucujidae,,,,
+Cathartus sp.,1,02,75,01,1027501,COCUCCAT,Insecta,Coleoptera,Cucujidae,Cathartus sp.,,,
+Cerambycidae,1,02,80,00,1028000,INCOCER,Insecta,Coleoptera,Cerambycidae,,Longhorn beetles,,Yes
+Prionus sp.,1,02,80,02,1028002,COCERPRI,Insecta,Coleoptera,Cerambycidae,Prionus sp.,,,
+Limulodidae,1,02,85,00,1028500,INCOLIM,Insecta,Coleoptera,Limulodidae,,,,
+Limulodes sp.,1,02,85,01,1028501,COLIMLIM,Insecta,Coleoptera,Limulodidae,Limulodes sp.,,,
+Buprestidae,1,02,94,00,1029400,INCOBUP,Insecta,Coleoptera,Buprestidae,,Metallic wood-boring beetles,,Yes
+Cicindelinae,1,02,95,00,1029500,INCOCIC,Insecta,Coleoptera,Cicindelidae,Cicindelinae (subfamily),Tiger beetles,,Yes
+Cicindela sp.,1,02,95,01,1029501,INCICCIC,Insecta,Coleoptera,Cicindelidae,Cicindela,Tiger beetle (genus),,Yes
+Trogidae,1,02,96,00,1029600,INCOTRG,Insecta,Coleoptera,Trogidae,,Hide beetles,,Yes
+Omorgus sp.,1,02,96,04,1029604,COTROOMO,Insecta,Coleoptera,Trogidae,Omorgus sp.,,,
+Trox punctatus,1,02,96,01,1029601,TRTROPUN,Insecta,Coleoptera,Trogidae,Trox punctatus,formerly 1020401,,
+Trox monachus,1,02,96,02,1029602,TROTROMO,Insecta,Coleoptera,Trogidae,Trox monachus,formerly 1020407,,
+Trox sp.,1,02,96,03,1029603,COTROTRO,Insecta,Coleoptera,Trogidae,Trox sp./Omorgus sp.,,,Yes
+Cleridae,1,02,98,00,1029800,INCOCLE,Insecta,Coleoptera,Cleridae,,Checkered beetles,,Yes
+Eucnemidae,1,02,99,00,1029900,INCOEUC,Insecta,Coleoptera,Eucnemidae,,,,
+Laemophloeidae,1,02,97,00,1023700,INCOLAE,Insecta,Coleoptera,Laemophloeidae,,Flat lined bark bettle,,
+Latridiidae,1,02,93,00,1029300,INCOLAT,Insecta,Coleoptera,Latridiidae,,,,
+Throscidae,1,02,92,00,1029200,INCOTHR,Insecta,Coleoptera,Throscidae,,False click beetle,,
+Melyridae,1,02,91,00,1029100,INCOMEL,Insecta,Coleoptera,Melyridae,,,,
+Hypebaeus sp.,1,02,91,01,1029101,COMELHYP,Insecta,Coleoptera,Melyridae,Hypebaeus sp.,,,
+Melandryidae,1,02,89,00,1028900,INCOMELA,Insecta,Coleoptera,Melandryidae,,,,
+Bostrichidae,1,02,88,00,1028800,INCOBOS,Insecta,Coleoptera,Bostrichidae,,,,
+Oedemeridae,1,02,90,00,1029000,INCOOED,Insecta,Coleoptera,Oedemeridae,,False blister beetle,,
+Isoptera,1,03,00,00,1030000,INIS,Insecta,Isoptera,,,Termites,,Yes
+Rhinotermitidae,1,03,01,00,1030100,INISRHI,Insecta,Isoptera,Rhinotermitidae,,,,
+Reticulitermes sp.,1,03,01,01,1030101,ISRHIRET,Insecta,Isoptera,Rhinotermitidae,Reticulitermes sp.,,,
+Termitidae,1,03,02,00,1030200,INISTER,Insecta,Isoptera,Termitidae,,,,
+Collembola,1,04,00,00,1040000,INCL,Insecta,Collembola,,,Springtails,,Yes
+Diptera,1,06,00,00,1060000,INDI,Insecta,Diptera,,,True flies,,Yes
+Diptera larva,1,06,00,01,1060001,INDILAR,Insecta,Diptera,,,True fly larva,,Yes
+Cecidomyiidae,1,06,01,00,1060100,INDICEC,Insecta,Diptera,Cecidomyiidae,,,,
+Sphaeroceridae,1,06,02,00,1060200,INDISPH,Insecta,Diptera,Sphaeroceridae,,,,
+Chironomidae,1,06,03,00,1060300,INDICHI,Insecta,Diptera,Chironomidae,,Non-biting midges,,Yes
+Culicidae,1,06,04,00,1060400,INDICUL,Insecta,Diptera,Culicidae,,Mosquitoes,,Yes
+Sciaridae,1,06,05,00,1060500,INDISCI,Insecta,Diptera,Sciaridae,,Dark-winged fungus gnats,,Yes
+Tachinidae,1,06,06,00,1060600,INDITAC,Insecta,Diptera,Tachinidae,,Tachinid flies,,Yes
+Drosophilidae,1,06,07,00,1060700,INDIDRO,Insecta,Diptera,Drosophilidae,,,,
+Drosophila sp.,1,06,07,01,1060701,DIDRODRO,Insecta,Diptera,Drosophilidae,Drosophila sp.,Vinegar flies (genus),,Yes
+Sarcophagidae,1,06,08,00,1060800,INDISAR,Insecta,Diptera,Sarcophagidae,,Flesh-eating flies,,Yes
+Thysanoptera,1,08,00,00,1080000,INTT,Insecta,Thysanoptera,,,,,Yes
+Phlaeothripidae,1,08,01,00,1080100,INTTPHYL,Insecta,Thysanoptera,Phlaeothripidae,,,,Yes
+Lepidoptera,1,09,00,00,1090000,INLE,Insecta,Lepidoptera,,,Butterflies and moths,,Yes
+Lepidoptera larva,1,09,00,01,1090001,LELEPLAR,Insecta,Lepidoptera,,Lepidoptera larvae,Butterfly/moth larva,,Yes
+Noctuidae,1,09,01,00,1090100,INLENOC,Insecta,Lepidoptera,Noctuidae,,Owlet moths,,Yes
+Noctuidae larva,1,09,01,01,1090101,LENOCLAR,Insecta,Lepidoptera,Noctuidae,Noctuidae larvae,Owlet moth larva,,Yes
+Acanthopteroctetidae,1,09,02,00,1090200,INLEACA,Insecta,Lepidoptera,Acanthopteroctetidae,,,,
+Gelechiidae,1,09,03,00,1090300,INLEGEL,Insecta,Lepidoptera,Gelechiidae,,Twirler moths,,Yes
+Psychidae,1,09,04,00,1090400,INLEPSY,Insecta,Lepidoptera,Psychidae,,Bagworm moths,,Yes
+Hymenoptera,1,11,00,00,1110000,INHY,Insecta,Hymenoptera,,,"Bees, ants, wasps, sawflies",,Yes
+Tiphiidae,1,11,55,00,1115500,HYMTIPH,Insecta,Hymenoptera,Tiphiidae,,Tiphiid wasp,,
+Colocistis sp.,1,11,55,01,1115501,TIPCOLO,Insecta,Hymenoptera,Tiphiidae,Colocistis sp.,,,
+Apoidea,1,11,10,00,1111000,INHYAPO,Insecta,Hymenoptera,Apoidea (superfamily),,Bees and Sphecoid wasps,,Yes
+Apidae,1,11,11,00,1111100,INHYAPI,Insecta,Hymenoptera,Apidae,,"Honeybees, Bumblebees, etc",,Yes
+Bombus sp.,1,11,11,01,1111101,INHYBOM,Insecta,Hymenoptera,Apidae,Bombus,Bumblebee (genus),,Yes
+Apis mellifera,1,11,11,02,1111102,APAPMEL,Insecta,Hymenoptera,Apidae,Apis mellifera,Western honeybee,,Yes
+Scelionidae,1,11,12,00,1111200,INHYSCE,Insecta,Hymenoptera,Scelionidae ,,,,
+Formicidae,1,11,13,00,1111300,INHYFOR,Insecta,Hymenoptera,Formicidae,,Ants,,Yes
+Aphaenogaster sp.,1,11,13,01,1111301,FOAPH,Insecta,Hymenoptera,Formicidae,Aphaenogaster sp.,Ant (genus),,Yes
+Dorymyrmex sp.,1,11,13,02,1111302,FODOR,Insecta,Hymenoptera,Formicidae,Dorymyrmex sp.,Cone ants (genus),,Yes
+Hypoponera sp.,1,11,13,03,1111303,HYFORHYP,Insecta,Hymenoptera,Formicidae,Hypoponera sp.,,,Yes
+Tapinoma sp.,1,11,13,04,1111304,FOTAP,Insecta,Hymenoptera,Formicidae,Tapinoma,,Only use this if you are sure it is not Tapinoma sessile; this is the only known Tapinoma in NM,Yes
+Solenopsis sp.,1,11,13,05,1111305,FOSOL,Insecta,Hymenoptera,Formicidae,Solenopsis sp.,Fire ants (genus),,Yes
+Leptothorax sp.,1,11,13,06,1111306,FOLEP,Insecta,Hymenoptera,Formicidae,Leptothorax sp.,,,Yes
+Formica sp.,1,11,13,09,1111309,FOFOM,Insecta,Hymenoptera,Formicidae,Formica sp.,"Wood, Mound, and Field ants",,Yes
+Formica pallidefulva,1,11,13,60,1111360,FOFOPAL,Insecta,Hymenoptera,Formicidae,Formica pallidefulva,,,
+Lasius sp.,1,11,13,10,1111310,FOLAS,Insecta,Hymenoptera,Formicidae,Lasius,Citronella ants (genus),,Yes
+Neivamyrmex sp.,1,11,13,11,1111311,FONEI,Insecta,Hymenoptera,Formicidae,Neivamyrmex sp.,Legionary ants (genus),,Yes
+Neivamyrmex opacithorax,1,11,13,61,1111361,FONEIOPA,Insecta,Hymenoptera,Formicidae,Neivamyrmex opacithorax,,,
+Myrmicinae,1,11,13,13,1111313,FOMYR,Insecta,Hymenoptera,Formicidae,Myrmicinae (subfamily),,,Yes
+Pheidole sp.,1,11,13,14,1111314,FOPHE,Insecta,Hymenoptera,Formicidae,Pheidole sp.,Big-headed ants (genus),,Yes
+Crematogaster cerasi,1,11,13,16,1111316,FOCRECER,Insecta,Hymenoptera,Formicidae,Crematogaster cerasi  ,Acrobat ant,,Yes
+Monomorium minimum,1,11,13,17,1111317,FOMONMIN,Insecta,Hymenoptera,Formicidae,Monomorium minimum  ,Little black ant,,Yes
+Tapinoma sessile,1,11,13,18,1111318,FOTAPSES,Insecta,Hymenoptera,Formicidae,Tapinoma sessile  ,Odorous house ant,,Yes
+Conomyra insana,1,11,13,19,1111319,FOCONINS,Insecta,Hymenoptera,Formicidae,Conomyra insana  ,,,
+Pogonomyrmex occidentalis,1,11,13,20,1111320,FOPOGOCC,Insecta,Hymenoptera,Formicidae,Pogonomyrmex occidentalis  ,Western harvester ant,,Yes
+Formica neogagates,1,11,13,21,1111321,FOFORNEG,Insecta,Hymenoptera,Formicidae,Formica neogagates ,,,
+Lasius niger,1,11,13,22,1111322,FOLASNIG,Insecta,Hymenoptera,Formicidae,Lasius niger  ,,,
+Monomorium cyaneum,1,11,13,23,1111323,FOMONCYA,Insecta,Hymenoptera,Formicidae,Monomorium cyaneum  ,,,
+Camponotus vicinus,1,11,13,24,1111324,FOCAMVIC,Insecta,Hymenoptera,Formicidae,Camponotus vicinus  ,Carpenter ant,,Yes
+Leptothorax obliquicanthus,1,11,13,25,1111325,FOLEPOBL,Insecta,Hymenoptera,Formicidae,Leptothorax obliquicanthus  ,,,
+Neivamyrmex nigrescens,1,11,13,26,1111326,FONEINIG,Insecta,Hymenoptera,Formicidae,Neivamyrmex nigrescens  ,,,Yes
+Leptothorax nitens,1,11,13,27,1111327,FOLEPNIT,Insecta,Hymenoptera,Formicidae,Leptothorax nitens  ,,,
+Solenopsis molesta,1,11,13,28,1111328,FOSOLMOL,Insecta,Hymenoptera,Formicidae,Solenopsis molesta  ,,,
+Formica hewitti,1,11,13,29,1111329,FOFORHEW,Insecta,Hymenoptera,Formicidae,Formica hewitti  ,,,
+Leptothorax andrei,1,11,13,30,1111330,FOLEPAND,Insecta,Hymenoptera,Formicidae,Leptothorax andrei  ,,,
+Pogonomyrmex barbatus,1,11,13,31,1111331,FOPOGBAR,Insecta,Hymenoptera,Formicidae,Pogonomyrmex barbatus,Red harvester ant,,Yes
+Lasius fallax,1,11,13,32,1111332,FOLASFAL,Insecta,Hymenoptera,Formicidae,Lasius fallax,,,
+Pheidole pilifera,1,11,13,33,1111333,FOPHEPIL,Insecta,Hymenoptera,Formicidae,Pheidole pilifera,,,
+Camponotus sansabeanus,1,11,13,34,1111334,FOCAMSAN,Insecta,Hymenoptera,Formicidae,Camponotus sansabeanus  ,,,
+Hypoponera opaciceps,1,11,13,35,1111335,FOHYPOPA,Insecta,Hymenoptera,Formicidae,Hypoponera opaciceps  ,,,
+Leptothorax texanus texanus,1,11,13,36,1111336,FOLEPTEX,Insecta,Hymenoptera,Formicidae,Leptothorax texanus texanus,,,
+Pogonomyrmex sp.,1,11,13,37,1111337,FOPOG,Insecta,Hymenoptera,Formicidae,Pogonomyrmex,Harvester ants (genus),,Yes
+Camponotus modoc,1,11,13,38,1111338,FOCAMMOD,Insecta,Hymenoptera,Formicidae,Camponotus modoc,Western carpenter ant,,Yes
+Prenolepis sp.,1,11,13,39,1111339,FOPRE,Insecta,Hymenoptera,Formicidae,Prenolepis sp.,False honey ants (genus),"only use this code if you are sure it is not Prenolepis imparis, this is the only known species in NM",Yes
+Forelius sp.,1,11,13,42,1111342,FOFOE,Insecta,Hymenoptera,Formicidae,Forelius sp.,,,Yes
+Monomorium sp.,1,11,13,43,1111343,FOMON,Insecta,Hymenoptera,Formicidae,Monomorium sp.,Ant (genus),,Yes
+Camponotus sp.,1,11,13,44,1111344,FOCAM,Insecta,Hymenoptera,Formicidae,Camponotus sp.,Carpenter ant (genus),,Yes
+Myrmecocystus sp.,1,11,13,45,1111345,FOMYM,Insecta,Hymenoptera,Formicidae,Myrmecocystus sp.,Honeypot ants (genus),,Yes
+Myrmica sp.,1,11,13,46,1111346,FOMYC,Insecta,Hymenoptera,Formicidae,Myrmica sp.,,,Yes
+Liometopum sp.,1,11,13,47,1111347,FOHIO,Insecta,Hymenoptera,Formicidae,Liometopum sp.,Velvety tree ants (genus),,Yes
+Monomorium pharaonis,1,11,13,48,1111348,FOMONPHA,Insecta,Hymenoptera,Formicidae,Monomorium pharaonis,Pharaoh's ant,,Yes
+Formicinae,1,11,13,49,1111349,FOFON,Insecta,Hymenoptera,Formicidae,Formicinae (subfamily),,,Yes
+Amblyopone sp.,1,11,13,50,1111350,FOAMB,Insecta,Hymenoptera,Formicidae,Amblyopone sp. (Ponerinae),,"Only use this if you are sure it is not Ambylopone pallipes, this is the only known spp in NM in this genus",Yes
+Tetramorium sp.,1,11,13,51,1111351,FOTET,Insecta,Hymenoptera,Formicidae,Tetramorium,,,Yes
+Dolichoderinae,1,11,13,52,1111352,FODOL,Insecta,Hymenoptera,Formicidae,Dolichoderinae (subfamily),Odorous ants,,Yes
+Pogonomyrmex maricopa,1,11,13,57,1111357,POGMAR,Insecta,Hymenoptera,Formicidae,Pogonomyrmex maricopa,,,
+Pogonomyrmex desertorum,1,11,13,59,1111359,POGDES,Insecta,Hymenoptera,Formicidae,Pogonomyrmex desertorum,,,
+Pogonomyrmex huachucanus,1,11,13,58,1111358,POGHUA,Insecta,Hymenoptera,Formicidae,Pogonomyrmex huachucanus,,,
+Pogonomyrmex rugosus,1,11,13,53,1111353,POGRUG,Insecta,Hymenoptera,Formicidae,Pogonomyrmex rugosus,Black and red harvester ant,,Yes
+Dorymyrmex insanus,1,11,13,54,1111354,DORINS,Insecta,Hymenoptera,Formicidae,Dorymyrmex insanus,Crazy ant,,Yes
+Ponera sp.,1,11,13,55,1111355,INHYFOPO,Insecta,Hymenoptera,Formicidae,Ponera,,,Yes
+Crematogaster sp.,1,11,13,56,1111356,HYFORCRE,Insecta,Hymenoptera,Formicidae,Crematogaster,Valentine ants (genus),,Yes
+Andrenidae,1,11,14,00,1111400,INHYAND,Insecta,Hymenoptera,Andrenidae,,Mining bees,,Yes
+Pompilidae,1,11,15,00,1111500,INHYPOM,Insecta,Hymenoptera,Pompillidae,,Spider wasps,,Yes
+Pompilus scelestus,1,11,15,01,1111501,POPOMSCE,Insecta,Hymenoptera,Pompillidae,Pompilus scelestus,wasp with curly antenna,Only 1 specimen from Jornada del Muerto for all of NM; confirm any further findings,Yes
+Pepsis formosa,1,11,15,02,1111502,POMPEPFO,Insecta,Hymenoptera,Pompillidae,Pepsis formosa (tarantula hawk wasp),Tarantula hawk wasp,,Yes
+Chalcidoidea,1,11,16,00,1111600,INHYCHA,Insecta,Hymenoptera,Chalcidoidea ,,Chalcid wasps,,Yes
+Halictidae,1,11,17,00,1111700,INHYHAL,Insecta,Hymenoptera,Halictidae,,Sweat bees,,Yes
+Sphecodes sp.,1,11,17,01,1111701,HYHALSPH,Insecta,Hymenoptera,Halictidae,Sphecodes sp.,,,
+Diapriidae,1,11,18,00,1111800,INHYDIA,Insecta,Hymenoptera,Diapriidae,,,,
+Mutillidae,1,11,19,00,1111900,INHYMUT,Insecta,Hymenoptera,Mutillidae,,Velvet ants,,Yes
+Dasymutilla sp.,1,11,19,02,1111902,MUDAS,Insecta,Hymenoptera,Mutillidae,Dasymutilla sp.,Velvet ant wasp,,Yes
+Ceraphronidae,1,11,20,00,1112000,INHYCER,Insecta,Hymenoptera,Ceraphronidae,,,,
+Sphecidae,1,11,30,00,1113000,INHYSPH,Insecta,Hymenoptera,Sphecidae,,"Sand wasps, mud daubers, thread-waisted wasps",,Yes
+Chlorion aerarium,1,11,30,01,1113001,HYSHPCHL,Insecta,Hymenoptera,Sphecidae,Chlorion aerarium,Cricket wasp,,Yes
+Figitidae,1,11,40,00,1114000,INHYFIG,Insecta,Hymenoptera,Figitidae,,Parasitoid wasps,,Yes
+Scoliidae,1,11,50,00,1115000,INHYSCO,Insecta,Hymenoptera,Scoliidae,,,,
+Campsomeris pilipes,1,11,50,01,1115001,SCCAMPIP,Insecta,Hymenoptera,Scoliidae,Campsomeris pilipes,,,Yes
+Chrysididae,1,11,51,00,1115100,INHYCHR,Insecta,Hymenoptera,Chrysididae,,Cuckoo wasps,,Yes
+Apocrita,1,11,52,00,1115200,INHYAP,Insecta,Hymenoptera,Apocrita (suborder),,Wasps,,Yes
+Megachilidae,1,11,53,00,1115300,INHYMEG,Insecta,Hymenoptera,Megachilidae,,Mason/Leafcutter bees,,Yes
+Vespidae,1,11,54,00,1115400,INHYVE,Insecta,Hymenoptera,Vespidae,,Wasps,,Yes
+Neuroptera,1,16,00,00,1160000,INNE,Insecta,Neuroptera,,,,,
+Neuroptera larva,1,16,00,01,1160001,INNELAR,Insecta,Neuroptera,,,Net-winged insect larva,,Yes
+Myrmeleontidae,1,16,01,00,1160100,INNEMYR,Insecta,Neuroptera,Myrmeleontidae,,Antlion,,Yes
+Myrmeleontidae larva,1,16,01,01,1160101,NEMYRLA,Insecta,Neuroptera,Myrmeleontidae,,Antlion larva,,Yes
+Chrysopidae,1,16,02,00,1160200,INNECHR,Insecta,Neuroptera,Chrysopidae,,,,
+Chrysopidae larva,1,16,02,01,1160201,INNECHLA,Insecta,Neuroptera,Chrysopidae,,Lacewing larva,,Yes
+Blattodea,1,17,00,00,1170000,INBL,Insecta,Blattodea,,,,,
+Blattidae,1,17,01,01,1170101,INBLBLA,Insecta,Blattodea,Blattidae,,Cockroaches,,Yes
+Ectobiidae,1,17,02,00,1170200,BLECT,Insecta,Blattodea,Ectobiidae,,,,
+Blattella sp.,1,17,02,01,1170201,ECTBLAT,Insecta,Blattodea,Ectobiidae,Blattella sp.,,,
+Blattella germanica,1,17,02,02,1170202,ECTBLATGER,Insecta,Blattodea,Ectobiidae,Blattella germanica,,,
+Orthoptera,1,19,00,00,1190000,INOR,Insecta,Orthoptera,,,"Grasshoppers, crickets, etc",,Yes
+Caelifera,1,19,00,01,1190001,INORCA,Insecta,Orthoptera,Caelifera (suborder),,All grasshoppers,Generic grasshopper code,Yes
+Rhaphidophoridae,1,19,09,00,1190900,INORRHA,Insecta,Orthoptera,Rhaphidophoridae,,Camel/cave/spider crickets,,Yes
+Ammobaenetes sp.,1,19,09,04,1190904,RHAMM,Insecta,Orthoptera,Rhaphidophoridae,Ammobaenetes sp.,Sand-treader,,
+Ceuthophilus pallidus,1,19,09,01,1190901,RHCEUPAL,Insecta,Orthoptera,Rhaphidophoridae,Ceuthophilus pallidus,,,Yes
+Ceuthophilus gertschi,1,19,09,02,1190902,RHCEUGER,Insecta,Orthoptera,Rhaphidophoridae,Ceuthophilus gertschi,,,
+Ceuthophilus sp.,1,19,09,03,1190903,RHCEU,Insecta,Orthoptera,Rhaphidophoridae,Ceuthophilus sp.,Camel cricket (genus),,Yes
+Stenopelmatidae,1,19,11,00,1191100,INORSTE,Insecta,Orthoptera,Stenopulmatidae ,,"Flightless cricketlike insects, esp. Jerusalem crickets",,Yes
+Stenopelmatus fuscus,1,19,11,01,1191101,STSTEFUS,Insecta,Orthoptera,Stenopelmatidae ,Stenopelmatus fuscus,Jerusalem cricket,,Yes
+Stenopelmatus sp.,1,19,11,02,1191101,ORSTESTE,Insecta,Orthoptera,Stenopelmatidae ,Stenopelmatus sp.,Jerusalem cricket,,Yes
+Gryllidae,1,19,37,00,1193700,INORGRY,Insecta,Orthoptera,Gryllidae,,True crickets,,Yes
+Gryllus sp.,1,19,37,02,1193702,ORGRYGRY,Insecta,Orthoptera,Gryllidae,Gryllus sp.,,,
+Gryllus alogus,1,19,37,01,1193701,GRGRYALO,Insecta,Orthoptera,Gryllidae,Gryllus alogus  ,Damp-loving field cricket,,Yes
+Acrididae,1,19,39,00,1193900,INORACR,Insecta,Orthoptera,Acrididae,,Grasshoppers (esp. swarming locusts),,Yes
+Syrbula admirabilis,1,19,39,01,1193901,ORACSY,Insecta,Orthoptera,Acrididae,Syrbula admirabilis,Admirable grasshopper,,Yes
+Myrmecophilus sp.,1,19,40,01,1194001,INORMYR,Insecta,Orthoptera,Myrmecophilidae,Myrmecophilus,,,Yes
+Psocoptera,1,22,00,00,1220000,INPS,Insecta,Psocoptera  ,,,"Booklice, barklice, barkflies",,Yes
+Ectopsocidae,1,22,01,00,1220100,INPSECT,Insecta,Psocoptera  ,Ectopsocidae,,,,
+Siphonaptera,1,32,00,00,1320000,INSI,Insecta,Siphonaptera,,,Fleas,,Yes
+Pulicidae,1,32,01,00,1320100,INSIPUL,Insecta,Siphonaptera,Pulicidae,,,,
+Zygentoma,1,42,00,00,1420000,INZY,Insecta,Zygentoma,,,"Silverfish, fishmoths, firebrats",,Yes
+Lepismatidae,1,42,02,00,1420200,INZYLEP,Insecta,Zygentoma,Lepismatidae,,Silverfish,,Yes
+Nicoletiidae,1,42,03,00,1420300,INZYNIC,Insecta,Zygentoma,Nicoletiidae,,,,
+Hemiptera,1,75,00,00,1750000,INHE,Insecta,Hemiptera,,,True bugs,,Yes
+Hemiptera larva,1,75,00,01,1750001,INHELA,Insecta,Hemiptera,,,True bug larva,,Yes
+Reduviidae,1,75,01,00,1750100,INHERED,Insecta,Hemiptera,Reduviidae,,Assassin bugs,,Yes
+Emesinae,1,75,01,07,1750107,HEREDEME,Insecta,Hemiptera,Reduviidae,Emesinae,Slender assassin bug,,
+Pselliopus sp.,1,75,01,06,1750106,HEREDPSL,Insecta,Hemiptera,Reduviidae,Pselliopus sp.,Assassin bug (genus),,Yes
+Miridae,1,75,02,00,1750200,INHEMIR,Insecta,Hemiptera,Miridae,,Plant bugs,,Yes
+Lygaeidae,1,75,03,00,1750300,INHELYG,Insecta,Hemiptera,Lygaeidae,,Seed bugs,,Yes
+Gerridae,1,75,04,00,1750400,INHEGER,Insecta,Hemiptera,Gerridae,,,,
+Cydnidae,1,75,05,00,1750500,INHECYD,Insecta,Hemiptera,Cydnidae,,Burrowing bugs,,Yes
+Rhopalidae,1,75,06,00,1750600,INHERHO,Insecta,Hemiptera,Rhopalidae,,Scentless plant bugs,,Yes
+Largidae,1,75,07,00,1750700,INHELAR,Insecta,Hemiptera,Largedae,,Bordered plant bugs,,Yes
+Pentatomidae,1,75,08,00,1750800,INHEPEN,Insecta,Hemiptera,Pentatomidae,,Stink/Shield bugs,,Yes
+Nabidae,1,75,09,00,1750900,INHENAB,Insecta,Hemiptera,Nabidae,,Damsel bugs,,Yes
+Corimelaenidae,1,75,10,00,1751000,INHECOR,Insecta,Hemiptera,Corimelaenidae,,Shield bugs,,Yes
+Tingidae,1,75,11,00,1751100,INHETIN,Insecta,Hemiptera,Tingidae,,Lace bugs,,Yes
+Cicadellidae,1,75,12,00,1751200,INHECID,Insecta,Hemiptera,Cicadellidae,,Leafhoppers,formerly 1150100,Yes
+Delphacidae,1,75,13,00,1751300,INHEDEL,Insecta,Hemiptera,Delphacidae,,formerly 1150200,,
+Kinnaridae,1,75,14,00,1751400,INHEKIN,Insecta,Hemiptera,Kinnaridae,,formerly 1150300,,
+Aphididae,1,75,15,00,1751500,INHEAPH,Insecta,Hemiptera,Aphididae,,Aphids,formerly 1150400,Yes
+Cicadidae,1,75,16,00,1751600,INHECIC,Insecta,Hemiptera,Cicadidae,,Typical cicadas,formerly 1150500,Yes
+Gelastocoridae,1,75,17,00,1751700,INHEGEL,Insecta,Hemiptera,Gelastocoridae,,Toadbug,,
+Dermaptera,1,76,00,00,1760000,INDE,Insecta,Dermaptera,,,Earwigs,,Yes
+Phasmatodea,1,77,00,00,1770000,INPH,Insecta,Phasmatodea,,,Stick insects,formerly known as Phasmida,Yes
+Mantodea,1,78,00,00,1780000,INMA,Insecta,Mantodea,,,Praying mantises,,Yes
+Anoplura,1,79,00,00,1790000,INAN,Insecta,Phthiraptera,Anoplura (suborder),,Sucking lice,,Yes
+Archaeognatha,1,80,00,00,1800000,INAR,Insecta,Archaeognatha,,,Bristletails,,Yes
+Odonata,1,90,00,00,1900000,INAODO,Insecta,Odonata,,,Dragonfly/Damelfly,,Yes
+Chilopoda,2,00,00,00,2000000,CH,Chilopoda,,,,Centipedes,,Yes
+Scolopendromorpha,2,01,00,00,2010000,CHSCO,Chilopoda,Scolopendromorpha,,,Tropical centipedes,,Yes
+Scolopendridae,2,01,02,00,2010200,CHSCOL,Chilopoda,Scolopendromorpha,Scolopendridae,,,,
+Scolopendra polymorpha,2,01,02,01,2010201,SCOPOL,Chilopoda,Scolopendromorpha,Scolopendridae,Scolopendra polymorpha,Common desert centipede,,Yes
+Scolopendra sp.,2,01,02,02,2010202,CHSCOSCO,Chilopoda,Scolopendromorpha,Scolopendridae,Scolopendra,,,Yes
+Lithobiomorpha,2,02,00,00,2020000,CHLIT,Chilopoda,Lithobiomorpha ,,,Stone centipedes,,Yes
+Lithobiidae,2,02,01,00,2020100,CHLITLIT,Chilopoda,Lithobiomorpha ,Lithobiidae,,,,
+Henicopidae,2,02,03,00,2020300,CHLITHEN,Chilopoda,Lithobiomorpha ,Henicopidae,,,,
+Scutigeromorpha,2,03,00,00,2030000,CHSCU,Chilopoda,Scutigeromorpha,,,House centipedes,,Yes
+Arachnida,5,00,00,00,5000000,AR,Arachnida,,,,All arachnids,"Please avoid use of this code- refine to spiders, scorpions, ticks, etc.",Yes
+Araneae,5,01,00,00,5010000,ARARA,Arachnida,Araneae,,,Spiders,,Yes
+Agelenidae,5,01,01,00,5010100,ARARAAGE,Arachnida,Araneae,Agelenidae,,Funnel/Grass spiders,,Yes
+Agelenopsis sp.,5,01,01,01,5010101,ARAAGEAGE,Arachnida,Araneae,Agelenidae,Agelenopsis sp.,,,
+Pholcidae,5,01,02,00,5010200,ARARAPHO,Arachnida,Araneae,Pholcidae,,Cellar spiders/ Daddy long-legs,,Yes
+Psilochorus sp.,5,01,02,01,5010201,ARPHOPSI,Arachnida,Araneae,Pholcidae,Psilochorus,,,
+Physocyclus sp.,5,01,02,02,5010202,ARPHOPHY,Arachnida,Araneae,Pholcidae,Physocyclus,,,
+Physocyclus enaulus,5,01,02,03,5010203,PHPHEN,Arachnida,Araneae,Pholcidae,Physocyclus enaulus,Cellar spider,,Yes
+Hahniidae,5,01,03,00,5010300,ARARAHAH,Arachnida,Araneae,Hahniidae,,,,
+Neoantistea sp.,5,01,03,02,5010302,ARHAHNEO,Arachnida,Araneae,Hahniidae,Neoantistea sp.,,,
+Titanoecidae,5,01,04,00,5010400,ARARATIT,Arachnida,Araneae,Titanoecidae,,,,
+Titanoeca sp.,5,01,04,01,5010401,ARATITA,Arachnida,Araneae,Titanoecidae,Titanoeca,,,Yes
+Titanoeca americana,5,01,04,02,5010402,ARTITAME,Arachnida,Araneae,Titanoecidae,Titanoeca americana,,,
+Teminius sp.,5,01,05,01,5010501,ARARATEM,Arachnida,Araneae,Miturgidae,Teminius,,,Yes
+Salticidae,5,01,10,00,5011000,ARARASAL,Arachnida,Araneae,Salticidae,,Jumping spiders,,Yes
+Sitticus sp.,5,01,10,01,5011001,ARSALSIT,Arachnida,Araneae,Salticidae,Sitticus sp.,,,
+Habrocestum sp.,5,01,10,02,5011002,ARSALHAM,Arachnida,Araneae,Salticidae,Habrocestum sp.,,,
+Habronattus sp.,5,01,10,03,5011003,ARSALHAB,Arachnida,Araneae,Salticidae,Habronattus sp.,,,
+Habronattus californicus,5,01,10,06,5011006,SAHABCAL,Arachnida,Araneae,Salticidae,Habronattus californicus,,,
+Phidippus sp.,5,01,10,04,5011004,ARSALPHI,Arachnida,Araneae,Salticidae,Phidippus sp.,Jumping spider (genus),,Yes
+Peckhamia sp.,5,01,10,05,5011005,ARSALPEC,Arachnida,Araneae,Salticidae,Peckhamia,,,Yes
+Dysderidae,5,01,14,00,5011400,ARARADYS,Arachnida,Araneae,Dysderidae,,Sowbug eaters,,Yes
+Dysdera crocata,5,01,14,02,5011402,ARDYSCRO,Arachnida,Araneae,Dysderidae,Dysdera crocata  ,Pillbug spider,,Yes
+Theridiidae,5,01,15,00,5011500,ARARATHE,Arachnida,Araneae,Theridiidae,,Cobweb weavers,,Yes
+Euryopis sp.,5,01,15,01,5011501,ARTHEEUR,Arachnida,Araneae,Theridiidae,Euryopis sp.,,,
+Latrodectus sp.,5,01,15,02,5011502,ARTHELAT,Arachnida,Araneae,Theridiidae,Latrodectus sp.,Widow spiders (genus),,Yes
+Steatoda borealis,5,01,15,03,5011503,THSTEBOR,Arachnida,Araneae,Theridiidae,Steatoda borealis  ,,,
+Latrodectus hesperus,5,01,15,04,5011504,ARLATHES,Arachnida,Araneae,Theridiidae,Latrodectus hesperus (black widow),Black widow spider,,Yes
+Steatoda sp.,5,01,15,05,5011505,ARTHESTE,Arachnida,Araneae,Theridiidae,Steatoda sp.,,,
+Crustulina sp.,5,01,15,06,5011506,ARTHECRU,Arachnida,Araneae,Theridiidae,Crustulina sp.,,,
+Gnaphosidae,5,01,16,00,5011600,ARARAGNA,Arachnida,Araneae,Gnaphosidae,,Ground/Mouse spiders,,Yes
+Zelotes sp.,5,01,16,04,5011604,ARGNAZEL,Arachnida,Araneae,Gnaphosidae,Zelotes sp.,Ground spider (genus),,Yes
+Haplodrassus sp.,5,01,16,05,5011605,ARGNAHAP,Arachnida,Araneae,Gnaphosidae,Haplodrassus sp.,,,
+Haplodrassus chamberlini,5,01,16,42,5011642,GNHAPCHA,Arachnida,Araneae,Gnaphosidae,Haplodrassus chamberlini,,,
+Gnaphosa sp.,5,01,16,06,5011606,ARGNAGNA,Arachnida,Araneae,Gnaphosidae,Gnaphosa sp.,,,Yes
+Poecilochroa sp.,5,01,16,07,5011607,ARGNAPOE,Arachnida,Araneae,Gnaphosidae,Poecilochroa sp.,,,
+Zelotes fratris,5,01,16,08,5011608,GNSELFRA,Arachnida,Araneae,Gnaphosidae,Zelotes fratris,,,
+Zelotes lasalanus,5,01,16,09,5011609,GNZELLAS,Arachnida,Araneae,Gnaphosidae,Zelotes lasalanus  ,,,
+Zelotes tuobus,5,01,16,10,5011610,GNZELTUO,Arachnida,Araneae,Gnaphosidae,Zelotes tuobus ,,,
+Zelotes anglo,5,01,16,11,5011611,GNZELANG,Arachnida,Araneae,Gnaphosidae,Zelotes anglo  ,,,
+Herpyllus sp.,5,01,16,12,5011612,ARGNAHER,Arachnida,Araneae,Gnaphosidae,Herpyllus sp.,,,Yes
+Herpyllus ecclesiasticus,5,01,16,13,5011613,GNHERECC,Arachnida,Araneae,Gnaphosidae,Herpyllus ecclesiasticus  ,,,
+Cesonia sp.,5,01,16,14,5011614,ARGNACES,Arachnida,Araneae,Gnaphosidae,Cesonia sp.,,,Yes
+Cesonia bilineata,5,01,16,43,5011643,GNCESBIL,Arachnida,Araneae,Gnaphosidae,Cesonia bilineata,,,
+Micaria sp.,5,01,16,15,5011615,ARGNAMIC,Arachnida,Araneae,Gnaphosidae,Micaria sp.,,,Yes
+Gnaphosa sericata,5,01,16,16,5011616,GNGNASER,Arachnida,Araneae,Gnaphosidae,Gnaphosa sericata,,,Yes
+Callilepis sp.,5,01,16,17,5011617,ARGNACAL,Arachnida,Araneae,Gnaphosidae,Callilepis,,,Yes
+Callilepis pluto,5,01,16,20,5011620,GNCALPLU,Arachnida,Araneae,Gnaphosidae,Callilepis pluto,,,
+Urozelotes sp.,5,01,16,18,5011618,ARAGNAUR,Arachnida,Araneae,Gnaphosidae,Urozelotes,,,Yes
+Urozelotes rusticus,5,01,16,19,5011619,GNURORUS,Arachnida,Araneae,Gnaphosidae,Urozelotes rusticus,,,Yes
+Drassyllus sp.,5,01,16,37,5011637,ARGNADRA,Arachnida,Araneae,Gnaphosidae,Drassyllus sp.,,,Yes
+Drassyllus dromeus,5,01,16,38,5011638,DRADRO,Arachnida,Araneae,Gnaphosidae,Drassyllus dromeus,,,
+Drassyllus texamans,5,01,16,44,5011644,GNDRATEX,Arachnida,Araneae,Gnaphosidae,Drassyllus texamans,,,
+Trachyzelotes sp.,5,01,16,39,5011639,ARGNTRA,Arachnida,Araneae,Gnaphosidae,Trachyzelotes sp.,,,
+Trachyzelotes barbatus,5,01,16,40,5011640,GNTRABAR,Arachnida,Araneae,Gnaphosidae,Trachyzelotes barbatus,,,
+Trachyzelotes jaxartensis,5,01,16,41,5011641,GNTRAJAX,Arachnida,Araneae,Gnaphosidae,Trachyzelotes jaxartensis,,,
+Tetragnathidae,5,01,21,00,5012100,ARARATET,Arachnida,Araneae,Tetragnathidae,,,,
+Tetragnatha sp.,5,01,21,01,5012102,ARTETTET,Arachnida,Araneae,Tetragnathidae,Tetragnatha sp.,,,
+Pachygnatha sp.,5,01,21,02,5012103,ARTETPAC,Arachnida,Araneae,Tetragnathidae,Pachygnatha sp.,,,
+Linyphiidae,5,01,22,00,5012200,ARARALIN,Arachnida,Araneae,Linyphiidae ,,Money/Sheet-web spiders,,Yes
+Erigone sp.,5,01,22,01,5012201,ARALINERI,Arachnida,Araneae,Linyphiidae ,Erigone sp.,,,
+Clubionidae,5,01,23,00,5012300,ARARACLU,Arachnida,Araneae,Clubionidae,,,,
+Lycosidae,5,01,24,00,5012400,ARARALYC,Arachnida,Araneae,Lycosidae,,Wolf spiders,,Yes
+Arctosa sp.,5,01,24,27,5012700,ARLYARC,Arachnida,Araneae,Lycosidae,Arctosa sp.,,,
+Varacosa sp.,5,01,24,25,5012425,ARLYCVAR,Arachnida,Araneae,Lycosidae,Varacosa sp.,,,
+Varacosa shenandoah,5,01,24,26,5012426,LYVARSHE,Arachnida,Araneae,Lycosidae,Varacosa shenandoah,,,
+Schizocosa sp.,5,01,24,24,5012424,ARLYCSCH,Arachnida,Araneae,Lycosidae,Schizocosa sp.,,,
+Geolycosa sp.,5,01,24,23,5012423,ARLYCGEO,Arachnida,Araneae,Lycosidae,Geolycosa sp.,Burrowing wolf spider,,
+Lycosa sp.,5,01,24,01,5012401,ARLYCLYC,Arachnida,Araneae,Lycosidae,Lycosa sp.,,,
+Pirata sp.,5,01,24,02,5012402,ARLYCPIR,Arachnida,Araneae,Lycosidae,Pirata sp.,,,
+Allocosa sp.,5,01,24,03,5012403,ARLYCALL,Arachnida,Araneae,Lycosidae,Allocosa sp.,,,
+Pardosa sp.,5,01,24,04,5012404,ARLYCPAR,Arachnida,Araneae,Lycosidae,Pardosa sp.,Wolf spider (genus),,Yes
+Hogna sp.,5,01,24,06,5012406,ARLYCHOG,Arachnida,Araneae,Lycosidae,Hogna sp.,Wolf spider (genus),,Yes
+Alopecosa sp.,5,01,24,22,5012422,ARLYCALO,Arachnida,Araneae,Lycosidae,Alopecosa sp.,,,
+Dictynidae,5,01,25,00,5012500,ARARADIC,Arachnida,Araneae,Dictynidae,,Hackled band-producing spiders,,Yes
+Argenna sp.,5,01,25,05,5012505,ARDICARG,Arachnida,Araneae,Dictynidae,Argenna sp.,,,
+Argenna obesa,5,01,25,06,5012506,ARDICARGOB,Arachnida,Araneae,Dictynidae,Argenna obesa,,,
+Mallos sp.,5,01,25,01,5012501,ARDICMAL,Arachnida,Araneae,Dictynidae,Mallos sp.,,,
+Dictyna subulata,5,01,25,02,5012502,ARDICSUB,Arachnida,Araneae,Dictynidae,Dictyna subulata  ,,,
+Dictyna sp.,5,01,25,03,5012503,ARDICDIC,Arachnida,Araneae,Dictynidae,Dictyna sp.,,,
+Lathys sp.,5,01,25,04,5012504,ARADICLA,Arachnida,Araneae,Dictynidae,Lathys,,,Yes
+Araneidae,5,01,26,00,5012600,ARARAARA,Arachnida,Araneae,Araneidae,,Orb-weaving spiders,"Family was formerly listed as Micryphantidae in this list, not sure why- ML said this was incorrect. Changed to Araneidae -RC",Yes
+Araneus trifolium,5,01,26,02,5012602,ARARATRI,Arachnida,Araneae,Araneidae ,Araneus trifolium,,,
+Thomisidae,5,01,45,00,5014500,ARARATHO,Arachnida,Araneae,Thomisidae,,Crab spiders,,Yes
+Misumenops sp.,5,01,45,01,5014501,ARTHOMIS,Arachnida,Araneae,Thomisidae,Misumenops,,,
+Xysticus sp.,5,01,45,02,5014502,ARTHOXYS,Arachnida,Araneae,Thomisidae,Xysticus,Ground crab spiders (genus),,Yes
+Bassaniana sp.,5,01,45,03,5014503,ARTHOBAS,Arachnida,Araneae,Thomisidae,Bassaniana,,,Yes
+Homalonychidae,5,01,46,00,5014600,ARARAHOM,Arachnida,Araneae,Homalonychidae,,,,
+Oxyopidae,5,01,47,00,5014700,ARAROXY,Arachnida,Araneae,Oxyopidae,,Lynx spiders,,Yes
+Oxyopes sp.,5,01,47,01,5014701,AROXYOXY,Arachnida,Araneae,Oxyopidae,Oxyopes sp.,,,
+Trachelidae,5,01,89,00,5018900,ARARTRA,Arachnida,Araneae,Trachelidae,,,,
+Meriola sp.,5,01,89,01,5019601,ARTRAMER,Arachnida,Araneae,Trachelidae,Meriola sp.,,,Yes
+Meriola decepta,5,01,89,03,5018903,TRAMERDEC,Arachnida,Araneae,Trachelidae,Meriola decepta,,,
+Trachelas sp.,5,01,89,02,5018902,ARTRATRA,Arachnida,Araneae,Trachelidae,Trachelas sp.,,,Yes
+Phrurolithidae,5,01,90,00,5019000,ARRAPHR,Arachnida,Araneae,Phrurolithidae,,,,Yes
+Phrurotimpus sp.,5,01,90,01,5019001,ARPHRPHR,Arachnida,Araneae,Phrurolithidae,Phrurotimpus,,,Yes
+Piabuna sp.,5,01,90,02,5019002,ARPHRPIA,Arachnida,Araneae,Phrurolithidae,Piabuna ,,,Yes
+Loxosceles sp.,5,01,91,00,5019100,ARSICLOX,Arachnida,Araneae,Sicariidae,Loxosceles sp.,Recluse spiders (genus),,Yes
+Amaurobiidae,5,01,92,00,5019200,ARARAMA,Arachnida,Araneae,Amaurobiidae,,Three-clawed ecribellate spiders,,Yes
+Pisauridae,5,01,93,00,5019300,ARARAPIS,Arachnida,Araneae,Pisauridae,,Nursery web spiders,,Yes
+Oonopidae,5,01,94,00,5019400,ARARAOON,Arachnida,Araneae,Oonopidae,,Goblin spiders,,Yes
+Orchestina sp.,5,01,94,01,5019401,AROONORC,Arachnida,Araneae,Oonopidae,Orchestina sp.,,,Yes
+Oonops sp.,5,01,94,02,5019402,AROONOON,Arachnida,Araneae,Oonopidae,Oonops sp.,,,Yes
+Oecobiidae,5,01,95,00,5019500,ARARAOEC,Arachnida,Araneae,Oecobiidae,,Disc-web spiders,,Yes
+Oecobius sp.,5,01,95,01,5019501,AROECOEC,Arachnida,Araneae,Oecobiidae,Oecobius sp.,,,
+Corinnidae,5,01,96,00,5019600,ARARACOR,Arachnida,Araneae,Corinnidae,,Corinnid sac spiders,,Yes
+Castianeira sp.,5,01,96,01,5019601,CORCAS,Arachnida,Araneae,Corinnidae,Castianeira sp.,Ant-mimicking sac spider,,
+Anyphaenidae,5,01,97,00,5019700,ARARAANY,Arachnida,Araneae,Anyphaenidae,,Ghost spiders,,Yes
+Filistatidae,5,01,98,00,5019800,ARARAFIL,Arachnida,Araneae,Filistatidae,,Crevice-weaving spiders,,Yes
+Kukulcania sp.,5,01,98,01,5019801,ARAFILKUK,Arachnida,Araneae,Kukulcania sp.,,,,
+Micryphantidae,5,01,99,00,5019900,ARARAMIC,Arachnida,Araneae,Micryphantidae ,,,,
+Acari,5,02,00,00,5020000,ARACA,Arachnida,Acari (subclass),,,Mites,,Yes
+Oribatida,5,02,01,00,5020100,ARACAORI,Arachnida,Oribatida,,,Ant-head-like mites,"Used to be in the database as Oribatei, Oribatida is the accepted name now -RC",Yes
+Scorpiones,5,09,00,00,5090000,ARASCOR,Arachnida,Scorpiones,,,,,
+Vaejovidae ,5,09,01,00,5090100,ARSCOVAE,Arachnida,Scorpiones,Vaejovidae ,,,,
+Chihuanuanus sp.,5,09,01,01,5090101,SCVAECHI,Arachnida,Scorpiones,Vaejovidae ,Chihuanuanus sp.,,,
+Chihuanuanus russelli,5,09,01,02,5090102,VACHIRUS,Arachnida,Scorpiones,Vaejovidae ,Chihuanuanus russelli,,,
+Pseudoscorpiones,5,03,00,00,5030000,ARPSE,Arachnida,Pseudoscorpiones,,,Pseudoscorpions,,Yes
+Pseudoscorpion larvae,5,03,00,01,5030001,ARPSELAR,Arachnida,Pseudoscorpiones,,,,,
+Solifugae,5,04,00,00,5040000,ARSOL,Arachnida,Solifugae,,,Wind scorpions,,Yes
+Opiliones,5,05,00,00,5050000,AROPI,Arachnida,Opiliones,,,Harvestmen,,Yes
+Thelyphonida,5,06,00,00,5060000,ARURO,Arachnida,Thelyphonida,,,Formerly known as Uropygi,,
+Thelyphonidae,5,06,01,00,5060100,ARUROTHE,Arachnida,Thelyphonida,Thelyphonidae,,Whip scorpions/vinegaroons,,Yes
+Mastigoproctus giganteus,5,06,01,01,5060101,ARMASGIG,Arachnida,Thelyphonida,Thelyphonidae,Mastigoproctus giganteus,Vinegaroon,,Yes
+Ixodida,5,08,00,00,5080000,ARIXO,Arachnida,Ixodida,,,Hard ticks,,Yes
+Ixodidae,5,08,01,00,5080100,ARIXOIX,Arachnida,Ixodida,Ixodidae,,Hard ticks,,Yes
+Malacostraca,6,00,00,00,6000000,MA,Malacostraca,,,,,,
+Isopoda,6,02,00,00,6020000,MAISO,Malacostraca,Isopoda,,,All isopods,,Yes
+Porcellionidae,6,02,01,00,6020100,MAISOPOR,Malacostraca,Isopoda,Porcellionidae,,,,
+Porcellio laevis,6,02,01,01,6020101,PORLAE,Malacostraca,Isopoda,Porcellionidae,Porcellio laevis  ,Sowbug,,Yes
+Armadilliidae,6,02,02,00,6020200,MAISOARM,Malacostraca,Isopoda,Armadilliidae,,,,
+Armadillidium vulgare,6,02,02,02,6020202,ARMVUL,Malacostraca,Isopoda,Armadilliidae,Armadillidium vulgare  ,Pillbug,,Yes
+Diplopoda,7,00,00,00,7000000,DI,Diplopoda,,,,Millipedes,,Yes
+Polydesmida,7,01,00,00,7010000,DIPOD,Diplopoda,Polydesmida,,,,,Yes
+Julida,7,02,00,00,7020000,DIJUL,Diplopoda,Julida,,,,,Yes
+Polyxenida,7,03,00,00,7030000,DIPOX,Diplopoda,Polyxenida,,,Bristly millipedes,,Yes
+Spirobolida,7,04,00,00,7040000,DISPI,Diplopoda,Spirobolida,,,,,Yes
+Entognatha,8,00,00,00,8000000,EN,Entognatha,,,,,,
+Japygidae,8,01,01,00,8010100,ENDIJA,Entognatha,Diplura,Japygidae,,Forcepstails,,Yes
+All non-arthropods,9,00,00,00,9000000,NON,All non-arthropods,,,,,"Do not use this code in the dataset, be more specific",
+Annelida,9,01,00,00,9010000,AN,Annelida (phylum),,,,Worms,Formerly 9000000,Yes
+Gastropoda,9,02,00,00,9020000,GA,Gastropoda (phylum),,,,Slugs and snails,Formerly 8000000,Yes
+Vertebrate,9,03,00,00,9030000,VE,Chordata (phylum),,,,,"Do not use this code in the dataset, be more specific",
+Lizard,9,03,01,00,9030100,LIZ,Reptilia,Squamata,,,Includes both lizards and skinks,,Yes
+Shrew,9,03,02,00,9030200,SHREW,Mammalia,Eulipotyhphla ,Soricidae,,Any shrew,,Yes
+Toad,9,03,03,00,9030300,TOAD,Amphibia,Anura,,,Includes both toads and frogs,,Yes
+Mouse,9,03,04,00,9030400,MOUSE,Mammalia,Rodentia,Muridae,,Any mouse,,Yes
+Missing/No Data,.,.,.,.,.,MISSING,,,,,,,
+Phalangida,X,07,00,00,5070000,ARPHA,,,,,,"Formerly Order Phalangida, now merged with Opiliones. Use 5050000",
+change to 1111346,X,11,13,40,1111340,BLANK…,Insecta,,,,,,
+Acanthomyops sp.,X,11,13,41,1111341,FOACA,Insecta,Hymenoptera,Formicidae,Acanthomyops sp.,,"Use code 1111310, new taxonomy combines this genus with Lasisus ",
+Homoptera,X,15,00,00,1150000,INHO,Insecta,Homoptera,,,,All Homoptera are now considered Hemiptera - change to 1750000,
