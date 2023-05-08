@@ -1,1 +1,1 @@
-This folderc contains that precipiation data sets. 
+This folder contains that precipiation data sets. 
