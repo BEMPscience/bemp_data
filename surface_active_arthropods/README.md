@@ -2,7 +2,7 @@
 
 ## Surface active arthropods data for the riparian floodplain of the Rio Grande
 
-Click on the csv you want to download then right click on the raw button to save as a csv. 
+Data are located in the data folder. 
 
 <img src="https://github.com/BEMPscience/bemp_data/blob/master/surface_active_arthropods/images/2016_most_prob_artho_topics_by_reach.png" width=75% height=75%>
 
