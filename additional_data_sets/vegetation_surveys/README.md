@@ -19,11 +19,6 @@ Depth to groundwater data from 1997-2017
 ### Publisher
 Bosque Ecosystem Monitoring Program
 
-### Publication Year 
-2020
-
-Citing these data: BEMP. (2020, February 21). BEMPscience/bemp_data: BEMP Core Community Science Data - Riparian floodplain (Version v0.3). Zenodo. http://doi.org/10.5281/zenodo.3678705 <br>
-
 <img align="right" img src="https://github.com/BEMPscience/bemp_data/blob/master/images/new-bemp-logo-faded-outline.png"
 width=10% height=10%>
 
