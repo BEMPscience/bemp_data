@@ -1,0 +1,436 @@
+Species,Common name,sites,present_at_n_sites
+GRASS,Annual grass,"Alameda, Rio Grande Nature Center, Belen, Savannah, Lemitar, Los Lunas, Santa Ana, Ohkay Owingeh, Diversion, Valencia Forest, Valencia Cleared, Montano, Hispanic Cultural Center, Calabacillas, Harrison, Sevilleta, Minnow, Badger, Bobcat, BioPark, Reynolds Cleared, Route 66, Santo Domingo, Crawford, Valle de Oro, State Land Office, Albuquerque Overbank Project, Sandia, San Jose, Bosque Farms, Bosque del Apache",31
+PODEW,Rio Grande cottonwood,"Alameda, Rio Grande Nature Center, Los Lunas, Belen, Santa Ana, Savannah, Lemitar, Hispanic Cultural Center, Ohkay Owingeh, Diversion, Sevilleta, Valencia Cleared, Valencia Forest, Calabacillas, Harrison, Montano, Reynolds Cleared, Reynolds Forest, Route 66, Minnow, Badger, Bobcat, BioPark, Santo Domingo, Crawford, State Land Office, Bosque Farms, Albuquerque Overbank Project, San Jose, Bosque del Apache, River Realignment",31
+FORB,Annual dicot seedling,"Alameda, Belen, Los Lunas, Santa Ana, Rio Grande Nature Center, Savannah, Ohkay Owingeh, Diversion, Harrison, Lemitar, Hispanic Cultural Center, Minnow, Sevilleta, Valencia Forest, Montano, Reynolds Cleared, Badger, Bobcat, BioPark, Santo Domingo, Calabacillas, Route 66, Reynolds Forest, Valle de Oro, Crawford, San Jose, Sandia, Albuquerque Overbank Project, Bosque del Apache, State Land Office",30
+COCA5,Canadian horseweed,"Alameda, Rio Grande Nature Center, Belen, Ohkay Owingeh, Diversion, Santa Ana, Savannah, Harrison, Montano, Reynolds Cleared, Hispanic Cultural Center, Valencia Forest, Route 66, Badger, Calabacillas, Minnow, Sevilleta, Reynolds Forest, Bobcat, BioPark, Santo Domingo, Crawford, Los Lunas, Valle de Oro, State Land Office, Sandia, Albuquerque Overbank Project, San Jose, Bosque del Apache",29
+ELAN,Russian olive,"Alameda, Rio Grande Nature Center, Los Lunas, Belen, Santa Ana, Savannah, Hispanic Cultural Center, Ohkay Owingeh, Diversion, Sevilleta, Valencia Cleared, Valencia Forest, Calabacillas, Harrison, Montano, Reynolds Cleared, Reynolds Forest, Route 66, Minnow, Bobcat, BioPark, Crawford, Badger, Bosque Farms, Albuquerque Overbank Project, State Land Office, Santo Domingo, Sandia, River Realignment",29
+HOJU,foxtail barley,"Los Lunas, Belen, Hispanic Cultural Center, Ohkay Owingeh, Sevilleta, Valencia Cleared, Valencia Forest, Harrison, Montano, Reynolds Forest, Santa Ana, Calabacillas, Reynolds Cleared, Alameda, Route 66, Badger, Bobcat, Minnow, Savannah, Rio Grande Nature Center, Diversion, BioPark, Santo Domingo, Crawford, Bosque Farms, Valle de Oro, San Jose, Albuquerque Overbank Project, State Land Office",29
+SATR12,prickly Russian thistle,"Rio Grande Nature Center, Savannah, Lemitar, Alameda, Santa Ana, Hispanic Cultural Center, Diversion, Harrison, Valencia Cleared, Montano, Reynolds Cleared, Route 66, Calabacillas, Valencia Forest, Badger, Bobcat, Minnow, BioPark, Santo Domingo, Crawford, Belen, Reynolds Forest, Valle de Oro, State Land Office, Mesilla, Albuquerque Overbank Project, Sandia, Bosque del Apache, San Jose",29
+ELEL5,squirreltail,"Rio Grande Nature Center, Los Lunas, Santa Ana, Savannah, Lemitar, Belen, Diversion, Montano, Alameda, Hispanic Cultural Center, Calabacillas, Minnow, Badger, Bobcat, Ohkay Owingeh, Valencia Cleared, Valencia Forest, BioPark, Santo Domingo, Route 66, Reynolds Cleared, State Land Office, Harrison, Bosque Farms, San Jose, Valle de Oro, Albuquerque Overbank Project, Sevilleta",28
+SPORO,dropseed,"Rio Grande Nature Center, Savannah, Lemitar, Ohkay Owingeh, Diversion, Calabacillas, Harrison, Sevilleta, Hispanic Cultural Center, Montano, Badger, Bobcat, BioPark, Santo Domingo, Route 66, Alameda, Reynolds Cleared, Minnow, Crawford, Santa Ana, Belen, Valle de Oro, State Land Office, Albuquerque Overbank Project, San Jose, Sandia, Los Lunas, Bosque Farms",28
+BASC5,kochia,"Savannah, Santa Ana, Ohkay Owingeh, Hispanic Cultural Center, Sevilleta, Valencia Cleared, Valencia Forest, Montano, Reynolds Cleared, Route 66, Lemitar, Badger, BioPark, Crawford, Bobcat, Belen, Reynolds Forest, Diversion, Valle de Oro, State Land Office, Santo Domingo, Mesilla, San Jose, Sandia, Minnow, Harrison, Bosque del Apache",27
+MUAS,scratchgrass,"Alameda, Los Lunas, Belen, Santa Ana, Hispanic Cultural Center, Ohkay Owingeh, Diversion, Sevilleta, Valencia Cleared, Valencia Forest, Harrison, Reynolds Forest, Minnow, Bobcat, Santo Domingo, BioPark, Crawford, Calabacillas, Route 66, Reynolds Cleared, State Land Office, Bosque Farms, Valle de Oro, Albuquerque Overbank Project, San Jose, Sandia, River Realignment",27
+SAEX,narrowleaf willow,"Alameda, Los Lunas, Belen, Savannah, Ohkay Owingeh, Diversion, Sevilleta, Valencia Cleared, Valencia Forest, Calabacillas, Harrison, Route 66, Minnow, Reynolds Forest, Badger, Bobcat, Crawford, Montano, Hispanic Cultural Center, Valle de Oro, State Land Office, Reynolds Cleared, Bosque Farms, Albuquerque Overbank Project, San Jose, Bosque del Apache, River Realignment",27
+SPAI,alkali sacaton,"Belen, Savannah, Alameda, Santa Ana, Ohkay Owingeh, Diversion, Valencia Forest, Lemitar, Harrison, Sevilleta, Montano, Minnow, Bobcat, Hispanic Cultural Center, BioPark, Santo Domingo, Calabacillas, Badger, Crawford, Route 66, State Land Office, Sandia, Albuquerque Overbank Project, Valencia Cleared, Reynolds Forest, Valle de Oro",26
+LASE,prickly lettuce,"Alameda, Los Lunas, Harrison, Montano, Reynolds Cleared, Reynolds Forest, Hispanic Cultural Center, Valencia Forest, Diversion, Calabacillas, Minnow, Bobcat, Savannah, Ohkay Owingeh, Badger, BioPark, Belen, Crawford, Rio Grande Nature Center, Valle de Oro, State Land Office, Albuquerque Overbank Project, San Jose, Route 66, Bosque Farms",25
+SAGO,Goodding's willow,"Los Lunas, Belen, Hispanic Cultural Center, Sevilleta, Savannah, Calabacillas, Valencia Forest, Reynolds Forest, Ohkay Owingeh, Montano, Route 66, Minnow, Reynolds Cleared, Badger, Bobcat, Alameda, Harrison, BioPark, Crawford, Valencia Cleared, State Land Office, Albuquerque Overbank Project, San Jose, Sandia, Bosque del Apache",25
+TACH2,saltcedar,"Rio Grande Nature Center, Santa Ana, Savannah, Lemitar, Alameda, Diversion, Sevilleta, Valencia Cleared, Valencia Forest, Calabacillas, Harrison, Montano, Reynolds Cleared, Reynolds Forest, Route 66, Minnow, BioPark, Crawford, Bobcat, State Land Office, Mesilla, Bosque Farms, Albuquerque Overbank Project, Bosque del Apache, River Realignment",25
+HEAN3,common sunflower,"Savannah, Belen, Ohkay Owingeh, Alameda, Diversion, Harrison, Montano, Hispanic Cultural Center, Calabacillas, Route 66, Bobcat, Valencia Forest, Reynolds Cleared, Badger, BioPark, Santo Domingo, Minnow, Crawford, Valle de Oro, State Land Office, Albuquerque Overbank Project, Sandia, San Jose, Rio Grande Nature Center",24
+MACA2,hoary tansyaster,"Alameda, Santa Ana, Savannah, Lemitar, Hispanic Cultural Center, Diversion, Rio Grande Nature Center, Belen, Calabacillas, Harrison, Valencia Cleared, Montano, Reynolds Cleared, Route 66, Badger, BioPark, Bobcat, Minnow, Santo Domingo, Crawford, Los Lunas, Reynolds Forest, Sandia, Albuquerque Overbank Project",24
+MEOF,white sweetclover,"Alameda, Rio Grande Nature Center, Santa Ana, Savannah, Belen, Ohkay Owingeh, Hispanic Cultural Center, Diversion, Calabacillas, Harrison, Montano, Reynolds Cleared, Route 66, Minnow, Badger, Bobcat, BioPark, Crawford, Los Lunas, Santo Domingo, Valle de Oro, State Land Office, Albuquerque Overbank Project, San Jose",24
+SPCR,sand dropseed,"Rio Grande Nature Center, Savannah, Lemitar, Belen, Diversion, Harrison, Montano, Reynolds Cleared, Hispanic Cultural Center, Calabacillas, Route 66, Badger, Alameda, BioPark, Santo Domingo, Minnow, Sevilleta, Crawford, State Land Office, Bobcat, Valle de Oro, Albuquerque Overbank Project, Sandia, San Jose",24
+AMPS,Cuman ragweed,"Los Lunas, Belen, Ohkay Owingeh, Diversion, Sevilleta, Valencia Forest, Harrison, Calabacillas, Alameda, Minnow, Montano, Savannah, Reynolds Cleared, Crawford, Lemitar, Hispanic Cultural Center, Santo Domingo, Bosque Farms, Albuquerque Overbank Project, State Land Office, Valle de Oro, Bobcat, Bosque del Apache",23
+DISP,inland saltgrass,"Ohkay Owingeh, Belen, Sevilleta, Valencia Cleared, Valencia Forest, Santa Ana, Harrison, Los Lunas, Route 66, Bobcat, Reynolds Cleared, Santo Domingo, Calabacillas, Minnow, Crawford, State Land Office, Mesilla, Bosque Farms, Albuquerque Overbank Project, San Jose, Sandia, Savannah",22
+FOPUP,New Mexico olive,"Alameda, Los Lunas, Santa Ana, Ohkay Owingeh, Lemitar, Diversion, Calabacillas, Harrison, Sevilleta, Minnow, Santo Domingo, Hispanic Cultural Center, Reynolds Cleared, Rio Grande Nature Center, Badger, Bobcat, State Land Office, Savannah, Crawford, Montano, Sandia, Bosque del Apache",22
+CHAMA15,sandmat,"Rio Grande Nature Center, Savannah, Lemitar, Diversion, Alameda, Harrison, Montano, Calabacillas, Minnow, Route 66, Badger, BioPark, Santo Domingo, Crawford, Belen, Santa Ana, State Land Office, Valle de Oro, Albuquerque Overbank Project, Sandia, San Jose",21
+ULPU,Siberian elm,"Alameda, Los Lunas, Santa Ana, Hispanic Cultural Center, Ohkay Owingeh, Diversion, Calabacillas, Harrison, Route 66, Minnow, Badger, Bobcat, BioPark, State Land Office, Reynolds Cleared, Valle de Oro, Albuquerque Overbank Project, Reynolds Forest, San Jose, Rio Grande Nature Center, Belen",21
+MELIL,sweetclover,"Montano, Savannah, Crawford, Rio Grande Nature Center, Harrison, Route 66, Diversion, Calabacillas, Minnow, Badger, Bobcat, Santo Domingo, State Land Office, BioPark, Albuquerque Overbank Project, Belen, San Jose, Hispanic Cultural Center, Alameda, Bosque Farms",20
+NA,NA,"Diversion, Reynolds Cleared, Rio Grande Nature Center, Minnow, BioPark, Santa Ana, Harrison, Los Lunas, Ohkay Owingeh, Savannah, Lemitar, Hispanic Cultural Center, Albuquerque Overbank Project, Sandia, Bosque del Apache, Alameda, Montano, Badger, Santo Domingo, State Land Office",20
+APCA,Indianhemp,"Los Lunas, Belen, Ohkay Owingeh, Diversion, Harrison, Sevilleta, Calabacillas, Badger, Bobcat, Route 66, Valencia Cleared, Bosque Farms, Albuquerque Overbank Project, State Land Office, Bosque del Apache, Minnow, BioPark, San Jose, River Realignment",19
+CAREX,sedge,"Los Lunas, Belen, Ohkay Owingeh, Sevilleta, Harrison, Route 66, Diversion, Bobcat, Santa Ana, Minnow, Crawford, Hispanic Cultural Center, BioPark, Bosque Farms, Albuquerque Overbank Project, San Jose, Bosque del Apache, Badger, State Land Office",19
+BASA4,Great Plains false willow,"Hispanic Cultural Center, Diversion, Sevilleta, Los Lunas, Ohkay Owingeh, Harrison, Valencia Cleared, Bobcat, Belen, Mesilla, Bosque Farms, Albuquerque Overbank Project, San Jose, Sandia, Minnow, Bosque del Apache, State Land Office, BioPark",18
+PAOB,vine mesquite,"Rio Grande Nature Center, Belen, Ohkay Owingeh, Sevilleta, Valencia Forest, Los Lunas, Harrison, Bobcat, Minnow, Santo Domingo, Diversion, Crawford, Alameda, BioPark, Bosque Farms, Albuquerque Overbank Project, Valencia Cleared, Sandia",18
+PAVI5,thicket creeper,"Alameda, Rio Grande Nature Center, Los Lunas, Savannah, Ohkay Owingeh, Hispanic Cultural Center, Diversion, Montano, Minnow, Reynolds Forest, Badger, Bobcat, Harrison, BioPark, Crawford, Route 66, Bosque Farms, State Land Office",18
+SOEL,silverleaf nightshade,"Savannah, Montano, Badger, Bobcat, Santo Domingo, Alameda, Valencia Forest, Reynolds Cleared, Minnow, Route 66, BioPark, Mesilla, San Jose, Sandia, Reynolds Forest, Bosque Farms, Santa Ana, Sevilleta",18
+SPAN3,copper globemallow,"Savannah, Lemitar, Alameda, Diversion, Ohkay Owingeh, Montano, Calabacillas, Badger, Bobcat, BioPark, Santo Domingo, Rio Grande Nature Center, Minnow, Route 66, State Land Office, Hispanic Cultural Center, Albuquerque Overbank Project, Sandia",18
+ACHY,Indian rice grass,"Rio Grande Nature Center, Savannah, Lemitar, Valencia Forest, Montano, Santa Ana, BioPark, Crawford, Route 66, Hispanic Cultural Center, Calabacillas, Reynolds Cleared, Diversion, Alameda, Reynolds Forest, State Land Office, Bobcat",17
+AMFR,desert false indigo,"Alameda, Rio Grande Nature Center, Los Lunas, Diversion, Calabacillas, Minnow, Badger, Bobcat, Sevilleta, Montano, Hispanic Cultural Center, Savannah, Ohkay Owingeh, Harrison, State Land Office, Route 66, Bosque del Apache",17
+ELCA4,Canada wildrye,"Belen, Los Lunas, Hispanic Cultural Center, Ohkay Owingeh, Diversion, Sevilleta, Harrison, Minnow, Badger, Bobcat, Alameda, Valencia Cleared, Albuquerque Overbank Project, Sandia, Savannah, Bosque del Apache, Route 66",17
+GAMO5,velvetweed,"Diversion, Belen, Ohkay Owingeh, Alameda, Calabacillas, Minnow, Harrison, Badger, Bobcat, BioPark, Santo Domingo, Valle de Oro, Albuquerque Overbank Project, Crawford, Hispanic Cultural Center, Route 66, Los Lunas",17
+BASA,willow baccharis,"Los Lunas, Belen, Ohkay Owingeh, Hispanic Cultural Center, Diversion, Harrison, Sevilleta, Albuquerque Overbank Project, San Jose, Sandia, Bosque Farms, Bosque del Apache, Montano, Minnow, Reynolds Cleared, State Land Office",16
+SPCO4,spike dropseed,"Rio Grande Nature Center, Savannah, Lemitar, Ohkay Owingeh, Harrison, Diversion, Montano, Route 66, BioPark, Santo Domingo, Hispanic Cultural Center, Santa Ana, Minnow, State Land Office, Albuquerque Overbank Project, Badger",16
+ATCA2,fourwing saltbush,"Rio Grande Nature Center, Route 66, Calabacillas, Savannah, Hispanic Cultural Center, Belen, Diversion, Montano, Albuquerque Overbank Project, State Land Office, San Jose, Santa Ana, Sandia, Santo Domingo, Sevilleta",15
+ECMUM,rough barnyardgrass,"Reynolds Cleared, Hispanic Cultural Center, Harrison, Ohkay Owingeh, BioPark, Crawford, Belen, Sevilleta, Badger, Diversion, Santo Domingo, Valle de Oro, Albuquerque Overbank Project, San Jose, Bosque del Apache",15
+SAAM2,peachleaf willow,"Bobcat, Calabacillas, Minnow, Los Lunas, Alameda, Route 66, Bosque Farms, Sandia, Hispanic Cultural Center, Montano, State Land Office, Belen, Harrison, Santo Domingo, Reynolds Forest",15
+,NA,"Lemitar, BioPark, Santo Domingo, State Land Office, Sandia, Rio Grande Nature Center, Savannah, Diversion, Minnow, Harrison, Sevilleta, Valencia Forest, Reynolds Forest, Bobcat",14
+BOBA2,sixweeks grama,"Lemitar, Alameda, Rio Grande Nature Center, Diversion, Harrison, Route 66, Montano, Calabacillas, Santo Domingo, Badger, BioPark, State Land Office, Sandia, Albuquerque Overbank Project",14
+CYPER,flatsedge,"Ohkay Owingeh, Harrison, Diversion, Minnow, Crawford, Belen, Los Lunas, Bobcat, Route 66, Albuquerque Overbank Project, State Land Office, San Jose, Bosque Farms, Bosque del Apache",14
+EUOC4,western goldentop,"Los Lunas, Belen, Sevilleta, Harrison, Hispanic Cultural Center, Route 66, Diversion, Crawford, Ohkay Owingeh, Bosque Farms, Albuquerque Overbank Project, Calabacillas, State Land Office, San Jose",14
+MEOL,chickenthief,"Alameda, Belen, Ohkay Owingeh, Calabacillas, Minnow, Harrison, Bobcat, BioPark, Valle de Oro, State Land Office, Rio Grande Nature Center, Savannah, Crawford, Montano",14
+PACA6,witchgrass,"Harrison, Lemitar, Hispanic Cultural Center, Route 66, BioPark, Belen, Reynolds Cleared, Crawford, Reynolds Forest, Badger, San Jose, Albuquerque Overbank Project, Diversion, State Land Office",14
+TRTE,puncturevine/goathead,"Lemitar, Diversion, Montano, Badger, BioPark, Santo Domingo, Hispanic Cultural Center, Route 66, Harrison, Valle de Oro, Calabacillas, Albuquerque Overbank Project, Sandia, Savannah",14
+BROMU,brome,"Hispanic Cultural Center, Harrison, Ohkay Owingeh, Bobcat, BioPark, Santo Domingo, Savannah, Alameda, Diversion, Minnow, Badger, San Jose, Albuquerque Overbank Project",13
+DICOT,unidentified dicot,"Harrison, Alameda, Savannah, Calabacillas, Minnow, Montano, Badger, Bobcat, Ohkay Owingeh, Diversion, Hispanic Cultural Center, BioPark, Los Lunas",13
+OENOT,evening-primrose,"Ohkay Owingeh, Santo Domingo, Harrison, Lemitar, Diversion, Bobcat, Albuquerque Overbank Project, Badger, BioPark, Bosque del Apache, Los Lunas, Minnow, Route 66",13
+PASM,western wheatgrass,"Savannah, Hispanic Cultural Center, Ohkay Owingeh, Minnow, State Land Office, Diversion, Bosque Farms, Albuquerque Overbank Project, Sandia, Montano, BioPark, Harrison, Bobcat",13
+SYER,white heath aster,"Belen, Ohkay Owingeh, Harrison, Santo Domingo, Hispanic Cultural Center, Bobcat, BioPark, Diversion, Reynolds Cleared, Crawford, Valle de Oro, Albuquerque Overbank Project, Savannah",13
+ANCA10,yerba mansa,"Los Lunas, Santa Ana, Belen, Sevilleta, Valencia Cleared, Valencia Forest, Reynolds Cleared, Reynolds Forest, Bobcat, Crawford, Harrison, Mesilla",12
+COAR4,field bindweed,"Savannah, Ohkay Owingeh, Bobcat, Crawford, Valencia Forest, Reynolds Cleared, Hispanic Cultural Center, Valle de Oro, Albuquerque Overbank Project, San Jose, Montano, BioPark",12
+POOL,little hogweed,"Rio Grande Nature Center, Lemitar, Diversion, Harrison, Badger, Hispanic Cultural Center, Santo Domingo, Savannah, BioPark, Albuquerque Overbank Project, Sandia, Valle de Oro",12
+SPHAE,globemallow,"Savannah, Los Lunas, Lemitar, Ohkay Owingeh, Montano, Valle de Oro, Sandia, Route 66, Santo Domingo, Rio Grande Nature Center, BioPark, State Land Office",12
+TRAGO,goatsbeard,"Badger, Hispanic Cultural Center, BioPark, Calabacillas, Valle de Oro, Santa Ana, Diversion, Reynolds Cleared, State Land Office, Rio Grande Nature Center, Minnow, Bobcat",12
+AMARA,pigweed,"Hispanic Cultural Center, BioPark, Diversion, Harrison, Valencia Forest, Santo Domingo, Badger, Sandia, San Jose, Valle de Oro, Bosque del Apache",11
+ASSU2,horsetail milkweed,"Belen, Diversion, Bobcat, Minnow, Badger, Santo Domingo, Calabacillas, Valle de Oro, Reynolds Cleared, Crawford, Albuquerque Overbank Project",11
+BRINI,smooth brome,"Savannah, Hispanic Cultural Center, Ohkay Owingeh, Montano, Belen, Bobcat, Santa Ana, Santo Domingo, Harrison, BioPark, State Land Office",11
+CHAL7,lambsquarters,"Ohkay Owingeh, Savannah, Montano, Badger, Diversion, Reynolds Forest, BioPark, Bobcat, Route 66, Valle de Oro, Sandia",11
+ECHIN4,cockspur grass,"Harrison, Montano, BioPark, Santo Domingo, Valle de Oro, Hispanic Cultural Center, Santa Ana, Albuquerque Overbank Project, Bosque del Apache, Bobcat, Reynolds Forest",11
+JUARL,mountain rush,"Ohkay Owingeh, Bobcat, Harrison, Sevilleta, Belen, Crawford, Mesilla, Bosque Farms, Albuquerque Overbank Project, State Land Office, Diversion",11
+MESA,alfalfa,"Ohkay Owingeh, Belen, Rio Grande Nature Center, Calabacillas, Minnow, Valle de Oro, Santo Domingo, Savannah, Crawford, Albuquerque Overbank Project, Montano",11
+MOAL,white mulberry,"Los Lunas, Savannah, Hispanic Cultural Center, Diversion, Route 66, Harrison, Bobcat, Bosque Farms, Albuquerque Overbank Project, San Jose, Belen",11
+POHA5,silkcotton purslane,"Lemitar, Diversion, Harrison, Santo Domingo, Rio Grande Nature Center, Route 66, BioPark, Albuquerque Overbank Project, Savannah, Alameda, Badger",11
+SEFL3,threadleaf ragwort,"Lemitar, Rio Grande Nature Center, Diversion, Calabacillas, Alameda, Badger, Santa Ana, BioPark, Santo Domingo, Valle de Oro, San Jose",11
+BRCA6,rescuegrass,"Hispanic Cultural Center, Harrison, Ohkay Owingeh, Badger, Bobcat, Minnow, BioPark, Savannah, San Jose, State Land Office",10
+ELTR7,slender wheatgrass,"Ohkay Owingeh, Sevilleta, Harrison, Valencia Cleared, Hispanic Cultural Center, Minnow, Diversion, Albuquerque Overbank Project, Bobcat, Bosque Farms",10
+GUSA2,broom snakeweed,"Rio Grande Nature Center, Lemitar, Diversion, Alameda, Calabacillas, Hispanic Cultural Center, Santo Domingo, Savannah, Belen, Albuquerque Overbank Project",10
+SPFL2,mesa dropseed,"Rio Grande Nature Center, Savannah, Lemitar, Montano, Diversion, Route 66, Hispanic Cultural Center, Harrison, State Land Office, BioPark",10
+UNK,unknown,"Belen, Lemitar, Badger, Savannah, Calabacillas, Minnow, Montano, San Jose, Sandia, Bobcat",10
+XAST,rough cockleburr,"Harrison, Hispanic Cultural Center, Reynolds Cleared, Crawford, Belen, Reynolds Forest, Santo Domingo, Albuquerque Overbank Project, San Jose, Bobcat",10
+AIAL,tree of heaven,"Savannah, Hispanic Cultural Center, Montano, Badger, BioPark, Harrison, Minnow, Route 66, Reynolds Forest",9
+ARPU9,purple threeawn,"Rio Grande Nature Center, Lemitar, Diversion, Santo Domingo, Montano, Crawford, Belen, Albuquerque Overbank Project, Alameda",9
+CHENO,goosefoot,"Ohkay Owingeh, Montano, Route 66, Crawford, Santo Domingo, Valle de Oro, Sandia, Diversion, BioPark",9
+CYDA,Bermudagrass,"Hispanic Cultural Center, Harrison, Valle de Oro, Minnow, Albuquerque Overbank Project, Belen, Crawford, BioPark, Route 66",9
+CYES,yellow nutsedge,"Diversion, Minnow, Harrison, Bobcat, BioPark, Crawford, Belen, Albuquerque Overbank Project, Bosque del Apache",9
+ERPE,tufted lovegrass,"Harrison, Hispanic Cultural Center, Belen, Crawford, Santo Domingo, Valle de Oro, Diversion, Albuquerque Overbank Project, Route 66",9
+GLLE3,American licorice,"Savannah, Ohkay Owingeh, Diversion, Bobcat, Crawford, Harrison, Reynolds Cleared, Albuquerque Overbank Project, Reynolds Forest",9
+LYTO,Torrey wolfberry,"Valencia Cleared, Valencia Forest, Lemitar, Crawford, Hispanic Cultural Center, Sevilleta, Reynolds Cleared, Reynolds Forest, Mesilla",9
+RIAU,golden currant,"Alameda, Los Lunas, Savannah, Hispanic Cultural Center, Calabacillas, Montano, Reynolds Forest, Bosque Farms, Reynolds Cleared",9
+SEVI4,green bristlegrass,"Savannah, Santa Ana, Reynolds Cleared, BioPark, Crawford, Harrison, Valle de Oro, Montano, Albuquerque Overbank Project",9
+AMPA,carelessweed,"BioPark, Valle de Oro, State Land Office, Los Lunas, Sevilleta, Route 66, San Jose, Sandia",8
+BIFR,devil's beggartick,"Harrison, Belen, Crawford, Ohkay Owingeh, Albuquerque Overbank Project, Los Lunas, State Land Office, Bosque del Apache",8
+BOUTE,grama,"Diversion, Lemitar, Valle de Oro, BioPark, State Land Office, Rio Grande Nature Center, Sevilleta, Route 66",8
+ERDI4,spreading fleabane,"Alameda, Diversion, Santo Domingo, Harrison, Los Lunas, Route 66, Albuquerque Overbank Project, Savannah",8
+KAPA,warty caltrop,"Montano, Lemitar, Route 66, Santo Domingo, State Land Office, Diversion, Harrison, Reynolds Forest",8
+MOSQ,NA,"Rio Grande Nature Center, Lemitar, Harrison, Santo Domingo, Diversion, State Land Office, Sevilleta, Route 66",8
+POPR,Kentucky bluegrass,"Harrison, Ohkay Owingeh, Diversion, Belen, Albuquerque Overbank Project, Bosque Farms, Hispanic Cultural Center, Sevilleta",8
+SCPH,NA,"Harrison, Bobcat, Santa Ana, Hispanic Cultural Center, Ohkay Owingeh, Valle de Oro, Albuquerque Overbank Project, Bosque Farms",8
+SIIR,London rocket,"Hispanic Cultural Center, Minnow, Badger, Bobcat, Alameda, Crawford, Sandia, Route 66",8
+SOCA6,Canada goldenrod,"Ohkay Owingeh, Diversion, Harrison, Badger, Minnow, Los Lunas, Bosque Farms, Albuquerque Overbank Project",8
+SONCH,sowthistle,"Minnow, BioPark, Savannah, Hispanic Cultural Center, Bobcat, Albuquerque Overbank Project, Bosque del Apache, Diversion",8
+SYMPH4,aster,"Belen, Harrison, Ohkay Owingeh, Valle de Oro, Albuquerque Overbank Project, State Land Office, Crawford, Bobcat",8
+SYPR5,willowleaf aster,"Belen, Ohkay Owingeh, Harrison, Bobcat, Santo Domingo, Diversion, State Land Office, Albuquerque Overbank Project",8
+UDS,NA,"State Land Office, Diversion, Harrison, Crawford, Bosque Farms, Lemitar, Route 66, Albuquerque Overbank Project",8
+ELYMU,wildrye,"Los Lunas, Diversion, Sevilleta, Hispanic Cultural Center, Ohkay Owingeh, Albuquerque Overbank Project, Bobcat",7
+EQLA,smooth horsetail,"Belen, Ohkay Owingeh, Harrison, Sevilleta, Bobcat, Bosque Farms, Albuquerque Overbank Project",7
+OEELH,Hooker's evening primrose,"Harrison, Ohkay Owingeh, Albuquerque Overbank Project, Reynolds Cleared, BioPark, San Jose, Los Lunas",7
+SARA3,ravennagrass,"Minnow, Harrison, BioPark, Albuquerque Overbank Project, San Jose, State Land Office, Bosque Farms",7
+CRTE4,Texas croton,"Montano, Savannah, Calabacillas, Valencia Forest, Rio Grande Nature Center, Lemitar",6
+DISP/MUAS,scratchgrass or saltgrass,"Sevilleta, Valencia Forest, Crawford, Ohkay Owingeh, Valencia Cleared, State Land Office",6
+DIWI2,spectaclepod,"Lemitar, Diversion, Montano, Rio Grande Nature Center, Route 66, Santa Ana",6
+HECI,Texas blueweed,"Savannah, Montano, Crawford, Reynolds Cleared, Bosque Farms, San Jose",6
+JUBA,Baltic rush,"Belen, Ohkay Owingeh, Sevilleta, Valencia Cleared, Harrison, Bobcat",6
+JUTO,Torrey's rush,"Ohkay Owingeh, Santa Ana, Crawford, Harrison, Albuquerque Overbank Project, State Land Office",6
+LEFUF,bearded sprangletop,"Crawford, Belen, Harrison, Badger, Albuquerque Overbank Project, Valle de Oro",6
+MACHA,tansyaster,"Rio Grande Nature Center, Calabacillas, Alameda, Lemitar, Albuquerque Overbank Project, Sandia",6
+MAPIP4,lacy tansyaster,"Lemitar, Rio Grande Nature Center, BioPark, Santo Domingo, Diversion, Bobcat",6
+PHYSA,groundcherry,"Savannah, Montano, Badger, Bobcat, BioPark, Diversion",6
+RATA,green prairie coneflower,"Diversion, Calabacillas, Route 66, Santo Domingo, Albuquerque Overbank Project, Bosque Farms",6
+SCHOE6,bulrush,"Ohkay Owingeh, Harrison, State Land Office, Crawford, Albuquerque Overbank Project, Belen",6
+SCPU10,common threesquare,"Ohkay Owingeh, Harrison, Sevilleta, Crawford, State Land Office, Albuquerque Overbank Project",6
+TAOF,dandelion,"Valle de Oro, Harrison, State Land Office, Bobcat, Reynolds Cleared, Bosque del Apache",6
+TYPHA,cattail,"Ohkay Owingeh, BioPark, Harrison, State Land Office, Bosque Farms, Albuquerque Overbank Project",6
+UNID,unknown,"Badger, Bobcat, BioPark, Santo Domingo, Minnow, State Land Office",6
+AMAC2,flatspine burr ragweed,"Montano, Lemitar, Santo Domingo, Bosque Farms, Bosque del Apache",5
+AMBRO,ragweed,"Calabacillas, Montano, Santo Domingo, Lemitar, Bosque del Apache",5
+ARFI2,sand sagebrush,"Savannah, BioPark, Diversion, Lemitar, Sandia",5
+BOAR,needle grama,"Lemitar, Savannah, Badger, Diversion, Santo Domingo",5
+BOCU,sideoats grama,"Hispanic Cultural Center, Diversion, BioPark, State Land Office, Route 66",5
+BOGR2,blue grama,"Hispanic Cultural Center, Diversion, Harrison, State Land Office, Route 66",5
+CHFR3,Fremont's goosefoot,"Montano, Badger, Valle de Oro, Sandia, Santo Domingo",5
+CHPR5,desert goosefoot,"Montano, Santo Domingo, Crawford, Ohkay Owingeh, Sandia",5
+CRYPT,cryptantha,"Savannah, Diversion, Calabacillas, Minnow, Badger",5
+DEIL,Illinois bundleflower,"Crawford, Harrison, Valle de Oro, Belen, Albuquerque Overbank Project",5
+ECHIN,purple coneflower,"Harrison, Route 66, Hispanic Cultural Center, Albuquerque Overbank Project, Bosque del Apache",5
+ERAGR,lovegrass,"Rio Grande Nature Center, Harrison, Hispanic Cultural Center, Crawford, Santo Domingo",5
+GAURA,beeblossom,"Harrison, BioPark, Santo Domingo, Diversion, Badger",5
+LATAP,blue lettuce,"Belen, Ohkay Owingeh, Harrison, Albuquerque Overbank Project, Bosque Farms",5
+POLA4,curlytop knotweed,"Belen, Crawford, Harrison, Albuquerque Overbank Project, State Land Office",5
+RUMEX,dock,"Belen, Ohkay Owingeh, Harrison, Albuquerque Overbank Project, Bosque del Apache",5
+SOAS,spiny sowthistle,"Hispanic Cultural Center, Minnow, BioPark, San Jose, Savannah",5
+SOLAN,nightshade,"Montano, Badger, Savannah, BioPark, Sandia",5
+SPSA3,alkali swainsonpea,"Sevilleta, Santo Domingo, Ohkay Owingeh, Lemitar, Diversion",5
+THPO7,tall wheatgrass,"Valencia Cleared, Valencia Forest, Montano, Hispanic Cultural Center, Savannah",5
+TRPO2,desert horsepurslane,"Mesilla, BioPark, Santo Domingo, Valle de Oro, State Land Office",5
+AGGI2,redtop,"Harrison, Ohkay Owingeh, Belen, Albuquerque Overbank Project",4
+ARLU,white sagebrush,"BioPark, Bosque Farms, Albuquerque Overbank Project, Sevilleta",4
+BRASSI,mustard family,"Savannah, Hispanic Cultural Center, Montano, Bosque del Apache",4
+BRJA,Japanese brome,"Belen, Ohkay Owingeh, Harrison, Hispanic Cultural Center",4
+CESP4,coastal sandbur,"Harrison, Badger, Santo Domingo, Albuquerque Overbank Project",4
+CHSP11,spiny chloracantha,"Valencia Forest, Sevilleta, Albuquerque Overbank Project, Harrison",4
+CHVI4,feather fingergrass,"Santo Domingo, Valle de Oro, Harrison, BioPark",4
+DAGL,orchardgrass,"Belen, Savannah, Hispanic Cultural Center, Harrison",4
+DESCU,tansymustard,"Hispanic Cultural Center, Montano, Alameda, Badger",4
+DISA,hairy crabgrass,"Harrison, Crawford, Valencia Cleared, Sevilleta",4
+ECCR,barnyardgrass,"Ohkay Owingeh, Valle de Oro, Bosque del Apache, Albuquerque Overbank Project",4
+ERBE2,western daisy fleabane,"Savannah, Diversion, Santo Domingo, Route 66",4
+EUDA5,David's spurge,"Badger, Santo Domingo, State Land Office, Bobcat",4
+HENE5,New Mexico feathergrass,"Rio Grande Nature Center, Hispanic Cultural Center, Alameda, Calabacillas",4
+JUMO,oneseed juniper,"Rio Grande Nature Center, Santa Ana, Santo Domingo, Route 66",4
+JUNCU,rush,"Ohkay Owingeh, Harrison, State Land Office, Albuquerque Overbank Project",4
+LEOR,rice cutgrass,"Ohkay Owingeh, BioPark, Harrison, Albuquerque Overbank Project",4
+MENTZ,blazingstar,"Lemitar, Santo Domingo, Diversion, Albuquerque Overbank Project",4
+OEELH2,NA,"Belen, Ohkay Owingeh, Harrison, Diversion",4
+OPPH,tulip pricklypear,"Lemitar, Diversion, Santo Domingo, Alameda",4
+OPUNT,pricklypear,"Diversion, Santo Domingo, Lemitar, Rio Grande Nature Center",4
+PLJA,James' galleta,"Hispanic Cultural Center, Diversion, State Land Office, BioPark",4
+POCO,Canada bluegrass,"Ohkay Owingeh, Diversion, Santa Ana, Belen",4
+PORTU,purslane,"Lemitar, Diversion, Rio Grande Nature Center, BioPark",4
+RHTR,skunkbush sumac,"Alameda, Ohkay Owingeh, Valencia Forest, BioPark",4
+SISYM,hedgemustard,"Calabacillas, Minnow, Badger, Hispanic Cultural Center",4
+SOHA,Johnsongrass,"Belen, Harrison, Valle de Oro, Albuquerque Overbank Project",4
+SPGI,giant dropseed,"Lemitar, Montano, Sandia, BioPark",4
+TECA3,Canada germander,"Belen, Albuquerque Overbank Project, Los Lunas, Harrison",4
+TYLA,broadleaf cattail,"Ohkay Owingeh, BioPark, Harrison, State Land Office",4
+VEBR,bigbract verbena,"Minnow, Valle de Oro, Diversion, Albuquerque Overbank Project",4
+VETH,common mullein,"Montano, BioPark, Diversion, Harrison",4
+AGOSE,agoseris,"Belen, Badger, Bobcat",3
+AMHY,slim amaranth,"Calabacillas, Lemitar, Diversion",3
+AMORP,false indigo,"Los Lunas, Savannah, Calabacillas",3
+ARDR4,tarragon,"Diversion, Santo Domingo, Minnow",3
+ARTEM,sagebrush,"BioPark, Lemitar, Albuquerque Overbank Project",3
+ASCLE,milkweed,"Belen, Savannah, Ohkay Owingeh",3
+BICE,nodding beggartick,"Ohkay Owingeh, Albuquerque Overbank Project, Bosque del Apache",3
+CHER2,rose heath,"Alameda, Diversion, Santo Domingo",3
+CHIN2,mealy goosefoot,"Santo Domingo, Sandia, Bobcat",3
+CHLE4,narrowleaf goosefoot,"Valle de Oro, Sandia, San Jose",3
+CIVU,bull thistle,"Belen, Santa Ana, Ohkay Owingeh",3
+COAM8,American bugseed,"Harrison, Lemitar, Santo Domingo",3
+CYGL,waxy springparsley,"Diversion, Harrison, Albuquerque Overbank Project",3
+CYOD,fragrant flatsedge,"Crawford, Harrison, Albuquerque Overbank Project",3
+DAWR2,sacred thorn-apple,"Montano, Savannah, Sandia",3
+ELEOC,spikerush,"Ohkay Owingeh, Harrison, Albuquerque Overbank Project",3
+EQUIS,horsetail,"Belen, Ohkay Owingeh, Harrison",3
+ERHY,teal lovegrass,"Harrison, Valle de Oro, Albuquerque Overbank Project",3
+ERIGE2,fleabane,"Lemitar, Diversion, Santo Domingo",3
+EUPHO,spurge,"Ohkay Owingeh, Badger, State Land Office",3
+GAVI2,woolly beeblossom,"Alameda, Belen, Ohkay Owingeh",3
+GLTR,honeylocust,"Hispanic Cultural Center, BioPark, Badger",3
+GRSQ,curlycup gumweed,"Harrison, Santo Domingo, Albuquerque Overbank Project",3
+HELIA3,sunflower,"Savannah, Ohkay Owingeh, Santo Domingo",3
+HEVI4,hairy false goldenaster,"Valle de Oro, Santo Domingo, Bobcat",3
+IPLO2,pinkthroat morning-glory,"Lemitar, Santo Domingo, Rio Grande Nature Center",3
+LACTU,lettuce,"Alameda, Badger, Bosque Farms",3
+MINT,unidentified mint,"Belen, Sevilleta, Ohkay Owingeh",3
+MUAS/DISP,NA,"Sevilleta, Ohkay Owingeh, Valencia Forest",3
+OESU3,scarlet beeblossom,"Santo Domingo, Alameda, Bosque del Apache",3
+PADI,fall panicgrass,"Crawford, Albuquerque Overbank Project, State Land Office",3
+PASPA2,crowngrass,"Harrison, Crawford, Albuquerque Overbank Project",3
+PHAU7,common reed,"Sevilleta, Bosque Farms, State Land Office",3
+PHHI8,prairie groundcherry,"Diversion, Montano, Savannah",3
+PLANT,plaintain,"Harrison, Valle de Oro, Albuquerque Overbank Project",3
+POMO5,annual rabbitsfoot grass,"Harrison, Ohkay Owingeh, Reynolds Cleared",3
+PYPA4,smallflower desert-chicory,"Belen, Valle de Oro, Albuquerque Overbank Project",3
+RUCR,curly dock,"Ohkay Owingeh, Belen, Bosque del Apache",3
+SCACO2,tule,"Ohkay Owingeh, Harrison, State Land Office",3
+SCAR7,tall fescue,"Valle de Oro, Albuquerque Overbank Project, Harrison",3
+SETAR,bristlegrass,"Santa Ana, Savannah, Valle de Oro",3
+SOAR2,field sowthistle,"Belen, Bobcat, Hispanic Cultural Center",3
+SOLID,goldenrod,"Ohkay Owingeh, Diversion, Santo Domingo",3
+SONI,black nightshade,"Montano, Badger, Reynolds Forest",3
+SONU2,Indiangrass,"Harrison, Bosque Farms, Albuquerque Overbank Project",3
+SYMPH,snowberry,"Santo Domingo, Hispanic Cultural Center, Harrison",3
+AGROS2,bentgrass,"Ohkay Owingeh, Albuquerque Overbank Project",2
+AMBL,mat amaranth,"Santo Domingo, Sandia",2
+AMCO,NA,"Harrison, Calabacillas",2
+AMCO3,weakleaf burr ragweed,"Calabacillas, Lemitar",2
+ARAN7,silverweed cinquefoil,"Belen, Ohkay Owingeh",2
+ASOF,garden asparagus,"Ohkay Owingeh, Valencia Cleared",2
+ASSP,showy milkweed,"Ohkay Owingeh, Minnow",2
+BAHY,fivehorn smotherweed,"Crawford, Sandia",2
+BOERH2,spiderling,"Lemitar, Diversion",2
+BOTO2,NA,"Lemitar, Santo Domingo",2
+BREUC2,false boneset,"Diversion, Bobcat",2
+CAPR5,clustered field sedge,"Ohkay Owingeh, Albuquerque Overbank Project",2
+CARA2,trumpet creeper,"Albuquerque Overbank Project, Harrison",2
+CHVE2,tumble windmill grass,"Santo Domingo, Valle de Oro",2
+CIAR4,Canada thistle,"Ohkay Owingeh, Santa Ana",2
+CIRSI,thistle,"Belen, Ohkay Owingeh",2
+CONYZ,horseweed,"Montano, Crawford",2
+CROTON,NA,"Rio Grande Nature Center, Savannah",2
+CYSQ,NA,"Bosque Farms, Albuquerque Overbank Project",2
+DALA3,woolly prairie clover,"Lemitar, Diversion",2
+DALE3,foxtail prairie clover,"Harrison, Lemitar",2
+DIWI5,fall rosette grass,"Lemitar, Montano",2
+ELPA3,common spikerush,"Harrison, Albuquerque Overbank Project",2
+EPCI,fringed willowherb,"Ohkay Owingeh, Calabacillas",2
+ERCI,stinkgrass,"Albuquerque Overbank Project, Diversion",2
+GACO5,scarlet beeblossom,"Alameda, Santo Domingo",2
+GAURA/OENOT,NA,"Crawford, Alameda",2
+HECU3,salt heliotrope,"Montano, Reynolds Forest",2
+HYMEN4,hymenopappus,"Santo Domingo, Lemitar",2
+LEMNA,duckweed,"Ohkay Owingeh, Los Lunas",2
+LYAM,American water horehound,"Belen, Ohkay Owingeh",2
+LYCOP4,waterhorehound,"Harrison, Ohkay Owingeh",2
+MILI3,narrowleaf four o'clock,"Lemitar, Santo Domingo",2
+MUTO2,ring muhly,"Diversion, Sandia",2
+NAHI,bristly nama,"Lemitar, Albuquerque Overbank Project",2
+OECO2,crownleaf evening primrose,"Santo Domingo, Albuquerque Overbank Project",2
+OECU2,velvetweed,"Ohkay Owingeh, Albuquerque Overbank Project",2
+OEPA,pale evening-primrose,"Lemitar, Santo Domingo",2
+PADI16,NA,"Harrison, Albuquerque Overbank Project",2
+PANIC,panicgrass,"Lemitar, State Land Office",2
+PASP,othake,"Santo Domingo, Lemitar",2
+PEAN,lemonscent,"Calabacillas, Lemitar",2
+PHACE,phacelia,"Diversion, Badger",2
+PHAR3,reed canarygrass,"Harrison, Albuquerque Overbank Project",2
+PHHE4,ivyleaf groundcherry,"Savannah, Montano",2
+PHHE5,clammy groundcherry,"Savannah, Montano",2
+PHMA18,Colorado desert mistletoe,"State Land Office, Harrison",2
+PHVI5,Virginia groundcherry,"Montano, Savannah",2
+PLMA2,NA,"Harrison, Albuquerque Overbank Project",2
+PRPU,screwbean mesquite,"Sevilleta, Mesilla",2
+PSCA11,NA,"Harrison, Albuquerque Overbank Project",2
+ROPS,black locust,"Ohkay Owingeh, Hispanic Cultural Center",2
+SAAB,Abert's creeping zinnia,"Santo Domingo, Diversion",2
+SALIX,willow,"Ohkay Owingeh, Albuquerque Overbank Project",2
+SAPA8,barbwire Russian thistle,"Lemitar, Sandia",2
+SCHIZ4,little bluestem,"Harrison, State Land Office",2
+SCTA2,softstem bulrush,"Ohkay Owingeh, Harrison",2
+SELE6,streambed bristlegrass,"Savannah, Montano",2
+SENEC,ragwort,"Santa Ana, Santo Domingo",2
+SUMO,Mojave seablite,"Mesilla, Santo Domingo",2
+SYFAC,white prairie aster,"Belen, Ohkay Owingeh",2
+TOAN,annual Townsend daisy,"Rio Grande Nature Center, Diversion",2
+TRDU,yellow salsify,"Valle de Oro, BioPark",2
+TYDO,southern cattail,"Harrison, State Land Office",2
+ALGAE,unidentified algae,State Land Office,1
+ALIN,trailing windmills,Lemitar,1
+ALMA12,camelthorn,Valencia Forest,1
+ALTR7,northern water plantain,Ohkay Owingeh,1
+AMAR2,annual ragweed,Calabacillas,1
+AMFL,NA,Montano,1
+ANDRO,NA,Harrison,1
+ARAD/BOBA2,sixweeks grass,Lemitar,1
+ARCA14,Carruth's sagewort,Diversion,1
+ARIST,threeawn,Lemitar,1
+ASLAH2,NA,Belen,1
+ATARE,silverscale saltbush,Mesilla,1
+ATCA,NA,Calabacillas,1
+ATMI2,twoscale saltbush,Ohkay Owingeh,1
+ATRIP,NA,Mesilla,1
+BACCH,baccharis,Hispanic Cultural Center,1
+BAMU,desert marigold,Calabacillas,1
+BAPT,yerba de pasmo,Mesilla,1
+BIDEN,NA,Harrison,1
+BOAR/BOBA2,needle or sixweeks grama,Lemitar,1
+BOBA2/BOAR,NA,Lemitar,1
+BOER4,NA,State Land Office,1
+BOSP,creeping spiderling,Lemitar,1
+BRTE,NA,BioPark,1
+CACA4,bluejoint,Ohkay Owingeh,1
+CADR,whitetop,Ohkay Owingeh,1
+CAPE42,woolly sedge,Ohkay Owingeh,1
+CAUT,Northwest Territory sedge,Ohkay Owingeh,1
+CHAMA8,NA,BioPark,1
+CHGE2,Geyer's sandmat,Rio Grande Nature Center,1
+CHHI,NA,Sandia,1
+CHSO,hairy five eyes,BioPark,1
+CHVI8,yellow rabbitbrush,Santo Domingo,1
+CLCO2,rock clematis,Ohkay Owingeh,1
+CLLI2,western white clematis,Ohkay Owingeh,1
+CLSE,Rocky Mountain beeplant,Sandia,1
+COCA6,NA,Montano,1
+CRTR5,NA,Mesilla,1
+CUAR,NA,Route 66,1
+CUFO,Missouri gourd,Badger,1
+CYAT,winged pigweed,Harrison,1
+CYGLO,NA,Albuquerque Overbank Project,1
+CYIM2,tree cholla,Santo Domingo,1
+DYPA,fetid marigold,Route 66,1
+ECPR,false daisy,Bosque del Apache,1
+ELCA5,NA,Hispanic Cultural Center,1
+ELPS,grass,Ohkay Owingeh,1
+EPHE,broadleaf helleborine,Calabacillas,1
+EPILO,willowherb,Ohkay Owingeh,1
+EPWI2,balloonbush,Lemitar,1
+EQAR,field horsetail,Harrison,1
+ERACA,NA,Valle de Oro,1
+ERICA,NA,Santo Domingo,1
+ERPEM,desert lovegrass,Crawford,1
+ERPEP2,tufted lovegrass,Harrison,1
+EUDE4,NA,Santo Domingo,1
+ElEL5,NA,Minnow,1
+FRAXI,ash,Diversion,1
+FRAXINUS,NA,Hispanic Cultural Center,1
+FRVE2,velvet ash,Diversion,1
+FUNGI,NA,Route 66,1
+FUNGI1,unidentified fungus,Savannah,1
+GAPI,red dome blanketflower,Lemitar,1
+GAPU,Indian blanket,Diversion,1
+HENE3,NA,Rio Grande Nature Center,1
+HEPE,prairie sunflower,Santo Domingo,1
+HESPE11,needle and thread,Rio Grande Nature Center,1
+HITR,flower of an hour,Valle de Oro,1
+HOSU,NA,Montano,1
+HYFL,NA,Lemitar,1
+IPLO,NA,Lemitar,1
+JUSC2,Rocky Mountain juniper,Santa Ana,1
+LELA2,broadleaved pepperweed,Sevilleta,1
+LINE,NA,Lemitar,1
+LINUM,flax,Lemitar,1
+LONIC,honeysuckle,Los Lunas,1
+LYCIUM,NA,Sevilleta,1
+LYPA,NA,Belen,1
+LYSA2,purple loosestrife,Ohkay Owingeh,1
+MAAQ2,NA,BioPark,1
+MALE3,alkali mallow,Mesilla,1
+MARE11,creeping barberry,BioPark,1
+MARSI,waterclover (fern),Ohkay Owingeh,1
+MELIL/MESA,sweetclover or alfalfa,Minnow,1
+MESA/MEOF,alfalfa or white sweetclover,Minnow,1
+MIGL,NA,Lemitar,1
+MIGL3,smooth four o'clock,Lemitar,1
+MIRAB,four o'clock,Lemitar,1
+MOCE,threadstem carpetweed,Lemitar,1
+MOSC,NA,Diversion,1
+MOVE,green carpetweed,Lemitar,1
+MUHLE,muhly,Diversion,1
+MUME2,mexican muhly,Diversion,1
+MUME5,NA,Diversion,1
+MUPO2,bush muhly,Sandia,1
+NYCTAG,NA,Lemitar,1
+ONAG,NA,Harrison,1
+OPIM,NA,Santo Domingo,1
+ORPU2,NA,Santo Domingo,1
+PECTI,chinchweed,Lemitar,1
+PEGR9,silkvine,Albuquerque Overbank Project,1
+PHCO,skyblue phacelia,Sevilleta,1
+PIOP,oppositeleaf bahia,Calabacillas,1
+PLLA,NA,Valle de Oro,1
+POAB,NA,Harrison,1
+PODO3,NA,Sandia,1
+POHA2,NA,Diversion,1
+POHI6,woolly cinquefoil,Ohkay Owingeh,1
+POLAN,NA,Sandia,1
+POVI9,beardless rabbitsfoot grass,Harrison,1
+PRLO,ram's horn / devil's claw,Montano,1
+PSSC6,broom dalea,Lemitar,1
+PSSC8,NA,Lemitar,1
+PSST7,cottonbatting plant,Belen,1
+RACO3,upright prairie coneflower,Diversion,1
+RIAM,NA,Montano,1
+RONE,New Mexico locust,Ohkay Owingeh,1
+ROWO,Woods' rose,Ohkay Owingeh,1
+SAAM6,NA,Alameda,1
+SAGIT,arrowhead,Ohkay Owingeh,1
+SCAC3,NA,Harrison,1
+SCAM6,chairmaker's bulrush,Ohkay Owingeh,1
+SCAR,Arabian schismus,Hispanic Cultural Center,1
+SCPA8,cloaked bulrush,Ohkay Owingeh,1
+SEED,unidentified seedlings,Hispanic Cultural Center,1
+SEVE2,verrucose seapurslane,Mesilla,1
+SHRUB,unknown shrub,Valencia Cleared,1
+SOTR,cutleaf nightshade,Montano,1
+SPCO4/SPGI,spike or giant dropseed,Lemitar,1
+SPCR/SPFL2,sand or mesa dropseed,Route 66,1
+SPCR/SPWR2,sand dropseed or big sacaton,Lemitar,1
+SPFL3,NA,Montano,1
+SPGR2,gooseberryleaf globemallow,Santo Domingo,1
+SPIFL,NA,Montano,1
+SPOB,NA,Albuquerque Overbank Project,1
+SPORP,NA,Montano,1
+SPWR2,big sacaton,Sandia,1
+STIPA,grass,Rio Grande Nature Center,1
+STPA4,brownplume wirelettuce,Lemitar,1
+SUAED,seepweed,Crawford,1
+SYLAH6,white panicle aster,Albuquerque Overbank Project,1
+TECAO,western germander,Belen,1
+THIN6,intermediate wheatgrass,Savannah,1
+TILA2,woolly tidestromia,Lemitar,1
+TRPR,NA,Valle de Oro,1
+UGI,NA,Albuquerque Overbank Project,1
+UMS,NA,Route 66,1
+VEAN2,water speedwell,Harrison,1
+WC,NA,Ohkay Owingeh,1
+XANTH2,cocklebur,Reynolds Cleared,1
+XASP2,spiny cocklebur,Harrison,1
+YELAC,NA,Belen,1
