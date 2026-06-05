@@ -1,0 +1,240 @@
+ID,year,month,day,site,trap,quantity,name,DatasheetNotes,class,order,family,genspp,numbercode,lettercode,Checked initials,QAQCNotes,line_number
+.,2025,5,30,RAV,1,6,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,30,RAV,1,1,Acari,,5,2,0,0,5020000,ARACA,.,.,1
+.,2025,5,30,RAV,1,3,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,1
+.,2025,5,30,RAV,2,2,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,30,RAV,2,2,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,1
+.,2025,5,30,RAV,2,1,Chrysomelidae,Paria sp.,1,2,9,0,1020900,INCOCHR,.,.,1
+.,2025,5,30,RAV,2,14,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,1
+.,2025,5,30,RAV,2,3,Pardosa sp.,P. atlantica,5,1,24,4,5012404,ARLYCPAR,.,.,1
+.,2025,5,30,RAV,3,47,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,30,RAV,3,75,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,1
+.,2025,5,30,RAV,3,1,Pardosa sp.,P. atlantica (2 female 1 male),5,1,24,4,5012404,ARLYCPAR,.,.,1
+.,2025,5,30,RAV,4,237,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,30,RAV,4,1,Orthoptera,Eunemobius carolinus (female),1,19,0,0,1190000,INOR,.,.,1
+.,2025,5,30,RAV,4,12,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,1
+.,2025,5,30,RAV,4,11,Staphylinidae,,1,2,17,0,1021700,INCOSTA,.,.,1
+.,2025,5,30,RAV,4,2,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,1
+.,2025,5,30,RAV,4,1,Drassyllus sp.,female,5,1,16,37,5011637,ARGNADRA,.,.,1
+.,2025,5,30,RAV,4,1,Allocosa sp.,imm male,5,1,24,3,5012403,ARLYCALL,.,.,1
+.,2025,5,30,RAV,5,10,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,30,RAV,5,1,Embaphion contusum,,1,2,46,51,1024651,TEEMBCON,.,.,2
+.,2025,5,30,RAV,5,2,Allocosa sp.,,5,1,24,3,5012403,ARLYCALL,.,.,2
+.,2025,5,30,RAV,5,1,Blapstinus fortis,,1,2,46,48,1024648,TEBLAFOR,.,.,2
+.,2025,5,30,RAV,5,1,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,2
+.,2025,5,30,RAV,5,3,Collembola,,1,4,0,0,1040000,INCL,.,.,2
+.,2025,5,30,RAV,5,16,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,2
+.,2025,5,30,RAV,5,1,Linyphiidae,erigone type male,5,1,22,0,5012200,ARARALIN,.,.,2
+.,2025,5,30,RAV,6,14,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,30,RAV,6,5,Allocosa sp.,,5,1,24,3,5012403,ARLYCALL,.,.,2
+.,2025,5,30,RAV,6,1,Pardosa sp.,P. atlantica,5,1,24,4,5012404,ARLYCPAR,.,.,2
+.,2025,5,30,RAV,6,52,Dorymyrmex insanus,,1,11,13,54,1111354,DORINS,.,.,2
+.,2025,5,30,RAV,6,2,Staphylinidae,,1,2,17,0,1021700,INCOSTA,.,.,2
+.,2025,5,30,RAV,6,23,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,2
+.,2025,5,30,RAV,6,1,Collembola,,1,4,0,0,1040000,INCL,.,.,2
+.,2025,5,30,RAV,6,1,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,2
+.,2025,5,30,RAV,7,5,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,30,RAV,7,4,Allocosa sp.,,5,1,24,3,5012403,ARLYCALL,.,.,2
+.,2025,5,30,RAV,7,4,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,2
+.,2025,5,30,RAV,7,3,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,2
+.,2025,5,30,RAV,7,1,Curculionidae,,1,2,31,0,1023100,INCOCUR,.,.,2
+.,2025,5,30,RAV,8,41,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,30,RAV,8,47,Dorymyrmex insanus,,1,11,13,54,1111354,DORINS,.,.,2
+.,2025,5,30,RAV,8,4,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,2
+.,2025,5,30,RAV,8,4,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,2
+.,2025,5,30,RAV,8,1,Polydesmida,,7,1,0,0,7010000,DIPOD,.,.,2
+.,2025,5,30,RAV,8,1,Theridiidae,tiny red female,5,1,15,0,5011500,ARARATHE,.,.,2
+.,2025,5,30,RAV,8,1,Allocosa sp.,,5,1,24,3,5012403,ARLYCALL,.,.,2
+.,2025,5,30,RAV,8,1,Solenopsis sp.,,1,11,13,5,1111305,FOSOL,.,.,2
+.,2025,5,30,RAV,9,17,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,30,RAV,9,2,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,3
+.,2025,5,30,RAV,9,2,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,3
+.,2025,5,30,RAV,9,2,Acari,,5,2,0,0,5020000,ARACA,.,.,3
+.,2025,5,30,RAV,9,1,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,3
+.,2025,5,30,RAV,9,2,Zelotes sp.,1 male 1 female,5,1,16,4,5011604,ARGNAZEL,.,.,3
+.,2025,5,30,RAV,10,44,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,30,RAV,10,22,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,3
+.,2025,5,30,RAV,10,1,Carabidae,Small,1,2,55,0,1025500,INCOCAR,.,.,3
+.,2025,5,30,RAV,11,29,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,30,RAV,11,9,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,3
+.,2025,5,30,RAV,11,2,Polydesmida,,7,1,0,0,7010000,DIPOD,.,.,3
+.,2025,5,30,RAV,11,1,Zelotes sp.,,5,1,16,4,5011604,ARGNAZEL,.,.,3
+.,2025,5,30,RAV,11,16,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,3
+.,2025,5,30,RAV,11,1,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,3
+.,2025,5,30,RAV,11,1,Aeolus sp.,A. livins?,1,2,5,6,1020506,ELAAEO,.,.,3
+.,2025,5,30,RAV,11,1,Xysticus sp.,,5,1,45,2,5014502,ARTHOXYS,.,.,3
+.,2025,5,30,RAV,12,10,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,30,RAV,12,9,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,3
+.,2025,5,30,RAV,12,2,Eleodes suturalis,,1,2,46,7,1024607,TEELESUT,.,.,3
+.,2025,5,30,RAV,12,1,Lepidoptera larva,noctuiidae,1,9,0,1,1090001,LELEPLAR,.,.,3
+.,2025,5,30,RAV,12,2,Blapstinus fortis,,1,2,46,48,1024648,TEBLAFOR,.,.,3
+.,2025,5,30,RAV,12,1,Chrysomela scripta,,1,2,9,4,1020904,CHCHRSCR,.,.,3
+.,2025,5,30,RAV,12,1,Curculionidae,,1,2,31,0,1023100,INCOCUR,.,.,3
+.,2025,5,30,RAV,12,34,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,3
+.,2025,5,30,RAV,12,17,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,3
+.,2025,5,30,RAV,12,5,Solenopsis sp.,,1,11,13,5,1111305,FOSOL,.,.,3
+.,2025,5,30,RAV,12,1,Ponera sp.,P. pennsylvanica,1,11,13,55,1111355,INHYFOPO,.,.,3
+.,2025,5,30,RAV,12,2,Dorymyrmex insanus,,1,11,13,54,1111354,DORINS,.,.,3
+.,2025,5,30,RAV,12,1,Acari,,5,2,0,0,5020000,ARACA,.,.,3
+.,2025,5,30,RAV,13,86,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,30,RAV,13,2,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,4
+.,2025,5,30,RAV,13,3,Lepismatidae,,1,42,2,0,1420200,INZYLEP,.,.,4
+.,2025,5,30,RAV,13,19,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,4
+.,2025,5,30,RAV,13,1,Crematogaster cerasi,,1,11,13,16,1111316,FOCRECER,.,.,4
+.,2025,5,30,RAV,13,1,Xysticus sp.,Female,5,1,45,2,5014502,ARTHOXYS,.,.,4
+.,2025,5,30,RAV,13,1,Blapstinus fortis,,1,2,46,48,1024648,TEBLAFOR,.,.,4
+.,2025,5,30,RAV,14,27,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,30,RAV,14,2,Staphylinidae,Scydmaeninae,1,2,17,0,1021700,INCOSTA,.,.,4
+.,2025,5,30,RAV,14,8,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,4
+.,2025,5,30,RAV,14,4,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,4
+.,2025,5,30,RAV,15,43,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,30,RAV,15,1,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,4
+.,2025,5,30,RAV,15,1,Eleodes suturalis,,1,2,46,7,1024607,TEELESUT,.,.,4
+.,2025,5,30,RAV,15,8,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,4
+.,2025,5,30,RAV,16,8,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,30,RAV,16,3,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,4
+.,2025,5,30,RAV,16,2,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,4
+.,2025,5,30,RAV,16,1,Tachyporus sp.,,1,2,17,7,1021707,COSTATAC,.,.,4
+.,2025,5,30,RAV,16,1,Acari,,5,2,0,0,5020000,ARACA,.,.,4
+.,2025,5,30,RAV,17,19,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,30,RAV,17,14,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,5
+.,2025,5,30,RAV,17,1,Hemiptera,Juv,1,75,0,0,1750000,INHE,.,.,5
+.,2025,5,30,RAV,17,3,Tachyporus sp.,,1,2,17,7,1021707,COSTATAC,.,.,5
+.,2025,5,30,RAV,17,1,Lepismatidae,,1,42,2,0,1420200,INZYLEP,.,.,5
+.,2025,5,30,RAV,17,1,Lithobiomorpha,,2,2,0,0,2020000,CHLIT,.,.,5
+.,2025,5,30,RAV,17,7,Collembola,,1,4,0,0,1040000,INCL,.,.,5
+.,2025,5,30,RAV,17,1,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,5
+.,2025,5,30,RAV,18,74,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,30,RAV,18,6,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,5
+.,2025,5,30,RAV,18,9,Pardosa sp.,P. atlantica (7 male 2 female),5,1,24,4,5012404,ARLYCPAR,.,.,5
+.,2025,5,30,RAV,18,1,Dictynidae,? male tiny,5,1,25,0,5012500,ARARADIC,.,.,5
+.,2025,5,30,RAV,19,188,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,30,RAV,19,1,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,5
+.,2025,5,30,RAV,19,27,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,5
+.,2025,5,30,RAV,19,1,Blapstinus fortis,,1,2,46,48,1024648,TEBLAFOR,.,.,5
+.,2025,5,30,RAV,19,1,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,5
+.,2025,5,30,RAV,20,234,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,30,RAV,20,13,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,5
+.,2025,5,30,RAV,20,1,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,5
+.,2025,5,30,RAV,12,1,Dysdera crocata,,5,1,14,2,5011402,ARDYSCRO,.,.,3
+.,2025,5,14,SWFL,1,6,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,14,SWFL,1,7,Formica sp.,,1,11,13,9,1111309,FOFOM,.,.,1
+.,2025,5,14,SWFL,2,1,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,14,SWFL,2,1,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,1
+.,2025,5,14,SWFL,2,2,Xysticus sp.,X. ferox (male),5,1,45,2,5014502,ARTHOXYS,.,.,1
+.,2025,5,14,SWFL,2,87,Monomorium minimum,,1,11,13,17,1111317,FOMONMIN,.,.,1
+.,2025,5,14,SWFL,2,2,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,1
+.,2025,5,14,SWFL,2,1,Blapstinus fortis,,1,2,46,48,1024648,TEBLAFOR,.,.,1
+.,2025,5,14,SWFL,2,1,Myrmeleontidae larva,,1,16,1,1,1160101,NEMYRLA,.,.,1
+.,2025,5,14,SWFL,2,1,Agelenopsis sp.,imm,5,1,1,1,5010101,ARAAGEAGE,.,.,1
+.,2025,5,14,SWFL,3,5,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,14,SWFL,3,13,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,1
+.,2025,5,14,SWFL,3,3,Collembola,,1,4,0,0,1040000,INCL,.,.,1
+.,2025,5,14,SWFL,3,2,Lithobiomorpha,imm,2,2,0,0,2020000,CHLIT,.,.,1
+.,2025,5,14,SWFL,3,1,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,1
+.,2025,5,14,SWFL,3,1,Poecilus lucublandus,,1,2,55,39,1025539,CAPOELUC,.,.,1
+.,2025,5,14,SWFL,3,1,Staphylinidae,(a),1,2,17,0,1021700,INCOSTA,.,.,1
+.,2025,5,14,SWFL,4,5,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,1
+.,2025,5,14,SWFL,4,1,Staphylinidae,,1,2,17,0,1021700,INCOSTA,.,.,1
+.,2025,5,14,SWFL,4,2,Poecilus lucublandus,,1,2,55,39,1025539,CAPOELUC,.,.,1
+.,2025,5,14,SWFL,4,2,Collembola,,1,4,0,0,1040000,INCL,.,.,1
+.,2025,5,14,SWFL,4,1,Tachyporus sp.,,1,2,17,7,1021707,COSTATAC,.,.,1
+.,2025,5,14,SWFL,5,3,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,14,SWFL,5,10,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,2
+.,2025,5,14,SWFL,5,4,Tapinoma sessile,,1,11,13,18,1111318,FOTAPSES,.,.,2
+.,2025,5,14,SWFL,5,2,Acari,,5,2,0,0,5020000,ARACA,.,.,2
+.,2025,5,14,SWFL,6,10,Armadillidium vulgare,rodent scat in trap,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,14,SWFL,6,3,Collembola,,1,4,0,0,1040000,INCL,.,.,2
+.,2025,5,14,SWFL,6,1,Tapinoma sessile,,1,11,13,18,1111318,FOTAPSES,.,.,2
+.,2025,5,14,SWFL,7,2,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,14,SWFL,2,1,Polyxenida,,7,3,0,0,7030000,DIPOX,.,.,1
+.,2025,5,14,SWFL,7,6,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,2
+.,2025,5,14,SWFL,7,1,Corylophidae,Sericoderus lateralis,1,2,47,0,1024700,INCOCOR,.,.,2
+.,2025,5,14,SWFL,7,2,Staphylinidae,(c),1,2,17,0,1021700,INCOSTA,.,.,2
+.,2025,5,14,SWFL,7,1,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,2
+.,2025,5,14,SWFL,7,1,Acari,,5,2,0,0,5020000,ARACA,.,.,2
+.,2025,5,14,SWFL,7,1,Collembola,,1,4,0,0,1040000,INCL,.,.,2
+.,2025,5,14,SWFL,8,18,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,2
+.,2025,5,14,SWFL,8,2,Lithobiomorpha,,2,2,0,0,2020000,CHLIT,.,.,2
+.,2025,5,14,SWFL,8,1,Anthicidae,(Ischyropalpus vs Vacusus),1,2,41,0,1024100,INCOANT,.,.,2
+.,2025,5,14,SWFL,8,3,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,2
+.,2025,5,14,SWFL,8,3,Collembola,,1,4,0,0,1040000,INCL,.,.,2
+.,2025,5,14,SWFL,8,1,Drassyllus sp.,imm,5,1,16,37,5011637,ARGNADRA,.,.,2
+.,2025,5,14,SWFL,9,31,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,14,SWFL,9,14,Collembola,,1,4,0,0,1040000,INCL,.,.,3
+.,2025,5,14,SWFL,9,3,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,3
+.,2025,5,14,SWFL,9,1,Staphylinidae,(d),1,2,17,0,1021700,INCOSTA,.,.,3
+.,2025,5,14,SWFL,9,1,Drassyllus sp.,D. mexicanus? (male),5,1,16,37,5011637,ARGNADRA,.,.,3
+.,2025,5,14,SWFL,9,1,Drassyllus sp.,imm male,5,1,16,37,5011637,ARGNADRA,.,.,3
+.,2025,5,14,SWFL,9,1,Staphylinidae,(d),1,2,17,0,1021700,INCOSTA,.,.,3
+.,2025,5,14,SWFL,9,1,Pardosa sp.,P. atlantica (male),5,1,24,4,5012404,ARLYCPAR,.,.,3
+.,2025,5,14,SWFL,9,2,Staphylinidae,(c),1,2,17,0,1021700,INCOSTA,.,.,3
+.,2025,5,14,SWFL,10,11,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,14,SWFL,10,1,Staphylinidae,(a),1,2,17,0,1021700,INCOSTA,.,.,3
+.,2025,5,14,SWFL,10,1,Poecilus lucublandus,,1,2,55,39,1025539,CAPOELUC,.,.,3
+.,2025,5,14,SWFL,10,2,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,3
+.,2025,5,14,SWFL,10,1,Staphylinidae,(d),1,2,17,0,1021700,INCOSTA,.,.,3
+.,2025,5,14,SWFL,10,3,Collembola,,1,4,0,0,1040000,INCL,.,.,3
+.,2025,5,14,SWFL,11,8,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,14,SWFL,11,1,Linyphiidae,male,5,1,22,0,5012200,ARARALIN,.,.,3
+.,2025,5,14,SWFL,11,1,Zelotes lasalanus,male,5,1,16,9,5011609,GNZELLAS,.,.,3
+.,2025,5,14,SWFL,11,1,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,3
+.,2025,5,14,SWFL,11,1,Psocoptera,,1,22,0,0,1220000,INPS,.,.,3
+.,2025,5,14,SWFL,11,1,Cryptophagus sp.,,1,2,8,1,1020801,COCRYCRY,.,.,3
+.,2025,5,14,SWFL,11,1,Collembola,,1,4,0,0,1040000,INCL,.,.,3
+.,2025,5,14,SWFL,11,2,Staphylinidae,(c),1,2,17,0,1021700,INCOSTA,.,.,3
+.,2025,5,14,SWFL,11,1,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,3
+.,2025,5,14,SWFL,11,1,Acari,,5,2,0,0,5020000,ARACA,.,.,3
+.,2025,5,14,SWFL,12,8,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,3
+.,2025,5,14,SWFL,12,1,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,3
+.,2025,5,14,SWFL,12,1,Poecilus lucublandus,,1,2,55,39,1025539,CAPOELUC,.,.,3
+.,2025,5,14,SWFL,12,1,Aeolus sp.,A. livens,1,2,5,6,1020506,ELAAEO,.,.,3
+.,2025,5,14,SWFL,12,1,Herpyllus sp.,Nr. H. frio (male),5,1,16,12,5011612,ARGNAHER,.,.,3
+.,2025,5,14,SWFL,12,9,Collembola,,1,4,0,0,1040000,INCL,.,.,3
+.,2025,5,14,SWFL,12,6,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,3
+.,2025,5,14,SWFL,12,1,Staphylinidae,(c),1,2,17,0,1021700,INCOSTA,.,.,3
+.,2025,5,14,SWFL,12,1,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,3
+.,2025,5,14,SWFL,12,1,Lithobiomorpha,,2,2,0,0,2020000,CHLIT,.,.,3
+.,2025,5,14,SWFL,13,8,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,14,SWFL,13,1,Blapstinus fortis,,1,2,46,48,1024648,TEBLAFOR,.,.,4
+.,2025,5,14,SWFL,13,1,Agelenopsis sp.,imm,5,1,1,1,5010101,ARAAGEAGE,.,.,4
+.,2025,5,14,SWFL,13,7,Collembola,,1,4,0,0,1040000,INCL,.,.,4
+.,2025,5,14,SWFL,13,6,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,4
+.,2025,5,14,SWFL,13,1,Insecta larva,,1,0,0,1,1000001,INLA,.,.,4
+.,2025,5,14,SWFL,14,5,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,14,SWFL,14,1,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,4
+.,2025,5,14,SWFL,14,1,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,4
+.,2025,5,14,SWFL,14,11,Oribatida,,5,2,1,0,5020100,ARACAORI,.,.,4
+.,2025,5,14,SWFL,14,2,Collembola,,1,4,0,0,1040000,INCL,.,.,4
+.,2025,5,14,SWFL,15,11,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,14,SWFL,15,1,Zelotes lasalanus,female,5,1,16,9,5011609,GNZELLAS,.,.,4
+.,2025,5,14,SWFL,15,1,Xysticus sp.,X. ferox (male),5,1,45,2,5014502,ARTHOXYS,.,.,4
+.,2025,5,14,SWFL,15,1,Allocosa sp.,A. chamberlini (male),5,1,24,3,5012403,ARLYCALL,.,.,4
+.,2025,5,14,SWFL,15,1,Tachyporus sp.,(b),1,2,17,7,1021707,COSTATAC,.,.,4
+.,2025,5,14,SWFL,16,3,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,4
+.,2025,5,14,SWFL,16,1,Chrysomela scripta,,1,2,9,4,1020904,CHCHRSCR,.,.,4
+.,2025,5,14,SWFL,16,1,Lepismatidae,,1,42,2,0,1420200,INZYLEP,.,.,4
+.,2025,5,14,SWFL,16,1,Drassyllus sp.,female,5,1,16,37,5011637,ARGNADRA,.,.,4
+.,2025,5,14,SWFL,16,1,Crematogaster cerasi,,1,11,13,16,1111316,FOCRECER,.,.,4
+.,2025,5,14,SWFL,16,1,Diptera,tiny,1,6,0,0,1060000,INDI,.,.,4
+.,2025,5,14,SWFL,16,4,Collembola,,1,4,0,0,1040000,INCL,.,.,4
+.,2025,5,14,SWFL,16,1,Tachyporus sp.,(b),1,2,17,7,1021707,COSTATAC,.,.,4
+.,2025,5,14,SWFL,17,8,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,14,SWFL,17,2,Chrysomelidae,Paria sp.,1,2,9,0,1020900,INCOCHR,.,.,5
+.,2025,5,14,SWFL,17,2,Tapinoma sessile,,1,11,13,18,1111318,FOTAPSES,.,.,5
+.,2025,5,14,SWFL,17,1,Acari,,5,2,0,0,5020000,ARACA,.,.,5
+.,2025,5,14,SWFL,17,1,Bembidion sp.,,1,2,55,23,1025523,CABEM,.,.,5
+.,2025,5,14,SWFL,17,1,Collembola,,1,4,0,0,1040000,INCL,.,.,5
+.,2025,5,14,SWFL,18,2,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,14,SWFL,18,1,Varacosa sp.,V. glosiuta (female),5,1,24,25,5012425,ARLYCVAR,.,.,5
+.,2025,5,14,SWFL,18,1,Pseudoscorpiones,,5,3,0,0,5030000,ARPSE,.,.,5
+.,2025,5,14,SWFL,18,1,Dictyna sp.,imm,5,1,25,3,5012503,ARDICDIC,.,.,5
+.,2025,5,14,SWFL,19,1,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,5
+.,2025,5,14,SWFL,19,3,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,14,SWFL,19,7,Chrysomela scripta,larvae,1,2,9,4,1020904,CHCHRSCR,.,.,5
+.,2025,5,14,SWFL,19,1,Crematogaster cerasi,,1,11,13,16,1111316,FOCRECER,.,.,5
+.,2025,5,14,SWFL,19,5,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,5
+.,2025,5,14,SWFL,20,6,Armadillidium vulgare,,6,2,2,2,6020202,ARMVUL,.,.,5
+.,2025,5,14,SWFL,20,1,Porcellio laevis,,6,2,1,1,6020101,PORLAE,.,.,5
+.,2025,5,14,SWFL,20,1,Dysdera crocata,female,5,1,14,2,5011402,ARDYSCRO,.,.,5
+.,2025,5,14,SWFL,20,2,Tetramorium sp.,,1,11,13,51,1111351,FOTET,.,.,5

@@ -1,0 +1,66 @@
+Site,Species,Total cover cm,Scientific name,Common name,Life form,Native to U.S.,Duration
+Corrales_RAV,AIAL,1.4700000000000002,Ailanthus altissima,tree of heaven,T,Exotic,Perennial
+Corrales_RAV,AMPS,0.18,Ambrosia psilostachya,Cuman ragweed,F,Native,Perennial
+Corrales_RAV,APCA,0.02,Apocynum cannabinum,Indianhemp,F,Native,Perennial
+Corrales_RAV,BASA,5.61,Baccharis salicina Torr. & A. Gray,willow baccharis,S,Native,Perennial
+Corrales_RAV,BASA/BASA4,0.04,.,.,.,.,.
+Corrales_RAV,BASA4,5.42,Baccharis salicina,Great Plains false willow,S,Native,Perennial
+Corrales_RAV,CAREX,0.28,Carex sp.,sedge,G,Native,Perennial
+Corrales_RAV,CIRSI,0.12,Cirsium sp.,thistle,F,.,.
+Corrales_RAV,COCA5,7.9,Conyza canadensis,Canadian horseweed,F,Native,Annual/Biennial
+Corrales_RAV,CYPER,1.2,Cyperus sp.,flatsedge,G,Native,Unknown
+Corrales_RAV,DISP,0.85,Distichlis spicata,inland saltgrass,G,Perennial,Native
+Corrales_RAV,DISP/MUAS,23.08,Distichlis or Muhlenbergia,scratchgrass or saltgrass,G,Perennial,Native
+Corrales_RAV,ELAN,56.92,Elaeagnus angustifolia,Russian olive,T,Exotic,Perennial
+Corrales_RAV,EQLA,0.4,Equisetum laevigatum,smooth horsetail,F,Native,Perennial
+Corrales_RAV,FOPUP,7.67,Forestiera pubescens var. pubescens,New Mexico olive,S,Native,Perennial
+Corrales_RAV,FORB,0.23,.,Annual dicot seedling,F,Unknown,Annual
+Corrales_RAV,JUARL,0.01,Juncus arcticus,mountain rush,G,Native,Perennial
+Corrales_RAV,JUNCU,6.8100000000000005,Juncus L.,rush,F,Native,Unknown
+Corrales_RAV,MEOF,31.06,Melilotus officinalis,white sweetclover,F,Exotic,Unknown
+Corrales_RAV,MOAL,3.1,Morus alba,white mulberry,T,Exotic,Perennial
+Corrales_RAV,MUAS,1.05,Muhlenbergia asperifolia,scratchgrass,G,Native,Perennial
+Corrales_RAV,PAOB,1.24,Panicum obtusum,vine mesquite,G,Native,Perennial
+Corrales_RAV,PAVI5,0.06999999999999999,Parthenocissus vitacea,thicket creeper,S,Native,perennial
+Corrales_RAV,PODEW,17.93,Populus deltoides ssp. wislizenii,Rio Grande cottonwood,T,Native,Perennial
+Corrales_RAV,POPR,0.01,Poa pratensis,Kentucky bluegrass,G,Unknown,Perennial
+Corrales_RAV,RIAU,0.04,Ribes aureum,golden currant,S,Native,Perennial
+Corrales_RAV,SAEX,19.7,Salix exigua,narrowleaf willow,S,Native,Perennial
+Corrales_RAV,SAGO,1.3900000000000001,Salix gooddingii,Goodding's willow,T,Native,Perennial
+Corrales_RAV,SARA3,34.21,Saccharum ravennae (L.) L.,ravennagrass,G,Exotic,Perennial
+Corrales_RAV,SCAR7,0.1,Schedonorus arundinaceus (Schreb.) Dumort. nom. cons.,tall fescue,G,Exotic,Perennial
+Corrales_RAV,SOAS,0.11,Sonchus asper,spiny sowthistle,F,Exotic,Annual
+Corrales_RAV,TACH2,8.549999999999999,Tamarix chinensis,saltcedar,T,Exotic,Perennial
+Corrales_SWFL,AMPS,0.01,Ambrosia psilostachya,Cuman ragweed,F,Native,Perennial
+Corrales_SWFL,BASA,0.34,Baccharis salicina Torr. & A. Gray,willow baccharis,S,Native,Perennial
+Corrales_SWFL,BASA4,4.62,Baccharis salicina,Great Plains false willow,S,Native,Perennial
+Corrales_SWFL,BASC5,0.28,Bassia scoparia,kochia,F,Exotic,Annual
+Corrales_SWFL,CAPE42,0.6,Carex pellita Muhl. ex Willd.,woolly sedge,G,Native,Perennial
+Corrales_SWFL,CAREX,9.89,Carex sp.,sedge,G,Native,Perennial
+Corrales_SWFL,COCA5,3.07,Conyza canadensis,Canadian horseweed,F,Native,Annual/Biennial
+Corrales_SWFL,DEIL,0.01,Desmanthus illinoensis,Illinois bundleflower,F,Native,Perennial
+Corrales_SWFL,DISP,2.79,Distichlis spicata,inland saltgrass,G,Perennial,Native
+Corrales_SWFL,DISP/MUAS,5.89,Distichlis or Muhlenbergia,scratchgrass or saltgrass,G,Perennial,Native
+Corrales_SWFL,ELAN,127.66,Elaeagnus angustifolia,Russian olive,T,Exotic,Perennial
+Corrales_SWFL,EQLA,0.46,Equisetum laevigatum,smooth horsetail,F,Native,Perennial
+Corrales_SWFL,EQUIS,0.01,Equisetum sp.,horsetail,F,Native,Perennial
+Corrales_SWFL,FOPUP,0.04,Forestiera pubescens var. pubescens,New Mexico olive,S,Native,Perennial
+Corrales_SWFL,FORB,0.1,.,Annual dicot seedling,F,Unknown,Annual
+Corrales_SWFL,FORB1,0.11000000000000001,.,.,.,.,.
+Corrales_SWFL,GRASS,2.12,.,Annual grass,G,Unknown,Annual
+Corrales_SWFL,JUARL,0.3,Juncus arcticus,mountain rush,G,Native,Perennial
+Corrales_SWFL,JUNCU,0.33,Juncus L.,rush,F,Native,Unknown
+Corrales_SWFL,LACTU,0.1,Lactuca L.,lettuce,F,Unknown,Unknown
+Corrales_SWFL,LATAP,0.48000000000000004,Lactuca tatarica var. pulchella,blue lettuce,F,Native,Biennial/Perennial
+Corrales_SWFL,MACA2,0.02,Machaeranthera canescens,hoary tansyaster,F,Native,Annual/Biennial/Perennial
+Corrales_SWFL,MEOF,3.89,Melilotus officinalis,white sweetclover,F,Exotic,Unknown
+Corrales_SWFL,MOAL,0.09,Morus alba,white mulberry,T,Exotic,Perennial
+Corrales_SWFL,MUAS,0.36,Muhlenbergia asperifolia,scratchgrass,G,Native,Perennial
+Corrales_SWFL,PASM,1.2,Pascopyrum smithii,western wheatgrass,G,Native,Perennial
+Corrales_SWFL,PODEW,13.06,Populus deltoides ssp. wislizenii,Rio Grande cottonwood,T,Native,Perennial
+Corrales_SWFL,SAEX,107.26,Salix exigua,narrowleaf willow,S,Native,Perennial
+Corrales_SWFL,SARA3,28.64,Saccharum ravennae (L.) L.,ravennagrass,G,Exotic,Perennial
+Corrales_SWFL,SCPU10,0.05,Schoenoplectus pungens (Vahl) Palla,common threesquare,G,Native,Perennial
+Corrales_SWFL,TACH2,1.23,Tamarix chinensis,saltcedar,T,Exotic,Perennial
+Corrales_SWFL,THPO7,6.88,Thinopyrum ponticum,tall wheatgrass,G,Exotic,Perennial
+Corrales_SWFL,ULPU,2.74,Ulmus pumila,Siberian elm,T,Exotic,Perennial
