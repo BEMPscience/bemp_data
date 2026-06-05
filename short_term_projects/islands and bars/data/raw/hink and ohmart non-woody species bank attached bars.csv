@@ -1,0 +1,49 @@
+Year,Day,Month,Site,Plots,Ground cover percent bare,Ground cover percent litter,Litter Composition order of abundance,Ground cover species 1,Ground cover Species 1 percent,Ground cover species 2,Ground cover Species 2 percent,Ground cover species 3,Ground cover Species 3 percent,Sum of percent ground cover species
+2022,9,9,MinBar1,0E,5,50,Cottonwood,forb,5,tumbleweed,5,grass,30,40
+2022,9,9,MinBar1,0W,0,100,"Coyote willow, cottonwood",Aster,5,forb,2,,,7
+2022,9,9,MinBar1,10E,10,10,.,tumbleweed,5,.,70,,,75
+2022,9,9,MinBar1,10W,15,50,Coyote willow,forb,10,clover,15,grass,10,35
+2022,9,9,MinBar1,20E,15,.,.,grass,60,forb,15,,,75
+2022,9,9,MinBar1,20W,10,90,Coyote willow,grass,2,forb,2,,,4
+2022,9,9,MinBar1,30E,7,65,Coyote willow,ravenna,30,forb,5,,,35
+2022,9,9,MinBar1,30W,2,98,Coyote willow,,,,,,,0
+2022,16,9,MinBar3,0E,2,95,Coyote willow ,Goldenrod,20,Grass,5,,,25
+2022,16,9,MinBar3,0W,50,50,"Coyote willow, cottonwood, fine sticks",,,,,,,0
+2022,16,9,MinBar3,10E,5,95,"Coyote willow, Cottonwood, Small sticks",,,,,,,0
+2022,16,9,MinBar3,10W ,0,100,"Coyote willow, Cottonwood, Sticks",grass,10,,,,,10
+2022,16,9,MinBar3,20E,2,98,"Coyote willow, sticks, Cottonwood",,,,,,,0
+2022,16,9,MinBar3,20W ,5,95,"Coyote willow, sticks, Cottonwood, ",grass,10,Dandelion,5,,,15
+2022,16,9,MinBar3,30E ,65,35,"Coyote willow, sticks, ",Clover,80,.,5,,,85
+2022,16,9,MinBar3,30W,60,40,"Cottonwood, Coyote willow, sticks  ",,,,,,,0
+2022,23,9,HarIsle1,0E,50,45,"Elm, Coyote willow, Cottonwood, sticks",Grass,5,,,,,5
+2022,23,9,HarIsle1,0W,80,10,"Elm, Coyote willow, small sticks",Elm roots,15,,,,,15
+2022,23,9,HarIsle1,10E,25,70,"Elm, Coyote willow, Salt Cedar, Cottonwood ",,,,,,,0
+2022,23,9,HarIsle1,10W,0,100,"Elm, Coyote willow, Cottonwood",Grass,20,,,,,20
+2022,23,9,HarIsle1,20E,0,100,.,,,,,,,0
+2022,23,9,HarIsle1,20W,55,35,"Elm, Sticks, Coyote willow ",,,,,,,0
+2022,23,9,HarIsle1,30E,0,100,"Russian olive, Coyote willow, grass ,sticks",Equisetum,2,Ravenna,30,Bamboo,10,42
+2022,23,9,HarIsle1,30W,5,98,"Coyote willow, grass, sticks",Bamboo,20,Ravenna ,5,,,25
+2022,30,9,HarIsle3,0E,85,15,"Elm, sticks",,,,,,,0
+2022,30,9,HarIsle3,0W,2,95,"Elm Coyote willow, Sticks",Grass ,60,,,,,60
+2022,30,9,HarIsle3,10E,40,60,"Elm Coyote willow, Sticks",,,,,,,0
+2022,30,9,HarIsle3,10W,2,90,"Elm, Russian Olive, Sticks, Coyote willow ",Grass ,10,,,,,10
+2022,30,9,HarIsle3,20E ,2,85,"Coyote willow, Cottonwood, Ravenna, Sticks ",Ravenna ,20,Equisetum,1,,,21
+2022,30,9,HarIsle3,20W ,0,100,"Cottonwood, Coyote willow, Sticks",,,,,,,0
+2022,30,9,HarIsle3,30E,35,40,"Coyote willow, Horsetail, Sticks",Aster,2,Horsetail ,10,Ravenna ,10,22
+2022,30,9,HarIsle3,30W,0,100,"Cottonwood, Coyote willow, Ravenna grass",Ravenna ,60,,,,,60
+2022,14,10,LosIsle1,0E,0,90,"Cottonwood, Sticks, ",,,,,,,0
+2022,14,10,LosIsle1,0W,0,95,"Cottonwood, Grass, Sticks",Equisettum ,30,Grass ,30,Bamboo ,1,61
+2022,14,10,LosIsle1,10E ,0,90,"Cottonwood, Elm, Sticks   ",,,,,,,0
+2022,14,10,LosIsle1,10W,0,98,"Cottonwood, Sticks, Coyote willow  ",Equisetum,2,Aster ,2,,,4
+2022,14,10,LosIsle1,20E,2,90,"Cottonwood, Sticks, Elm ",,,,,,,0
+2022,14,10,LosIsle1,20W,0,100,"Cottonwood, Sticks ",Equisetum,2,,,,,2
+2022,14,10,LosIsle1,30E,0,90,"Cottonwood, Elm, Sticks   ",,,,,,,0
+2022,14,10,LosIsle1,30W,0,95,"Cottonwood, Sticks ",,,,,,,0
+2022,21,10,LosIsle3,0E ,20,75,"Elm, Sticks ",Grass,20,Forb ,5,Ravenna,80,105
+2022,21,10,LosIsle3,0W,2,95,"Grass, Elm, Cottonwood  ",Grass,80,Forb ,5,,,85
+2022,21,10,LosIsle3,10E,10,85,"Elm, Coyote willow, Sticks,  ",Plantain,2,,,,,2
+2022,21,10,LosIsle3,10W,10,85,"Coyote willow, Elm ",,,,,,,0
+2022,21,10,LosIsle3,20E,1,95,"Coyote willow, Cottonwood ",,,,,,,0
+2022,21,10,LosIsle3,20W,4,90,"Coyote willow, Sticks ",Forb,2,,,,,2
+2022,21,10,LosIsle3,30E ,.,90,"Cottonwood, coyote willow, Grass",Grass ,5,Bamboo,5,,,10
+2022,21,10,LosIsle3,30W,.,100,Coyote willow ,Plantain ,60,Grass ,5,.,,65

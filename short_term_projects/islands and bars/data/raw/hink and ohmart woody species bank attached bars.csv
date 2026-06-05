@@ -1,0 +1,76 @@
+Year,Day,Month,Site,Plots,Woody species ,Number,Diameters if over 0.25 in,Height ft
+2022,9,9,MinBar1,0E,Cottonwood,1,6,1.5
+2022,9,9,MinBar1,0W,Cottonwood,1,1,6
+2022,9,9,MinBar1,0W,Coyote  willow,10,2,9
+2022,9,9,MinBar1,0W,Cottonwood,1,0.25,2
+2022,9,9,MinBar1,10E,Goodings willow,1,3,4
+2022,9,9,MinBar1,10E,Cottonwood,1,0.25,3
+2022,9,9,MinBar1,10W,Coyote willow,3,.,7
+2022,9,9,MinBar1,20E,Cottonwood,1,0.8,1.5
+2022,9,9,MinBar1,20W,.,.,.,.
+2022,9,9,MinBar1,30E,Coyote  willow,4,.,7.5
+2022,9,9,MinBar1,30W,Coyote  willow,9,.,12
+2022,16,9,MinBar3,0E,Coyote  willow,1,2.36,15
+2022,16,9,MinBar3,0W,Salt Cedar,3,2.36,15
+2022,16,9,MinBar3,0W,Coyote  willow,10,0.59,10
+2022,16,9,MinBar3,10E,Coyote  willow ,3,0.25,4
+2022,16,9,MinBar3,10E,Cottonwood,1,1.18,12
+2022,16,9,MinBar3,10W ,Coyote  willow ,6,0.4,12
+2022,16,9,MinBar3,20E,Coyote  willow ,15,1,10
+2022,16,9,MinBar3,20W ,Coyote  willow ,10,1,10
+2022,16,9,MinBar3,30E ,Coyote  willow ,6,1,7
+2022,16,9,MinBar3,30W,Coyote  willow ,3,0.787,4
+2022,23,9,HarIsle1,0E,.,.,.,.
+2022,23,9,HarIsle1,0W,Elm,1,4,.
+2022,23,9,HarIsle1,0W,Elm,1,9,.
+2022,23,9,HarIsle1,0W,Elm,1,1,.
+2022,23,9,HarIsle1,10E,Elm,1,4,.
+2022,23,9,HarIsle1,10W,Coyote willow,1,18,.
+2022,23,9,HarIsle1,10W,Salt cedar,1,2,
+2022,23,9,HarIsle1,20E,Coyote willow,7,1.5,.
+2022,23,9,HarIsle1,20E,Cottonwood,1,1.5,.
+2022,23,9,HarIsle1,20E,Cottonwood,1,0.25,.
+2022,23,9,HarIsle1,20W,Elm,1,8,.
+2022,23,9,HarIsle1,20W,Coyote willow,3,2,.
+2022,23,9,HarIsle1,30E,Cottonwood ,1,0.5,.
+2022,23,9,HarIsle1,30E,Cottonwood ,1,0.5,.
+2022,23,9,HarIsle1,30E,Cottonwood ,1,0.25,.
+2022,23,9,HarIsle1,30E,Cottonwood ,1,0.25,.
+2022,23,9,HarIsle1,30E,Cottonwood ,1,0.25,.
+2022,23,9,HarIsle1,30E,Cottonwood ,1,0.25,.
+2022,23,9,HarIsle1,30E,Gooding's willow,1,0.25,.
+2022,23,9,HarIsle1,30W,Coyote willow ,1,1,
+2022,23,9,HarIsle1,30W,Elm,1,0.25,
+2022,30,9,HarIsle3,0E,.,.,.,.
+2022,30,9,HarIsle3,0W,.,,,
+2022,30,9,HarIsle3,10E,Elm,1,10,27.5
+2022,30,9,HarIsle3,10W,.,.,.,.
+2022,30,9,HarIsle3,20E ,Coyote willow ,2,2,7
+2022,30,9,HarIsle3,20W ,.,.,.,.
+2022,30,9,HarIsle3,30E,Coyote willow ,3,1,6
+2022,30,9,HarIsle3,30E,Elm ,1,0.25,2
+2022,30,9,HarIsle3,30E,Russian Olive ,1,1,2
+2022,30,9,HarIsle3,30W,Coyote willow ,1,0.25,3
+2022,30,9,HarIsle3,30W,Cottonwood ,1,0.25,8
+2022,30,9,HarIsle3,30W,Cottonwood ,1,0.25,8
+2022,30,9,HarIsle3,30W,Cottonwood ,1,0.5,8
+2022,30,9,HarIsle3,30W,Cottonwood ,1,0.5,8
+2022,30,9,HarIsle3,30W,Cottonwood ,1,0.5,8
+2022,14,10,LosIsle1,0E,Cottonwood ,1,5,18
+2022,14,10,LosIsle1,0W,Coyote willow ,2,0.25,2
+2022,14,10,LosIsle1,10E ,Elm,1,6,20
+2022,14,10,LosIsle1,10W,Coyote willow ,2,0.25,3
+2022,14,10,LosIsle1,20E,.,.,.,.
+2022,14,10,LosIsle1,20W,.,.,.,.
+2022,14,10,LosIsle1,30E,Cottonwood ,1,0.25,1.5
+2022,14,10,LosIsle1,30W,.,.,.,.
+2022,21,10,LosIsle3,0E ,Elm,1,5,20
+2022,21,10,LosIsle3,0W,Coyote willow ,4,0.25,7
+2022,21,10,LosIsle3,10E,Elm,1,4,25
+2022,21,10,LosIsle3,10E,Coyote willow ,2,0.25,1
+2022,21,10,LosIsle3,10W,Coyote willow ,4,1,.
+2022,21,10,LosIsle3,20E,Coyote willow,7,2,25
+2022,21,10,LosIsle3,20W,Coyote willow ,6,0.5,15
+2022,21,10,LosIsle3,30E ,Coyote willow ,3,2,24
+2022,21,10,LosIsle3,30E ,Cottonwood ,1,6,1.5
+2022,21,10,LosIsle3,30W,Coyote willow ,6,1,12

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Middle_Rio_Grande_Island_Bar_Assessment_GPS (Autosaved).xlsx</name>
+    <Style id="icon-1831-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>MinBar1 North</name>
+      <description><![CDATA[North: 35.193407<br>West: -106.646174]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.193407</value>
+        </Data>
+        <Data name="West">
+          <value>-106.646174</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.646174,35.193407,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MinBar1 South</name>
+      <description><![CDATA[North: 35.193145<br>West: -106.646195]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.193145</value>
+        </Data>
+        <Data name="West">
+          <value>-106.646195</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.646195,35.193145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MinBar3 North</name>
+      <description><![CDATA[North: 35.190787<br>West: -106.647672]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.190787</value>
+        </Data>
+        <Data name="West">
+          <value>-106.647672</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.647672,35.190787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MinBar3 South</name>
+      <description><![CDATA[North: 35.190496<br>West: -106.647661]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.190496</value>
+        </Data>
+        <Data name="West">
+          <value>-106.647661</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.647661,35.190496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HarIsle1 North</name>
+      <description><![CDATA[North: 35.016074<br>West: -106.672272]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.016074</value>
+        </Data>
+        <Data name="West">
+          <value>-106.672272</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.672272,35.016074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HarIsle1 South</name>
+      <description><![CDATA[North: 35.015829<br>West: -106.672304]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.015829</value>
+        </Data>
+        <Data name="West">
+          <value>-106.672304</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.672304,35.015829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HarIsle3 North</name>
+      <description><![CDATA[North: 35.015024<br>West: -106.672021]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.015024</value>
+        </Data>
+        <Data name="West">
+          <value>-106.672021</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.672021,35.015024,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HarIsle3 South</name>
+      <description><![CDATA[North: 35.01476<br>West: -106.672581]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>35.01476</value>
+        </Data>
+        <Data name="West">
+          <value>-106.672581</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.672581,35.01476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LosIsle1 North</name>
+      <description><![CDATA[North: 34.811447<br>West: -106.713413]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>34.811447</value>
+        </Data>
+        <Data name="West">
+          <value>-106.713413</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.713413,34.811447,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LosIsle1 South</name>
+      <description><![CDATA[North: 34.811177<br>West: -106.713400]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>34.811177</value>
+        </Data>
+        <Data name="West">
+          <value>-106.713400</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.7134,34.811177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LosIsle3 North</name>
+      <description><![CDATA[North: 34.809920<br>West: -106.714276]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>34.809920</value>
+        </Data>
+        <Data name="West">
+          <value>-106.714276</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.714276,34.80992,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LosIsle3 South</name>
+      <description><![CDATA[North: 34.809675<br>West: -106.714301]]></description>
+      <styleUrl>#icon-1831-0F9D58-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="North">
+          <value>34.809675</value>
+        </Data>
+        <Data name="West">
+          <value>-106.714301</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.714301,34.809675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
